@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+bcrypt
+python-multipart
+sqlalchemy
+
+
+cd "C:\Users\Admin\Documents\Software Development\ReAdmitAI\Frontend"
