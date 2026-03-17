@@ -1,0 +1,3001 @@
+age,gender,primary_diagnosis,num_procedures,days_in_hospital,comorbidity_score,discharge_to,readmitted
+52,Male,Hypertension,7,8,1,Home,1
+60,Male,Diabetes,14,15,3,Skilled Nursing Facility,0
+55,Male,Heart Disease,2,3,0,Home,1
+69,Female,Heart Disease,14,17,3,Skilled Nursing Facility,0
+56,Female,Hypertension,2,5,0,Home,0
+56,Female,Heart Disease,10,8,3,Skilled Nursing Facility,0
+95,Male,COPD,10,9,3,Rehabilitation Facility,1
+45,Male,Heart Disease,3,4,1,Home Health Care,0
+48,Male,Diabetes,4,5,1,Rehabilitation Facility,0
+56,Female,Heart Disease,8,8,2,Rehabilitation Facility,1
+60,Female,Heart Disease,6,10,0,Home Health Care,0
+58,Female,Diabetes,11,12,3,Skilled Nursing Facility,1
+95,Male,Diabetes,12,12,4,Home Health Care,1
+77,Female,Diabetes,15,12,3,Rehabilitation Facility,1
+76,Male,Diabetes,13,12,4,Skilled Nursing Facility,1
+46,Male,Heart Disease,10,11,1,Home,0
+56,Male,Diabetes,7,7,2,Home Health Care,0
+67,Male,COPD,6,7,2,Home Health Care,1
+51,Female,Heart Disease,1,6,0,Skilled Nursing Facility,1
+71,Male,Kidney Disease,14,13,4,Rehabilitation Facility,1
+69,Male,COPD,6,10,1,Rehabilitation Facility,1
+65,Female,COPD,13,13,3,Skilled Nursing Facility,1
+51,Male,Diabetes,9,9,2,Rehabilitation Facility,1
+42,Male,Diabetes,3,1,1,Home,1
+76,Male,Hypertension,2,3,0,Home Health Care,1
+59,Male,Heart Disease,3,7,0,Home Health Care,0
+60,Female,Diabetes,7,8,2,Home,0
+65,Female,COPD,7,10,2,Skilled Nursing Facility,0
+75,Female,Hypertension,5,3,2,Rehabilitation Facility,0
+62,Female,Kidney Disease,6,7,1,Skilled Nursing Facility,1
+52,Male,Hypertension,4,5,1,Home Health Care,0
+50,Male,COPD,12,12,2,Home Health Care,1
+59,Female,Heart Disease,12,11,4,Skilled Nursing Facility,1
+93,Male,COPD,9,10,2,Home,1
+46,Female,Hypertension,2,4,0,Home,0
+66,Female,Hypertension,0,1,0,Home Health Care,0
+63,Male,Heart Disease,12,12,3,Rehabilitation Facility,1
+74,Male,COPD,11,10,3,Skilled Nursing Facility,1
+66,Male,Kidney Disease,9,12,1,Rehabilitation Facility,0
+68,Male,Kidney Disease,12,11,4,Skilled Nursing Facility,1
+55,Male,COPD,10,14,2,Skilled Nursing Facility,1
+24,Female,Heart Disease,1,3,0,Home,0
+55,Female,COPD,13,14,3,Skilled Nursing Facility,1
+91,Female,Hypertension,5,6,0,Home Health Care,0
+65,Male,Heart Disease,7,10,0,Home Health Care,0
+47,Female,Hypertension,10,11,2,Skilled Nursing Facility,1
+51,Male,Heart Disease,2,3,0,Rehabilitation Facility,0
+42,Male,COPD,7,6,2,Rehabilitation Facility,0
+49,Female,Heart Disease,3,3,1,Home Health Care,1
+71,Female,Hypertension,6,5,4,Rehabilitation Facility,1
+56,Female,COPD,8,8,1,Home Health Care,1
+63,Female,Hypertension,7,8,2,Home,1
+42,Male,COPD,7,9,1,Home,1
+53,Female,Heart Disease,5,8,0,Home,0
+41,Female,COPD,7,9,0,Home,1
+47,Male,COPD,2,2,1,Home,0
+74,Female,COPD,15,17,3,Home Health Care,1
+60,Male,Hypertension,6,7,2,Rehabilitation Facility,0
+65,Female,Kidney Disease,10,10,2,Skilled Nursing Facility,0
+65,Male,Diabetes,8,11,1,Home,0
+60,Female,Diabetes,5,7,3,Home,0
+49,Male,Heart Disease,5,6,1,Rehabilitation Facility,1
+53,Male,Heart Disease,8,10,1,Home,0
+82,Male,Diabetes,8,9,3,Home,0
+71,Female,Kidney Disease,14,15,3,Skilled Nursing Facility,1
+69,Female,Kidney Disease,11,11,3,Skilled Nursing Facility,1
+52,Male,COPD,7,10,1,Home,1
+31,Male,Heart Disease,6,9,0,Home,0
+59,Female,Heart Disease,7,9,3,Skilled Nursing Facility,0
+83,Male,Kidney Disease,9,7,2,Home Health Care,0
+64,Male,Heart Disease,8,11,2,Rehabilitation Facility,1
+52,Female,Diabetes,5,5,0,Home,1
+55,Female,Heart Disease,11,11,3,Rehabilitation Facility,1
+62,Female,Hypertension,9,8,3,Home Health Care,0
+49,Female,Diabetes,5,6,1,Home Health Care,0
+65,Male,Heart Disease,3,8,0,Home,0
+62,Male,COPD,6,6,1,Skilled Nursing Facility,0
+62,Female,Diabetes,4,7,2,Skilled Nursing Facility,1
+60,Male,Heart Disease,13,14,2,Rehabilitation Facility,1
+67,Female,Diabetes,11,10,4,Rehabilitation Facility,1
+72,Female,Hypertension,4,3,2,Rehabilitation Facility,0
+68,Male,Heart Disease,13,14,3,Home Health Care,1
+86,Male,Kidney Disease,10,13,2,Rehabilitation Facility,1
+52,Female,Diabetes,6,5,1,Home Health Care,0
+60,Male,COPD,14,17,3,Rehabilitation Facility,1
+93,Female,Diabetes,8,8,2,Rehabilitation Facility,0
+41,Female,Diabetes,6,5,1,Rehabilitation Facility,1
+53,Female,Hypertension,1,5,1,Home,0
+60,Female,Diabetes,2,1,1,Rehabilitation Facility,1
+34,Female,COPD,0,2,0,Rehabilitation Facility,1
+54,Male,Diabetes,6,6,0,Home,1
+63,Female,Diabetes,3,3,1,Home,0
+68,Female,Heart Disease,5,7,1,Home,1
+84,Male,Heart Disease,8,9,3,Home Health Care,1
+78,Male,Diabetes,9,10,2,Skilled Nursing Facility,0
+69,Male,Diabetes,5,4,1,Rehabilitation Facility,1
+77,Female,Hypertension,3,3,2,Home Health Care,1
+44,Male,Heart Disease,6,8,1,Home Health Care,1
+65,Male,Hypertension,7,6,3,Rehabilitation Facility,1
+67,Female,Hypertension,10,9,4,Rehabilitation Facility,1
+66,Male,Diabetes,4,5,2,Skilled Nursing Facility,0
+54,Male,Diabetes,8,8,2,Rehabilitation Facility,1
+44,Female,Heart Disease,6,9,1,Home Health Care,1
+83,Male,Kidney Disease,6,12,1,Home Health Care,1
+36,Female,Hypertension,2,3,0,Home,0
+57,Male,Hypertension,5,3,1,Rehabilitation Facility,0
+50,Female,Heart Disease,1,4,0,Home,0
+75,Male,Kidney Disease,6,7,0,Home,1
+57,Female,Heart Disease,5,6,1,Rehabilitation Facility,0
+61,Male,COPD,16,16,3,Home Health Care,1
+58,Male,COPD,17,18,3,Skilled Nursing Facility,1
+64,Male,Heart Disease,8,9,2,Home,1
+48,Male,Diabetes,7,8,1,Home,0
+32,Female,Hypertension,0,3,0,Home,0
+78,Female,Heart Disease,10,8,4,Rehabilitation Facility,1
+62,Male,Heart Disease,5,7,1,Home Health Care,0
+51,Male,Heart Disease,11,14,3,Rehabilitation Facility,1
+58,Male,Diabetes,2,2,0,Skilled Nursing Facility,0
+34,Male,Heart Disease,4,6,0,Home,0
+45,Male,Diabetes,3,4,0,Home,0
+54,Female,Kidney Disease,10,13,2,Home Health Care,1
+45,Female,Heart Disease,0,1,0,Home,0
+53,Male,Heart Disease,5,4,1,Home,0
+51,Male,Kidney Disease,6,9,0,Home,0
+66,Male,Hypertension,7,7,3,Skilled Nursing Facility,1
+70,Male,Diabetes,5,2,2,Home,1
+64,Female,Hypertension,5,5,2,Skilled Nursing Facility,1
+59,Male,Diabetes,1,3,0,Home Health Care,1
+86,Female,Diabetes,6,6,2,Skilled Nursing Facility,1
+68,Male,COPD,13,14,2,Home Health Care,1
+48,Female,Kidney Disease,4,7,0,Home,0
+66,Male,Heart Disease,12,12,3,Rehabilitation Facility,1
+50,Female,Hypertension,1,2,0,Home,0
+54,Male,Heart Disease,7,10,0,Home,0
+48,Female,Hypertension,5,8,0,Home,1
+57,Female,Kidney Disease,11,13,1,Home,1
+42,Female,COPD,1,4,0,Home,0
+58,Male,Diabetes,11,12,3,Home,1
+79,Female,Diabetes,12,11,3,Rehabilitation Facility,1
+58,Female,Heart Disease,9,9,1,Home Health Care,1
+70,Female,COPD,10,13,2,Rehabilitation Facility,1
+69,Female,Heart Disease,12,12,2,Skilled Nursing Facility,1
+58,Male,Heart Disease,12,14,3,Home Health Care,0
+63,Male,COPD,9,9,2,Home Health Care,1
+79,Female,Hypertension,7,6,3,Rehabilitation Facility,0
+40,Female,Kidney Disease,10,11,1,Home,1
+78,Male,COPD,8,8,1,Home,0
+72,Male,Diabetes,9,11,3,Skilled Nursing Facility,1
+52,Male,Kidney Disease,7,8,1,Home Health Care,0
+36,Male,Heart Disease,4,9,1,Home Health Care,0
+61,Female,Diabetes,7,8,3,Skilled Nursing Facility,0
+72,Male,COPD,14,14,4,Home Health Care,1
+95,Female,Kidney Disease,17,17,4,Skilled Nursing Facility,1
+66,Female,Heart Disease,12,11,2,Skilled Nursing Facility,1
+66,Female,Diabetes,7,7,2,Rehabilitation Facility,1
+77,Female,Diabetes,2,4,1,Home Health Care,0
+51,Male,Diabetes,4,6,0,Home Health Care,1
+44,Male,Heart Disease,5,6,1,Home Health Care,1
+72,Male,Hypertension,8,7,4,Home Health Care,1
+22,Female,Heart Disease,4,4,1,Home,0
+55,Female,Kidney Disease,10,12,1,Rehabilitation Facility,1
+65,Male,Heart Disease,9,12,1,Rehabilitation Facility,1
+58,Female,Heart Disease,7,4,1,Home Health Care,1
+66,Female,Diabetes,11,13,2,Home Health Care,1
+51,Male,Kidney Disease,7,9,0,Home Health Care,0
+61,Male,Hypertension,3,4,0,Home,0
+58,Female,Diabetes,8,8,3,Rehabilitation Facility,1
+53,Male,COPD,2,6,0,Home,1
+69,Male,Hypertension,6,7,2,Skilled Nursing Facility,1
+43,Male,Hypertension,4,7,1,Home,0
+76,Female,Heart Disease,16,18,3,Rehabilitation Facility,1
+60,Female,Heart Disease,13,12,4,Home,1
+64,Female,Heart Disease,11,10,2,Home,0
+84,Male,Diabetes,5,6,1,Home,0
+56,Female,Kidney Disease,6,9,1,Home Health Care,1
+88,Female,COPD,10,13,2,Skilled Nursing Facility,1
+71,Male,Kidney Disease,4,8,0,Home,1
+68,Male,Kidney Disease,8,13,1,Home Health Care,0
+57,Female,Heart Disease,4,6,1,Rehabilitation Facility,1
+37,Female,Diabetes,5,5,0,Home,0
+39,Female,COPD,6,7,0,Home,0
+69,Female,COPD,15,17,3,Rehabilitation Facility,1
+57,Female,Hypertension,8,7,3,Home,0
+62,Female,Kidney Disease,10,11,2,Rehabilitation Facility,1
+67,Female,Kidney Disease,7,11,1,Rehabilitation Facility,1
+81,Female,Diabetes,6,5,1,Home Health Care,1
+78,Male,Diabetes,9,9,3,Home,1
+47,Male,COPD,4,8,0,Home Health Care,0
+65,Male,Kidney Disease,9,10,0,Home,0
+80,Female,Heart Disease,11,12,3,Skilled Nursing Facility,1
+63,Female,Kidney Disease,6,9,1,Rehabilitation Facility,1
+69,Female,COPD,9,11,2,Home Health Care,1
+37,Male,Heart Disease,5,9,1,Rehabilitation Facility,0
+61,Female,Kidney Disease,11,13,2,Rehabilitation Facility,1
+48,Female,Hypertension,5,6,1,Rehabilitation Facility,0
+67,Male,Hypertension,10,9,2,Home Health Care,0
+61,Male,Diabetes,10,9,3,Skilled Nursing Facility,1
+75,Male,COPD,9,12,2,Skilled Nursing Facility,1
+68,Male,Kidney Disease,9,11,2,Skilled Nursing Facility,1
+54,Female,Diabetes,3,4,0,Home,1
+54,Female,Hypertension,5,6,1,Home,0
+66,Female,Heart Disease,8,8,1,Home Health Care,0
+70,Female,Diabetes,6,7,2,Home,0
+71,Female,COPD,7,9,1,Home Health Care,0
+78,Male,Heart Disease,12,13,2,Home,1
+90,Female,Kidney Disease,15,15,4,Rehabilitation Facility,1
+64,Female,Diabetes,8,12,1,Rehabilitation Facility,1
+63,Male,COPD,6,9,0,Home,1
+54,Female,COPD,8,12,1,Home Health Care,0
+39,Male,Heart Disease,5,4,1,Home,1
+42,Female,Hypertension,5,5,0,Home,0
+68,Female,Heart Disease,10,13,2,Skilled Nursing Facility,1
+66,Female,Heart Disease,6,6,2,Home Health Care,1
+52,Male,Heart Disease,4,3,1,Rehabilitation Facility,0
+64,Female,COPD,6,9,1,Home Health Care,0
+56,Male,Heart Disease,9,12,0,Home Health Care,0
+55,Female,Heart Disease,13,11,4,Skilled Nursing Facility,1
+70,Male,Heart Disease,11,12,3,Home Health Care,1
+77,Male,COPD,2,5,0,Home Health Care,0
+63,Male,COPD,6,9,2,Home,0
+56,Male,Hypertension,9,8,3,Rehabilitation Facility,1
+84,Male,Heart Disease,10,9,2,Home Health Care,1
+59,Female,COPD,10,9,1,Rehabilitation Facility,1
+69,Female,COPD,6,9,1,Home Health Care,0
+67,Male,Hypertension,6,3,1,Home,1
+79,Female,Heart Disease,11,11,3,Home Health Care,1
+63,Male,Diabetes,5,7,0,Home,0
+74,Female,Diabetes,10,10,3,Rehabilitation Facility,1
+72,Male,Hypertension,2,5,0,Home,0
+72,Female,Heart Disease,14,14,4,Home Health Care,1
+80,Male,Kidney Disease,10,11,3,Home Health Care,1
+80,Female,Diabetes,9,9,3,Rehabilitation Facility,1
+74,Female,COPD,14,15,3,Home,1
+51,Female,Hypertension,1,3,0,Home,0
+49,Male,Diabetes,6,8,1,Rehabilitation Facility,0
+67,Male,Diabetes,7,10,0,Home,0
+84,Female,Diabetes,6,7,2,Home,1
+48,Female,COPD,4,6,0,Home,1
+73,Male,Kidney Disease,12,15,2,Home Health Care,1
+70,Male,Heart Disease,15,11,4,Rehabilitation Facility,1
+47,Female,Diabetes,5,8,1,Home Health Care,0
+72,Female,Diabetes,7,8,2,Home,0
+36,Female,Hypertension,0,1,0,Home,0
+70,Male,COPD,14,14,3,Rehabilitation Facility,1
+74,Male,Diabetes,9,10,2,Rehabilitation Facility,1
+55,Female,Kidney Disease,12,13,2,Rehabilitation Facility,1
+67,Male,COPD,9,9,3,Home Health Care,1
+36,Female,Diabetes,0,1,0,Home Health Care,0
+47,Male,COPD,7,8,0,Home,1
+43,Male,COPD,8,11,1,Home,0
+54,Male,Heart Disease,4,5,0,Home,0
+87,Female,Hypertension,10,9,3,Rehabilitation Facility,1
+39,Male,Diabetes,3,5,1,Home Health Care,1
+69,Male,COPD,4,6,1,Home Health Care,0
+56,Female,Heart Disease,7,10,1,Home,0
+69,Female,Diabetes,7,6,3,Skilled Nursing Facility,1
+58,Male,COPD,7,10,1,Home Health Care,0
+54,Male,Kidney Disease,11,14,2,Skilled Nursing Facility,0
+49,Female,Heart Disease,7,7,2,Rehabilitation Facility,0
+77,Female,COPD,11,13,3,Skilled Nursing Facility,1
+68,Female,Heart Disease,7,7,1,Home,1
+65,Male,Heart Disease,7,10,2,Home Health Care,1
+71,Male,Hypertension,0,1,0,Home,0
+69,Female,Heart Disease,12,11,2,Rehabilitation Facility,1
+40,Female,Diabetes,6,7,1,Home Health Care,0
+76,Male,Kidney Disease,9,9,3,Skilled Nursing Facility,1
+88,Female,Diabetes,9,8,3,Skilled Nursing Facility,1
+68,Female,COPD,11,15,2,Rehabilitation Facility,1
+85,Male,Kidney Disease,13,13,3,Home Health Care,1
+73,Male,Hypertension,11,7,3,Skilled Nursing Facility,1
+65,Male,Diabetes,12,13,3,Skilled Nursing Facility,1
+50,Female,Heart Disease,11,12,2,Home Health Care,0
+50,Male,Diabetes,5,8,1,Home Health Care,1
+57,Female,Heart Disease,12,12,3,Skilled Nursing Facility,1
+78,Male,Kidney Disease,2,4,0,Home,0
+92,Female,COPD,13,14,4,Skilled Nursing Facility,1
+54,Male,Diabetes,11,10,2,Rehabilitation Facility,0
+69,Female,Kidney Disease,14,15,3,Home,1
+30,Female,Hypertension,7,8,1,Home,0
+49,Male,Kidney Disease,4,6,1,Home,0
+61,Female,Heart Disease,12,14,3,Skilled Nursing Facility,1
+78,Male,Diabetes,4,6,1,Home,1
+68,Male,COPD,6,5,2,Home Health Care,1
+69,Male,Heart Disease,7,9,1,Home,0
+60,Female,Heart Disease,7,8,2,Rehabilitation Facility,0
+75,Male,Diabetes,7,9,2,Rehabilitation Facility,0
+54,Male,COPD,14,15,3,Skilled Nursing Facility,1
+33,Female,Diabetes,2,6,0,Home,0
+69,Male,Hypertension,8,8,1,Rehabilitation Facility,1
+65,Female,COPD,8,11,2,Home Health Care,1
+69,Male,Kidney Disease,8,9,3,Skilled Nursing Facility,1
+50,Male,Kidney Disease,6,10,0,Skilled Nursing Facility,0
+87,Male,COPD,12,10,3,Home Health Care,1
+95,Female,Diabetes,13,14,3,Rehabilitation Facility,1
+34,Female,Kidney Disease,9,11,0,Home,0
+54,Female,Diabetes,7,9,0,Home Health Care,0
+53,Male,Hypertension,4,6,1,Home,1
+36,Male,Hypertension,5,7,0,Home,0
+62,Male,Hypertension,4,4,1,Home,1
+61,Female,Heart Disease,7,7,1,Home,1
+84,Female,Heart Disease,9,10,2,Rehabilitation Facility,1
+92,Female,Heart Disease,12,13,4,Home Health Care,1
+61,Male,Diabetes,7,10,1,Home Health Care,0
+82,Female,Hypertension,6,6,2,Rehabilitation Facility,1
+68,Female,COPD,5,7,0,Home,0
+59,Female,COPD,12,11,2,Rehabilitation Facility,1
+52,Female,Heart Disease,4,6,1,Rehabilitation Facility,1
+69,Male,Heart Disease,6,11,0,Skilled Nursing Facility,1
+80,Male,Kidney Disease,13,15,3,Home,1
+73,Male,Diabetes,5,5,2,Rehabilitation Facility,0
+63,Male,Diabetes,6,8,2,Home,1
+46,Male,Diabetes,8,7,2,Home Health Care,0
+81,Female,Heart Disease,13,13,3,Rehabilitation Facility,1
+75,Female,Diabetes,11,10,3,Home,0
+64,Female,Hypertension,6,5,2,Rehabilitation Facility,1
+65,Female,Heart Disease,3,5,1,Home Health Care,1
+55,Male,Diabetes,9,8,2,Home Health Care,0
+50,Male,Hypertension,4,3,0,Home Health Care,0
+67,Male,Diabetes,2,5,0,Home,0
+46,Male,Hypertension,5,1,1,Skilled Nursing Facility,1
+50,Male,COPD,8,11,1,Rehabilitation Facility,0
+83,Male,Diabetes,7,4,3,Skilled Nursing Facility,1
+53,Male,Hypertension,9,7,3,Skilled Nursing Facility,1
+41,Male,COPD,5,9,0,Home,0
+50,Female,Diabetes,2,3,0,Home,0
+54,Male,Heart Disease,3,4,0,Home,1
+76,Female,Diabetes,9,10,4,Skilled Nursing Facility,1
+60,Male,Heart Disease,8,11,2,Rehabilitation Facility,1
+35,Female,Kidney Disease,6,8,0,Rehabilitation Facility,0
+95,Female,Diabetes,8,10,2,Skilled Nursing Facility,1
+41,Male,COPD,5,8,1,Home,1
+64,Male,Hypertension,10,11,3,Home,0
+58,Female,Kidney Disease,5,6,1,Home Health Care,1
+76,Male,Diabetes,7,6,4,Rehabilitation Facility,1
+58,Male,Diabetes,4,8,1,Home Health Care,0
+75,Male,Diabetes,6,5,2,Home Health Care,0
+65,Male,Kidney Disease,9,12,3,Rehabilitation Facility,1
+60,Male,Diabetes,11,11,2,Skilled Nursing Facility,1
+56,Female,Hypertension,3,3,1,Home,1
+33,Female,Heart Disease,1,3,0,Home Health Care,0
+55,Female,Kidney Disease,4,7,0,Home,0
+69,Female,COPD,3,5,0,Home,0
+69,Female,Kidney Disease,6,7,2,Skilled Nursing Facility,1
+65,Male,Heart Disease,6,8,3,Skilled Nursing Facility,1
+55,Female,COPD,10,13,2,Home Health Care,1
+71,Male,Heart Disease,11,11,4,Rehabilitation Facility,0
+70,Male,Hypertension,8,6,3,Home,0
+75,Male,Diabetes,7,8,2,Skilled Nursing Facility,1
+92,Male,COPD,6,10,1,Home,0
+64,Female,Kidney Disease,11,14,2,Home,1
+57,Male,Heart Disease,14,16,2,Rehabilitation Facility,1
+47,Male,Diabetes,0,2,0,Rehabilitation Facility,0
+71,Female,Diabetes,8,10,3,Home,1
+50,Male,Heart Disease,3,4,1,Home Health Care,0
+49,Male,Hypertension,8,9,2,Home Health Care,0
+66,Male,Kidney Disease,9,11,1,Skilled Nursing Facility,1
+53,Male,Hypertension,6,7,1,Home,0
+65,Male,Heart Disease,8,8,3,Skilled Nursing Facility,1
+65,Male,Diabetes,3,4,1,Home,0
+78,Male,Heart Disease,3,7,0,Home,1
+61,Female,Kidney Disease,7,5,2,Skilled Nursing Facility,1
+64,Female,Hypertension,4,4,1,Home,0
+60,Female,Hypertension,11,9,3,Skilled Nursing Facility,1
+73,Male,Kidney Disease,17,17,3,Rehabilitation Facility,1
+78,Female,COPD,12,14,2,Rehabilitation Facility,1
+61,Male,Heart Disease,7,11,2,Home,1
+60,Male,Heart Disease,2,4,0,Home,0
+61,Male,Kidney Disease,13,13,4,Home Health Care,1
+67,Female,Kidney Disease,11,13,1,Home Health Care,0
+78,Female,Heart Disease,15,13,4,Skilled Nursing Facility,1
+50,Male,Diabetes,3,5,0,Home,0
+48,Female,Kidney Disease,6,7,1,Skilled Nursing Facility,1
+75,Female,Heart Disease,13,14,4,Home,1
+81,Female,Heart Disease,9,12,2,Home Health Care,1
+53,Female,Kidney Disease,9,12,0,Home,0
+70,Male,COPD,14,16,4,Skilled Nursing Facility,1
+44,Male,Heart Disease,5,6,0,Home,0
+62,Male,COPD,11,14,1,Rehabilitation Facility,1
+79,Male,Diabetes,13,12,4,Rehabilitation Facility,1
+84,Male,Hypertension,14,13,4,Rehabilitation Facility,1
+85,Male,Hypertension,6,7,0,Home,0
+69,Female,Heart Disease,11,12,3,Skilled Nursing Facility,1
+44,Female,Heart Disease,0,4,0,Home Health Care,1
+66,Female,COPD,7,9,2,Home Health Care,0
+30,Female,Heart Disease,2,4,0,Home,0
+66,Male,Hypertension,6,4,2,Rehabilitation Facility,0
+73,Male,Heart Disease,6,6,1,Home,0
+51,Male,Heart Disease,7,11,0,Home Health Care,0
+67,Female,Heart Disease,6,9,0,Home,0
+61,Female,Kidney Disease,9,10,2,Home Health Care,1
+79,Male,Diabetes,9,9,2,Skilled Nursing Facility,1
+55,Female,Diabetes,5,5,2,Rehabilitation Facility,0
+70,Male,Heart Disease,6,6,1,Home,1
+50,Female,Diabetes,5,7,2,Rehabilitation Facility,1
+52,Female,COPD,7,10,1,Rehabilitation Facility,1
+59,Female,Heart Disease,4,8,1,Home,0
+59,Male,Heart Disease,7,9,2,Rehabilitation Facility,0
+80,Female,Diabetes,12,14,3,Skilled Nursing Facility,1
+43,Male,Heart Disease,7,10,1,Skilled Nursing Facility,0
+53,Female,Kidney Disease,4,6,0,Home,0
+53,Female,Hypertension,4,3,1,Home,0
+59,Male,COPD,13,14,3,Skilled Nursing Facility,1
+69,Female,Heart Disease,5,6,1,Home,0
+31,Male,Heart Disease,1,3,0,Home,0
+62,Female,Kidney Disease,11,14,3,Rehabilitation Facility,1
+57,Female,Heart Disease,3,4,0,Home,0
+75,Male,COPD,6,8,0,Home,0
+62,Male,Hypertension,4,4,1,Home,0
+80,Male,Heart Disease,6,5,2,Skilled Nursing Facility,1
+67,Female,Heart Disease,12,10,2,Skilled Nursing Facility,1
+46,Female,Diabetes,7,7,1,Home,1
+79,Female,Diabetes,0,1,0,Home,1
+45,Female,Kidney Disease,6,9,0,Home,0
+66,Male,Diabetes,10,11,2,Home Health Care,1
+79,Female,Hypertension,6,4,3,Rehabilitation Facility,1
+66,Female,COPD,12,16,2,Skilled Nursing Facility,1
+36,Male,Diabetes,6,4,1,Home Health Care,0
+62,Male,Heart Disease,9,12,1,Home,0
+88,Male,COPD,11,13,4,Home Health Care,1
+47,Male,Kidney Disease,5,7,0,Home,0
+90,Female,Heart Disease,10,10,3,Home Health Care,1
+59,Male,COPD,8,9,1,Home Health Care,0
+74,Male,Kidney Disease,13,13,4,Skilled Nursing Facility,1
+57,Female,Kidney Disease,6,11,0,Home Health Care,1
+58,Female,Hypertension,4,6,1,Skilled Nursing Facility,0
+88,Female,Kidney Disease,10,11,2,Home Health Care,1
+40,Male,COPD,6,7,1,Home Health Care,0
+63,Female,COPD,3,5,0,Home,0
+70,Female,Diabetes,7,7,2,Skilled Nursing Facility,1
+54,Male,Diabetes,5,7,2,Skilled Nursing Facility,1
+70,Female,COPD,13,15,3,Home,1
+57,Female,COPD,7,8,1,Home,0
+51,Female,Hypertension,2,2,1,Home,1
+34,Female,COPD,4,5,1,Skilled Nursing Facility,0
+70,Female,Heart Disease,5,7,1,Skilled Nursing Facility,1
+67,Male,Diabetes,10,10,1,Home Health Care,1
+43,Male,Diabetes,3,6,0,Home Health Care,0
+55,Female,Heart Disease,3,9,1,Rehabilitation Facility,1
+71,Male,Heart Disease,7,6,0,Home,0
+79,Female,Kidney Disease,9,12,3,Skilled Nursing Facility,1
+60,Male,Diabetes,9,9,2,Home Health Care,0
+69,Female,Heart Disease,5,7,0,Home,0
+72,Female,Hypertension,7,8,2,Rehabilitation Facility,0
+74,Male,Diabetes,11,10,3,Rehabilitation Facility,1
+57,Female,Kidney Disease,10,14,2,Home Health Care,1
+53,Male,COPD,6,10,0,Home,0
+62,Male,Diabetes,7,4,3,Skilled Nursing Facility,1
+60,Male,Diabetes,5,5,2,Rehabilitation Facility,0
+72,Female,Heart Disease,12,11,3,Skilled Nursing Facility,1
+73,Male,Hypertension,6,8,1,Home Health Care,0
+30,Female,Heart Disease,3,5,1,Home,0
+78,Female,Heart Disease,13,13,3,Skilled Nursing Facility,1
+45,Male,Diabetes,0,1,0,Home,1
+61,Male,Kidney Disease,11,13,2,Home,1
+59,Male,COPD,9,10,4,Skilled Nursing Facility,1
+66,Female,Heart Disease,11,11,3,Home,1
+63,Male,Heart Disease,5,8,1,Skilled Nursing Facility,0
+62,Male,Kidney Disease,7,8,1,Home Health Care,1
+57,Male,Heart Disease,7,9,1,Skilled Nursing Facility,0
+53,Male,Heart Disease,9,11,1,Skilled Nursing Facility,1
+45,Female,Hypertension,3,1,1,Home,0
+58,Female,Heart Disease,10,10,2,Home,1
+47,Female,Heart Disease,8,8,2,Home,0
+48,Male,Heart Disease,8,8,1,Home Health Care,1
+65,Male,Diabetes,6,8,2,Rehabilitation Facility,1
+52,Male,Diabetes,3,4,1,Skilled Nursing Facility,0
+75,Female,COPD,6,8,1,Home Health Care,1
+35,Male,Heart Disease,6,7,1,Rehabilitation Facility,1
+77,Male,Diabetes,5,9,2,Home Health Care,1
+48,Female,Kidney Disease,7,9,1,Home,1
+55,Female,Diabetes,0,1,1,Home,1
+54,Female,COPD,9,8,2,Home,0
+33,Male,Hypertension,0,1,0,Home,0
+77,Female,Heart Disease,9,9,3,Home Health Care,1
+47,Male,Hypertension,3,5,0,Home Health Care,0
+84,Female,Diabetes,6,7,2,Skilled Nursing Facility,0
+52,Male,Hypertension,1,3,0,Home,0
+75,Male,Heart Disease,14,16,4,Skilled Nursing Facility,1
+59,Female,Heart Disease,5,6,2,Rehabilitation Facility,0
+53,Female,Diabetes,7,8,1,Home,0
+65,Female,Heart Disease,13,13,2,Rehabilitation Facility,1
+68,Female,Diabetes,13,12,3,Skilled Nursing Facility,1
+90,Female,Heart Disease,7,7,2,Home,1
+47,Female,Kidney Disease,6,9,0,Home,0
+58,Male,COPD,5,8,2,Home Health Care,0
+77,Female,Kidney Disease,18,17,4,Home,1
+58,Male,Hypertension,5,5,1,Home,0
+68,Male,COPD,14,16,2,Skilled Nursing Facility,1
+59,Female,COPD,12,14,2,Rehabilitation Facility,0
+51,Female,Heart Disease,7,10,0,Home,0
+68,Male,COPD,9,12,1,Home Health Care,1
+74,Female,Heart Disease,10,11,3,Skilled Nursing Facility,1
+45,Female,Diabetes,5,7,0,Home Health Care,1
+31,Male,Kidney Disease,5,9,0,Home Health Care,0
+49,Male,Diabetes,9,9,2,Home,0
+70,Male,Hypertension,10,8,3,Home Health Care,1
+62,Female,Heart Disease,10,11,2,Skilled Nursing Facility,1
+66,Female,Kidney Disease,1,4,0,Home,0
+62,Female,Heart Disease,4,6,0,Home,0
+64,Male,Heart Disease,7,10,1,Home,0
+61,Male,Hypertension,9,7,2,Home Health Care,1
+41,Male,Kidney Disease,5,7,0,Home,0
+63,Female,Kidney Disease,11,13,2,Rehabilitation Facility,1
+57,Male,Heart Disease,6,8,1,Home Health Care,1
+83,Female,Diabetes,9,9,3,Home Health Care,1
+56,Male,COPD,1,1,0,Home,1
+71,Male,Heart Disease,9,9,2,Rehabilitation Facility,1
+57,Female,COPD,8,10,0,Home,0
+76,Male,Heart Disease,7,10,1,Home,0
+47,Female,Diabetes,2,3,0,Home,1
+54,Male,Heart Disease,11,11,1,Rehabilitation Facility,0
+68,Female,Kidney Disease,10,12,2,Rehabilitation Facility,1
+53,Male,Heart Disease,7,8,1,Rehabilitation Facility,0
+45,Male,Heart Disease,5,6,0,Home,0
+65,Male,Diabetes,6,9,1,Rehabilitation Facility,0
+66,Female,Diabetes,10,11,1,Home,1
+56,Female,COPD,10,13,1,Home,0
+63,Female,Kidney Disease,12,14,2,Home Health Care,0
+94,Female,Diabetes,5,7,1,Home,0
+68,Female,Diabetes,1,2,1,Home,0
+56,Male,Heart Disease,8,12,2,Skilled Nursing Facility,1
+38,Male,COPD,10,14,1,Rehabilitation Facility,1
+75,Female,Kidney Disease,14,14,4,Skilled Nursing Facility,1
+95,Female,Heart Disease,16,15,3,Skilled Nursing Facility,1
+39,Male,Heart Disease,9,8,1,Home,1
+48,Female,COPD,2,4,0,Rehabilitation Facility,1
+68,Female,Heart Disease,9,8,2,Skilled Nursing Facility,1
+95,Female,Heart Disease,9,7,4,Rehabilitation Facility,1
+54,Female,Heart Disease,8,10,0,Home,0
+67,Female,Heart Disease,9,10,2,Home,0
+64,Female,Diabetes,6,6,2,Home Health Care,0
+59,Female,Diabetes,5,5,1,Home,0
+45,Male,Diabetes,9,10,2,Skilled Nursing Facility,1
+45,Male,Diabetes,4,5,0,Home,0
+74,Female,Hypertension,7,6,3,Home Health Care,1
+79,Male,Heart Disease,7,11,1,Rehabilitation Facility,1
+49,Male,Heart Disease,13,14,3,Rehabilitation Facility,1
+56,Female,Diabetes,10,13,3,Skilled Nursing Facility,1
+69,Male,COPD,10,12,2,Home Health Care,1
+33,Female,COPD,7,7,1,Skilled Nursing Facility,1
+45,Male,COPD,4,8,1,Rehabilitation Facility,1
+42,Male,Heart Disease,6,8,0,Home,0
+35,Female,Hypertension,2,4,0,Home,0
+48,Female,Heart Disease,4,6,1,Rehabilitation Facility,0
+63,Female,COPD,6,10,0,Home,0
+72,Male,Diabetes,7,8,2,Skilled Nursing Facility,1
+50,Male,Heart Disease,6,8,1,Skilled Nursing Facility,1
+60,Male,Diabetes,8,11,2,Home Health Care,0
+56,Female,COPD,9,13,2,Skilled Nursing Facility,1
+56,Female,Hypertension,11,9,3,Home,0
+58,Female,Hypertension,8,5,3,Skilled Nursing Facility,0
+59,Female,COPD,5,7,0,Home,0
+62,Female,Diabetes,7,6,2,Rehabilitation Facility,1
+66,Male,COPD,4,6,1,Home Health Care,1
+47,Female,Diabetes,4,7,0,Home,0
+74,Male,Hypertension,13,12,4,Home Health Care,1
+81,Male,Kidney Disease,7,10,1,Home Health Care,1
+66,Male,Kidney Disease,8,8,1,Rehabilitation Facility,0
+68,Female,Heart Disease,15,15,4,Home Health Care,1
+63,Female,COPD,9,10,3,Home,0
+58,Male,Heart Disease,9,9,2,Skilled Nursing Facility,0
+44,Male,Diabetes,3,3,1,Home,0
+39,Female,Hypertension,4,5,0,Home,0
+70,Female,Diabetes,7,8,2,Home Health Care,1
+33,Male,Hypertension,0,1,0,Home,0
+62,Female,Diabetes,9,11,2,Home Health Care,1
+48,Female,Heart Disease,5,9,0,Home Health Care,0
+46,Female,Diabetes,3,4,0,Home,0
+67,Male,Diabetes,6,4,2,Skilled Nursing Facility,1
+43,Male,Diabetes,1,6,0,Home,0
+63,Female,Hypertension,5,8,1,Home Health Care,0
+72,Female,Kidney Disease,13,15,4,Rehabilitation Facility,1
+40,Male,Heart Disease,8,10,2,Rehabilitation Facility,0
+46,Male,COPD,5,8,0,Home,0
+68,Male,Heart Disease,10,10,3,Skilled Nursing Facility,1
+74,Male,COPD,10,11,2,Rehabilitation Facility,1
+79,Female,COPD,13,11,4,Skilled Nursing Facility,1
+86,Male,Diabetes,6,8,0,Home,1
+49,Female,Heart Disease,8,9,2,Rehabilitation Facility,1
+84,Male,Hypertension,11,11,3,Skilled Nursing Facility,1
+76,Male,COPD,6,7,1,Home,0
+44,Male,Kidney Disease,12,14,2,Rehabilitation Facility,1
+47,Female,Kidney Disease,8,10,2,Skilled Nursing Facility,0
+94,Male,COPD,2,4,0,Home Health Care,1
+59,Female,Diabetes,13,16,2,Skilled Nursing Facility,1
+54,Male,Heart Disease,8,10,1,Home Health Care,1
+44,Female,Heart Disease,5,7,0,Home,1
+48,Female,Diabetes,5,7,0,Home,0
+65,Male,COPD,5,6,1,Home,0
+65,Male,Diabetes,6,7,2,Skilled Nursing Facility,0
+58,Female,Diabetes,0,1,0,Home,0
+56,Male,COPD,5,9,1,Rehabilitation Facility,1
+54,Female,Heart Disease,6,5,0,Home,0
+51,Female,Heart Disease,3,4,0,Home,1
+60,Male,Heart Disease,5,6,1,Home,0
+76,Male,COPD,7,9,1,Home Health Care,0
+76,Female,Heart Disease,15,14,4,Rehabilitation Facility,1
+75,Female,Kidney Disease,11,12,2,Home Health Care,1
+64,Female,Diabetes,7,8,2,Rehabilitation Facility,1
+72,Male,Hypertension,5,5,2,Rehabilitation Facility,1
+63,Female,COPD,11,9,2,Home Health Care,1
+87,Female,Hypertension,5,6,3,Rehabilitation Facility,1
+70,Male,COPD,11,11,2,Skilled Nursing Facility,1
+75,Male,COPD,10,10,3,Home Health Care,1
+72,Male,Diabetes,12,12,4,Skilled Nursing Facility,1
+77,Female,Diabetes,7,8,2,Skilled Nursing Facility,1
+60,Female,COPD,7,10,1,Home Health Care,1
+37,Male,COPD,4,5,1,Home Health Care,1
+49,Female,COPD,4,6,1,Home,0
+73,Female,Heart Disease,12,13,2,Rehabilitation Facility,1
+69,Female,Heart Disease,11,12,3,Skilled Nursing Facility,1
+48,Male,COPD,5,8,0,Home,0
+62,Male,Hypertension,11,9,4,Home Health Care,1
+50,Male,Heart Disease,1,2,0,Home,0
+70,Male,Heart Disease,3,4,0,Home,1
+76,Male,Diabetes,9,7,3,Skilled Nursing Facility,1
+72,Male,Heart Disease,11,13,3,Skilled Nursing Facility,1
+47,Male,Diabetes,3,3,0,Home,0
+59,Female,COPD,5,7,1,Home Health Care,1
+58,Female,COPD,6,7,1,Home,0
+64,Male,Heart Disease,8,7,2,Home Health Care,0
+66,Female,Heart Disease,8,9,1,Home Health Care,1
+71,Female,Heart Disease,5,5,1,Home Health Care,1
+79,Female,Diabetes,15,14,4,Home Health Care,1
+80,Male,Heart Disease,8,7,3,Home Health Care,1
+47,Female,Diabetes,7,8,1,Home,1
+42,Male,COPD,0,5,0,Home Health Care,1
+79,Female,Kidney Disease,13,14,3,Rehabilitation Facility,1
+75,Male,COPD,7,9,2,Rehabilitation Facility,0
+54,Female,Heart Disease,7,6,1,Home Health Care,0
+66,Female,Diabetes,5,5,2,Home,0
+37,Female,Heart Disease,4,6,0,Home,0
+42,Female,Heart Disease,5,8,1,Home,0
+65,Female,Hypertension,6,6,2,Skilled Nursing Facility,0
+63,Male,Diabetes,11,7,2,Rehabilitation Facility,0
+84,Male,Heart Disease,9,11,3,Skilled Nursing Facility,1
+78,Male,Hypertension,10,11,3,Home Health Care,1
+36,Female,COPD,3,5,0,Home,0
+72,Male,Heart Disease,15,15,3,Rehabilitation Facility,1
+54,Male,Diabetes,2,5,0,Home,0
+44,Male,Hypertension,6,7,2,Home Health Care,0
+45,Male,Heart Disease,3,5,0,Home,0
+74,Male,Heart Disease,5,5,1,Home,0
+95,Male,Diabetes,9,7,4,Skilled Nursing Facility,1
+73,Female,Heart Disease,4,8,1,Home Health Care,0
+47,Male,Heart Disease,6,9,1,Skilled Nursing Facility,1
+71,Female,Diabetes,7,7,3,Rehabilitation Facility,1
+49,Female,Hypertension,4,3,1,Home,0
+82,Female,Hypertension,6,6,2,Rehabilitation Facility,1
+84,Female,Kidney Disease,15,14,4,Skilled Nursing Facility,1
+73,Male,Heart Disease,11,12,3,Skilled Nursing Facility,1
+74,Male,Heart Disease,9,11,2,Skilled Nursing Facility,1
+87,Male,Heart Disease,11,10,3,Home Health Care,1
+49,Male,Heart Disease,5,6,1,Rehabilitation Facility,1
+40,Male,Heart Disease,10,11,2,Rehabilitation Facility,0
+42,Female,Heart Disease,5,6,0,Skilled Nursing Facility,1
+49,Female,Kidney Disease,3,5,0,Home,0
+69,Male,COPD,6,7,2,Rehabilitation Facility,0
+65,Male,COPD,9,8,3,Home Health Care,1
+55,Male,Kidney Disease,13,14,3,Skilled Nursing Facility,1
+54,Female,Heart Disease,7,7,1,Home,0
+46,Male,Diabetes,4,5,1,Home Health Care,0
+55,Female,Heart Disease,7,9,1,Home Health Care,0
+86,Female,Hypertension,8,6,2,Skilled Nursing Facility,0
+56,Male,Hypertension,9,9,2,Home,1
+32,Male,Kidney Disease,9,12,1,Home,0
+47,Female,Diabetes,2,4,0,Home,0
+57,Male,Heart Disease,6,9,1,Skilled Nursing Facility,1
+49,Female,Heart Disease,10,12,1,Home,0
+43,Female,Hypertension,2,2,1,Home,1
+55,Female,Heart Disease,1,2,0,Home,1
+69,Female,Diabetes,1,2,1,Rehabilitation Facility,1
+59,Male,Heart Disease,13,11,3,Skilled Nursing Facility,1
+72,Female,Diabetes,9,9,2,Rehabilitation Facility,1
+64,Male,Kidney Disease,11,13,1,Home Health Care,1
+51,Male,Heart Disease,4,6,1,Rehabilitation Facility,0
+94,Female,Kidney Disease,13,16,4,Rehabilitation Facility,1
+24,Female,Heart Disease,7,10,1,Home Health Care,0
+75,Female,Kidney Disease,11,12,3,Skilled Nursing Facility,1
+56,Male,Heart Disease,10,10,3,Skilled Nursing Facility,1
+55,Male,COPD,8,11,1,Rehabilitation Facility,1
+45,Female,COPD,5,9,0,Home,0
+61,Male,COPD,6,6,1,Home Health Care,1
+58,Female,COPD,5,4,1,Rehabilitation Facility,0
+87,Female,COPD,10,15,1,Rehabilitation Facility,1
+50,Female,Heart Disease,7,9,0,Home,1
+58,Male,Kidney Disease,13,13,4,Rehabilitation Facility,1
+32,Male,Kidney Disease,10,14,0,Home,0
+60,Female,Diabetes,2,4,1,Home,0
+67,Female,Diabetes,4,4,2,Skilled Nursing Facility,1
+71,Male,COPD,11,14,1,Skilled Nursing Facility,0
+78,Male,COPD,16,14,4,Skilled Nursing Facility,1
+71,Male,Diabetes,9,6,3,Rehabilitation Facility,0
+69,Male,Diabetes,6,6,2,Rehabilitation Facility,1
+59,Male,Heart Disease,4,6,1,Home Health Care,1
+52,Male,Heart Disease,8,9,1,Home,1
+73,Female,COPD,4,7,2,Home Health Care,1
+61,Female,Heart Disease,12,12,2,Rehabilitation Facility,1
+69,Male,Hypertension,7,6,2,Home Health Care,1
+60,Male,COPD,5,5,1,Home,0
+43,Female,Kidney Disease,12,14,1,Home,1
+75,Male,Kidney Disease,15,16,4,Skilled Nursing Facility,1
+50,Female,Heart Disease,12,13,2,Skilled Nursing Facility,1
+59,Male,Hypertension,2,3,1,Home Health Care,0
+71,Female,Hypertension,4,4,2,Rehabilitation Facility,1
+59,Male,COPD,9,10,1,Home Health Care,0
+42,Male,COPD,8,10,1,Home Health Care,1
+56,Male,Diabetes,10,8,3,Home Health Care,1
+64,Female,Heart Disease,10,10,2,Skilled Nursing Facility,1
+53,Female,Diabetes,3,5,0,Home,0
+59,Male,Diabetes,12,10,2,Home Health Care,1
+32,Female,COPD,5,9,0,Home,1
+73,Female,Heart Disease,11,11,2,Skilled Nursing Facility,1
+63,Female,Kidney Disease,9,11,0,Home,0
+56,Female,Kidney Disease,10,9,2,Home,0
+70,Male,Heart Disease,10,13,3,Home Health Care,0
+74,Female,COPD,6,9,1,Home,0
+71,Male,Diabetes,8,6,3,Skilled Nursing Facility,1
+80,Male,Heart Disease,11,11,2,Skilled Nursing Facility,1
+52,Male,Hypertension,6,7,2,Home,0
+63,Female,Heart Disease,3,7,0,Home Health Care,0
+78,Male,Kidney Disease,10,10,3,Home,1
+66,Female,Heart Disease,10,12,3,Rehabilitation Facility,1
+47,Female,COPD,6,9,0,Home,0
+62,Male,Kidney Disease,5,6,1,Home,0
+72,Male,Kidney Disease,4,7,0,Home,0
+53,Male,Heart Disease,4,7,0,Home,1
+80,Male,Heart Disease,10,12,2,Skilled Nursing Facility,1
+89,Female,Hypertension,9,7,4,Skilled Nursing Facility,0
+60,Female,Hypertension,12,14,3,Rehabilitation Facility,1
+68,Male,Heart Disease,6,6,1,Home Health Care,0
+53,Male,Kidney Disease,14,15,2,Rehabilitation Facility,1
+66,Male,Heart Disease,12,15,3,Skilled Nursing Facility,1
+69,Male,Heart Disease,3,6,0,Home,0
+50,Male,Diabetes,0,1,0,Home Health Care,0
+70,Female,Hypertension,7,9,2,Home,0
+85,Male,COPD,11,10,3,Rehabilitation Facility,1
+47,Female,Diabetes,6,6,2,Rehabilitation Facility,0
+61,Male,Diabetes,6,6,2,Home Health Care,1
+59,Male,COPD,5,7,1,Home,0
+53,Female,Kidney Disease,5,8,1,Home Health Care,1
+57,Male,Hypertension,9,9,1,Home Health Care,0
+61,Male,Diabetes,4,7,1,Home Health Care,0
+53,Female,Diabetes,8,10,1,Rehabilitation Facility,0
+60,Male,Diabetes,8,8,2,Home Health Care,0
+64,Male,Hypertension,6,6,1,Home Health Care,0
+91,Male,Kidney Disease,5,7,1,Home,1
+39,Male,Heart Disease,6,7,1,Skilled Nursing Facility,0
+66,Male,Diabetes,4,6,0,Home,1
+59,Female,Heart Disease,6,6,1,Home,1
+70,Female,Heart Disease,16,16,4,Skilled Nursing Facility,1
+66,Male,COPD,8,10,0,Home,0
+58,Male,Heart Disease,0,2,0,Home,0
+72,Male,Diabetes,7,9,2,Home Health Care,0
+62,Male,Heart Disease,6,8,2,Skilled Nursing Facility,1
+47,Male,Heart Disease,7,9,3,Rehabilitation Facility,1
+85,Male,Hypertension,11,13,3,Home,1
+51,Female,Heart Disease,7,8,1,Home Health Care,0
+64,Female,COPD,4,8,0,Home,0
+54,Male,Diabetes,7,9,0,Home,1
+56,Female,Heart Disease,4,6,0,Home,0
+57,Female,Diabetes,10,8,3,Rehabilitation Facility,1
+90,Male,Heart Disease,6,6,1,Rehabilitation Facility,1
+71,Male,Hypertension,11,9,4,Rehabilitation Facility,1
+51,Male,Diabetes,6,6,1,Home,1
+66,Female,Heart Disease,5,7,1,Home,1
+49,Female,COPD,5,6,1,Home Health Care,0
+64,Male,COPD,4,5,1,Home Health Care,0
+72,Male,Heart Disease,12,10,3,Skilled Nursing Facility,1
+78,Female,Heart Disease,9,13,2,Rehabilitation Facility,1
+59,Male,Heart Disease,4,6,0,Home,0
+56,Male,Heart Disease,5,7,3,Skilled Nursing Facility,1
+47,Male,COPD,9,12,0,Home,0
+54,Male,Kidney Disease,6,6,1,Rehabilitation Facility,0
+49,Female,Heart Disease,6,7,1,Home Health Care,0
+72,Male,Hypertension,9,7,3,Skilled Nursing Facility,0
+41,Male,Kidney Disease,8,10,1,Home,1
+60,Male,Diabetes,12,12,4,Skilled Nursing Facility,1
+84,Female,Diabetes,5,7,3,Home Health Care,1
+60,Female,Kidney Disease,13,14,3,Rehabilitation Facility,1
+64,Male,Diabetes,9,10,3,Rehabilitation Facility,1
+42,Male,Diabetes,2,5,0,Home,0
+82,Female,Diabetes,9,10,3,Home Health Care,1
+46,Male,Heart Disease,4,8,0,Home,0
+93,Female,Diabetes,11,10,3,Rehabilitation Facility,1
+43,Female,Diabetes,5,5,1,Skilled Nursing Facility,0
+69,Female,Heart Disease,10,9,4,Rehabilitation Facility,0
+51,Male,COPD,10,9,3,Rehabilitation Facility,1
+75,Male,Kidney Disease,10,11,3,Home Health Care,1
+74,Male,Heart Disease,15,13,4,Skilled Nursing Facility,1
+78,Female,Hypertension,8,6,3,Skilled Nursing Facility,1
+58,Female,Hypertension,2,2,1,Rehabilitation Facility,0
+62,Male,Heart Disease,9,10,1,Home Health Care,1
+62,Male,Diabetes,9,9,2,Home Health Care,0
+60,Male,Diabetes,6,8,2,Rehabilitation Facility,0
+78,Female,Heart Disease,14,14,4,Home,1
+46,Female,Diabetes,3,4,1,Home,0
+52,Male,Hypertension,8,11,1,Home Health Care,0
+72,Female,Diabetes,5,8,3,Skilled Nursing Facility,1
+62,Male,Diabetes,5,5,2,Skilled Nursing Facility,0
+63,Female,Diabetes,0,4,0,Home,0
+70,Male,Diabetes,8,8,3,Home Health Care,1
+58,Female,Diabetes,9,9,4,Rehabilitation Facility,1
+51,Female,Diabetes,2,3,1,Home Health Care,0
+55,Male,COPD,11,12,2,Rehabilitation Facility,1
+70,Female,Hypertension,5,3,3,Home Health Care,0
+53,Male,Kidney Disease,5,7,1,Rehabilitation Facility,1
+55,Male,Diabetes,4,6,1,Home,0
+53,Female,Heart Disease,7,10,0,Home,0
+48,Female,Heart Disease,11,13,3,Home Health Care,1
+51,Female,Hypertension,1,3,0,Home,0
+54,Male,Hypertension,3,6,0,Home,0
+76,Female,Heart Disease,3,3,1,Rehabilitation Facility,1
+62,Female,COPD,11,10,1,Home,0
+55,Female,Kidney Disease,5,7,1,Home,0
+55,Male,Heart Disease,11,12,3,Home Health Care,1
+79,Female,COPD,14,13,4,Home Health Care,1
+94,Female,Hypertension,5,5,2,Rehabilitation Facility,1
+48,Male,COPD,3,5,0,Home Health Care,0
+78,Male,Diabetes,10,10,2,Rehabilitation Facility,1
+83,Male,Heart Disease,11,10,4,Skilled Nursing Facility,1
+22,Female,Diabetes,6,8,1,Home,0
+62,Female,Kidney Disease,7,8,1,Home,1
+42,Female,Heart Disease,7,10,1,Home,0
+54,Female,COPD,1,3,0,Home,0
+50,Male,Heart Disease,4,10,0,Home,1
+75,Male,Heart Disease,12,13,3,Skilled Nursing Facility,1
+49,Male,Kidney Disease,7,11,0,Home,1
+62,Female,Diabetes,6,6,1,Home Health Care,0
+63,Female,Heart Disease,8,12,1,Rehabilitation Facility,1
+58,Female,COPD,4,8,1,Home,1
+51,Male,Heart Disease,7,7,1,Rehabilitation Facility,0
+59,Male,Diabetes,7,6,1,Home,1
+69,Female,Heart Disease,11,11,2,Home Health Care,1
+66,Male,Diabetes,4,5,1,Rehabilitation Facility,1
+56,Male,Kidney Disease,12,14,2,Rehabilitation Facility,1
+65,Male,Heart Disease,6,7,2,Skilled Nursing Facility,1
+70,Male,Heart Disease,6,7,2,Rehabilitation Facility,1
+67,Male,Kidney Disease,13,15,2,Rehabilitation Facility,0
+49,Female,Diabetes,14,13,3,Skilled Nursing Facility,1
+66,Female,Hypertension,8,7,2,Rehabilitation Facility,0
+49,Male,Diabetes,9,8,3,Rehabilitation Facility,0
+59,Male,Kidney Disease,11,12,2,Home Health Care,1
+50,Female,Diabetes,1,5,0,Home Health Care,0
+51,Male,Diabetes,0,1,0,Home Health Care,0
+69,Female,Diabetes,9,12,2,Rehabilitation Facility,1
+41,Male,Heart Disease,7,6,1,Home Health Care,1
+63,Male,Diabetes,1,2,1,Home,0
+39,Male,Hypertension,2,4,1,Home Health Care,1
+66,Male,COPD,10,8,3,Home,1
+77,Male,Heart Disease,5,9,1,Home Health Care,0
+80,Male,COPD,14,14,3,Skilled Nursing Facility,1
+64,Female,Diabetes,1,3,1,Rehabilitation Facility,0
+74,Female,COPD,12,14,2,Rehabilitation Facility,1
+53,Male,Diabetes,4,4,1,Rehabilitation Facility,1
+53,Female,Kidney Disease,7,9,0,Home Health Care,0
+52,Male,Heart Disease,8,10,1,Home Health Care,0
+69,Male,Heart Disease,9,10,2,Skilled Nursing Facility,0
+70,Male,Heart Disease,4,7,0,Home Health Care,0
+70,Female,Heart Disease,9,11,3,Home,1
+78,Female,Kidney Disease,12,12,3,Home Health Care,1
+42,Female,Diabetes,7,8,1,Rehabilitation Facility,0
+37,Male,Diabetes,0,2,0,Home,0
+77,Female,Hypertension,12,12,4,Skilled Nursing Facility,1
+55,Female,Kidney Disease,14,17,3,Skilled Nursing Facility,1
+83,Female,COPD,9,12,1,Skilled Nursing Facility,1
+48,Male,COPD,7,9,1,Home Health Care,0
+75,Male,COPD,12,12,2,Home,1
+55,Male,Heart Disease,6,7,2,Skilled Nursing Facility,0
+53,Male,Diabetes,4,4,2,Skilled Nursing Facility,0
+62,Female,Heart Disease,9,10,2,Rehabilitation Facility,1
+70,Female,COPD,14,15,2,Home,1
+84,Female,Heart Disease,13,12,3,Home Health Care,1
+62,Female,COPD,9,7,2,Home,1
+78,Female,Kidney Disease,9,10,3,Home Health Care,1
+76,Female,Hypertension,9,10,3,Skilled Nursing Facility,1
+66,Female,Diabetes,7,9,2,Rehabilitation Facility,0
+88,Male,COPD,12,11,4,Rehabilitation Facility,1
+77,Male,Hypertension,13,10,4,Rehabilitation Facility,1
+52,Male,COPD,8,8,2,Home Health Care,1
+76,Female,COPD,7,7,2,Skilled Nursing Facility,1
+55,Male,Kidney Disease,12,11,3,Rehabilitation Facility,1
+77,Male,Diabetes,11,13,3,Skilled Nursing Facility,1
+88,Female,Diabetes,14,13,4,Skilled Nursing Facility,1
+37,Male,COPD,6,9,0,Home,0
+49,Male,Heart Disease,3,7,0,Home,0
+60,Female,Diabetes,7,8,2,Home,0
+69,Female,COPD,9,14,1,Skilled Nursing Facility,1
+53,Female,Diabetes,6,7,2,Skilled Nursing Facility,0
+70,Male,Diabetes,8,7,3,Home Health Care,1
+74,Female,Diabetes,8,9,2,Home,1
+63,Female,COPD,9,8,2,Rehabilitation Facility,1
+76,Male,Heart Disease,11,13,4,Skilled Nursing Facility,1
+74,Male,Heart Disease,9,9,3,Skilled Nursing Facility,1
+81,Male,Heart Disease,0,2,0,Home,1
+86,Male,Kidney Disease,12,10,3,Skilled Nursing Facility,1
+48,Male,Heart Disease,9,10,1,Rehabilitation Facility,1
+78,Male,Kidney Disease,10,10,2,Home,1
+56,Female,Heart Disease,12,13,2,Rehabilitation Facility,1
+35,Male,Kidney Disease,2,4,0,Home,0
+55,Female,Heart Disease,6,7,2,Skilled Nursing Facility,1
+43,Male,Heart Disease,6,12,0,Home Health Care,0
+70,Male,Hypertension,8,8,2,Rehabilitation Facility,0
+66,Male,Hypertension,7,5,3,Skilled Nursing Facility,1
+68,Female,COPD,14,14,2,Rehabilitation Facility,1
+92,Female,Hypertension,6,5,2,Skilled Nursing Facility,1
+53,Female,Heart Disease,8,11,2,Home Health Care,1
+44,Male,COPD,8,10,2,Home,0
+69,Male,Heart Disease,10,13,1,Home Health Care,0
+55,Male,Diabetes,4,7,0,Home,0
+70,Female,Kidney Disease,4,7,1,Home,1
+76,Male,COPD,11,11,3,Home Health Care,1
+72,Female,Diabetes,3,5,2,Rehabilitation Facility,0
+63,Female,Heart Disease,12,13,3,Skilled Nursing Facility,1
+57,Female,Heart Disease,10,11,3,Rehabilitation Facility,1
+82,Male,COPD,10,13,2,Home Health Care,1
+83,Male,Hypertension,9,8,4,Rehabilitation Facility,1
+62,Female,Heart Disease,4,7,0,Home,0
+67,Male,Diabetes,8,7,3,Home Health Care,1
+50,Female,Hypertension,6,7,1,Home,0
+70,Male,Heart Disease,8,8,3,Skilled Nursing Facility,1
+60,Male,COPD,9,11,2,Skilled Nursing Facility,1
+60,Male,Kidney Disease,12,11,3,Rehabilitation Facility,0
+76,Male,COPD,9,11,3,Rehabilitation Facility,1
+54,Male,Heart Disease,7,9,2,Skilled Nursing Facility,1
+73,Female,COPD,7,12,2,Home Health Care,1
+58,Male,Hypertension,7,7,1,Home Health Care,0
+45,Female,Heart Disease,6,9,0,Home,0
+54,Female,Diabetes,8,8,1,Home Health Care,0
+55,Male,Heart Disease,7,6,1,Home Health Care,1
+54,Male,Diabetes,1,1,0,Home,0
+47,Female,Heart Disease,1,4,0,Home Health Care,0
+46,Male,Heart Disease,5,5,0,Home,0
+62,Male,Kidney Disease,8,12,0,Home Health Care,1
+40,Male,Hypertension,7,10,1,Skilled Nursing Facility,0
+95,Male,Diabetes,10,8,3,Skilled Nursing Facility,1
+73,Male,Hypertension,7,7,3,Home,0
+62,Female,COPD,11,10,3,Rehabilitation Facility,1
+91,Female,COPD,9,11,2,Rehabilitation Facility,1
+54,Male,Diabetes,6,4,2,Rehabilitation Facility,0
+69,Male,Kidney Disease,8,13,1,Home Health Care,0
+57,Male,COPD,9,11,2,Home Health Care,1
+71,Male,Hypertension,10,10,3,Skilled Nursing Facility,1
+61,Male,Diabetes,8,8,3,Home,0
+44,Female,Hypertension,4,4,0,Home,0
+66,Female,COPD,9,11,2,Skilled Nursing Facility,1
+56,Female,Heart Disease,8,10,2,Skilled Nursing Facility,0
+51,Female,Hypertension,2,2,1,Home,0
+68,Male,Heart Disease,9,8,2,Home,1
+66,Male,Hypertension,6,6,1,Home,1
+68,Male,Diabetes,10,9,3,Skilled Nursing Facility,0
+87,Male,Diabetes,10,12,3,Rehabilitation Facility,1
+54,Female,COPD,12,14,3,Rehabilitation Facility,1
+48,Male,COPD,3,6,0,Home Health Care,0
+73,Female,Kidney Disease,14,15,3,Skilled Nursing Facility,1
+76,Male,COPD,13,14,3,Skilled Nursing Facility,1
+78,Female,COPD,9,10,2,Skilled Nursing Facility,1
+62,Male,Kidney Disease,14,16,3,Rehabilitation Facility,1
+53,Female,COPD,5,11,0,Home,0
+60,Female,Kidney Disease,8,13,2,Home Health Care,0
+58,Female,Kidney Disease,10,12,1,Rehabilitation Facility,1
+41,Female,COPD,2,4,0,Rehabilitation Facility,0
+72,Female,Heart Disease,12,12,3,Skilled Nursing Facility,1
+57,Male,Diabetes,7,7,0,Home Health Care,0
+52,Male,COPD,1,6,0,Home,0
+42,Female,Heart Disease,10,10,2,Home Health Care,1
+51,Male,Diabetes,0,5,0,Home,0
+47,Male,Kidney Disease,11,12,1,Home,1
+78,Male,COPD,6,9,1,Rehabilitation Facility,0
+60,Male,Heart Disease,9,12,2,Home Health Care,1
+50,Female,Diabetes,7,7,0,Home Health Care,0
+54,Male,Heart Disease,6,5,0,Home Health Care,0
+49,Male,Heart Disease,5,8,0,Home,1
+71,Male,Hypertension,6,3,3,Rehabilitation Facility,1
+43,Female,Heart Disease,7,9,2,Skilled Nursing Facility,1
+82,Female,Diabetes,13,12,4,Rehabilitation Facility,1
+82,Female,Heart Disease,11,13,4,Rehabilitation Facility,1
+49,Male,COPD,9,10,2,Home Health Care,1
+54,Female,Kidney Disease,8,11,1,Home Health Care,1
+46,Female,Hypertension,5,4,3,Rehabilitation Facility,1
+54,Male,Kidney Disease,7,10,1,Home,1
+65,Female,Diabetes,4,8,2,Home,1
+69,Female,COPD,12,15,3,Home,0
+40,Male,Hypertension,2,4,0,Home,0
+60,Female,Kidney Disease,11,11,3,Skilled Nursing Facility,0
+57,Male,Heart Disease,12,12,3,Skilled Nursing Facility,1
+52,Female,Heart Disease,6,9,2,Home,0
+51,Male,COPD,8,7,1,Rehabilitation Facility,0
+56,Male,Heart Disease,10,10,3,Skilled Nursing Facility,0
+62,Female,COPD,12,14,1,Home Health Care,0
+51,Male,Diabetes,0,2,0,Home,0
+55,Female,Hypertension,0,5,0,Home Health Care,0
+69,Male,Kidney Disease,9,13,1,Home,0
+65,Male,Diabetes,8,9,2,Rehabilitation Facility,1
+53,Female,Heart Disease,5,7,1,Home Health Care,0
+62,Male,Kidney Disease,5,7,2,Skilled Nursing Facility,1
+45,Female,COPD,1,4,0,Home,0
+63,Male,Hypertension,10,11,3,Rehabilitation Facility,1
+38,Male,COPD,7,11,0,Skilled Nursing Facility,0
+57,Female,Heart Disease,13,11,3,Skilled Nursing Facility,1
+47,Female,Heart Disease,7,8,2,Home Health Care,1
+81,Female,Heart Disease,6,5,3,Skilled Nursing Facility,1
+58,Female,Hypertension,7,7,3,Rehabilitation Facility,0
+66,Female,Heart Disease,8,10,4,Home Health Care,0
+73,Male,Kidney Disease,9,10,1,Home,1
+61,Female,Diabetes,10,9,2,Home,1
+78,Female,Diabetes,5,7,3,Skilled Nursing Facility,0
+49,Female,Diabetes,3,3,0,Home,0
+89,Female,Heart Disease,6,7,1,Home,1
+76,Female,Kidney Disease,8,11,1,Home Health Care,1
+60,Female,Kidney Disease,13,16,2,Rehabilitation Facility,1
+43,Male,Kidney Disease,1,3,0,Rehabilitation Facility,0
+60,Male,Heart Disease,5,5,1,Skilled Nursing Facility,0
+53,Female,Diabetes,3,4,1,Skilled Nursing Facility,0
+41,Female,Heart Disease,10,9,1,Home,0
+81,Male,Hypertension,11,10,4,Skilled Nursing Facility,1
+61,Male,Heart Disease,9,10,3,Skilled Nursing Facility,1
+66,Female,Heart Disease,7,8,2,Rehabilitation Facility,1
+50,Female,COPD,8,8,2,Rehabilitation Facility,0
+61,Female,Heart Disease,13,14,3,Skilled Nursing Facility,1
+34,Male,Heart Disease,10,13,1,Home Health Care,0
+87,Female,COPD,15,16,4,Skilled Nursing Facility,1
+63,Male,Heart Disease,12,11,3,Rehabilitation Facility,1
+65,Male,Hypertension,8,5,3,Skilled Nursing Facility,0
+45,Female,Diabetes,4,7,0,Home,0
+62,Male,Heart Disease,4,6,0,Home,0
+47,Male,Kidney Disease,9,11,2,Home Health Care,0
+70,Female,COPD,10,8,4,Skilled Nursing Facility,1
+61,Male,Diabetes,5,6,3,Skilled Nursing Facility,1
+73,Female,COPD,11,12,3,Skilled Nursing Facility,1
+73,Male,Diabetes,5,7,0,Home,1
+61,Female,Heart Disease,11,12,3,Rehabilitation Facility,1
+20,Male,Diabetes,4,9,0,Home,0
+74,Male,COPD,17,17,3,Skilled Nursing Facility,1
+61,Male,Hypertension,11,14,2,Skilled Nursing Facility,0
+72,Female,Kidney Disease,10,9,2,Home,1
+88,Male,Hypertension,14,12,4,Rehabilitation Facility,1
+53,Female,Diabetes,6,6,1,Home Health Care,0
+60,Female,Heart Disease,6,6,1,Home,1
+56,Male,Heart Disease,12,13,2,Home Health Care,1
+55,Female,Kidney Disease,3,8,0,Home,0
+59,Male,Heart Disease,2,3,1,Home,0
+76,Female,Kidney Disease,6,11,1,Rehabilitation Facility,1
+65,Male,COPD,1,4,0,Home,0
+55,Male,Heart Disease,2,5,0,Home Health Care,0
+83,Female,Diabetes,13,7,4,Skilled Nursing Facility,1
+49,Male,COPD,10,9,2,Home,0
+72,Male,Heart Disease,6,7,2,Rehabilitation Facility,1
+74,Male,COPD,9,11,0,Home Health Care,1
+72,Female,Hypertension,6,4,3,Skilled Nursing Facility,1
+57,Male,Heart Disease,4,4,1,Home,0
+31,Female,Heart Disease,3,5,0,Home,0
+54,Female,Diabetes,8,9,2,Home Health Care,1
+53,Male,Kidney Disease,7,12,2,Home Health Care,0
+82,Female,COPD,16,16,4,Skilled Nursing Facility,1
+67,Female,Diabetes,8,8,3,Home Health Care,1
+67,Male,Hypertension,9,8,3,Skilled Nursing Facility,1
+58,Male,Heart Disease,13,12,2,Home Health Care,0
+40,Female,Heart Disease,10,10,1,Home,0
+69,Male,Diabetes,10,9,2,Home Health Care,0
+55,Female,Diabetes,8,8,3,Skilled Nursing Facility,1
+53,Male,Heart Disease,8,9,1,Rehabilitation Facility,1
+69,Male,COPD,6,6,1,Home,0
+62,Female,COPD,15,13,4,Home Health Care,1
+76,Male,Kidney Disease,17,16,4,Home Health Care,1
+59,Female,Hypertension,9,9,3,Rehabilitation Facility,0
+51,Male,Heart Disease,6,10,1,Skilled Nursing Facility,1
+65,Male,Diabetes,8,5,2,Home Health Care,1
+63,Male,COPD,12,14,4,Skilled Nursing Facility,1
+71,Female,COPD,12,13,1,Home,0
+48,Female,Heart Disease,6,7,1,Home,0
+90,Female,COPD,6,8,0,Home,0
+50,Female,Heart Disease,7,6,1,Home Health Care,1
+67,Male,Heart Disease,1,4,0,Home,0
+52,Female,COPD,4,7,0,Home,0
+57,Female,Diabetes,5,6,1,Home Health Care,1
+95,Male,Hypertension,7,7,2,Rehabilitation Facility,1
+62,Male,Heart Disease,5,6,1,Home,1
+69,Female,Heart Disease,12,13,2,Rehabilitation Facility,1
+79,Male,Heart Disease,6,6,1,Home,1
+48,Female,Heart Disease,9,9,2,Rehabilitation Facility,0
+94,Female,COPD,12,14,2,Rehabilitation Facility,1
+38,Female,Kidney Disease,6,8,1,Home,0
+78,Male,Heart Disease,13,12,4,Skilled Nursing Facility,1
+78,Female,Hypertension,10,11,4,Rehabilitation Facility,1
+77,Female,COPD,8,9,2,Home Health Care,1
+50,Female,Heart Disease,3,7,0,Rehabilitation Facility,1
+57,Male,Diabetes,0,2,0,Home,0
+65,Male,Diabetes,0,1,0,Home Health Care,1
+65,Female,Heart Disease,6,6,1,Home Health Care,0
+88,Female,Kidney Disease,11,12,3,Rehabilitation Facility,1
+69,Female,Heart Disease,3,4,1,Home Health Care,1
+67,Male,Heart Disease,10,11,2,Home Health Care,1
+64,Male,Heart Disease,5,4,0,Home,1
+54,Female,Hypertension,0,1,0,Home Health Care,1
+54,Female,Diabetes,3,4,0,Home,1
+62,Male,Heart Disease,7,7,2,Home,1
+76,Male,Hypertension,5,6,2,Rehabilitation Facility,0
+37,Female,COPD,4,8,0,Home,0
+68,Male,Kidney Disease,5,5,2,Home,0
+51,Female,COPD,8,8,2,Skilled Nursing Facility,1
+34,Female,Kidney Disease,10,11,2,Rehabilitation Facility,1
+64,Male,Heart Disease,9,9,1,Home Health Care,0
+61,Female,Hypertension,3,4,0,Rehabilitation Facility,0
+68,Female,Hypertension,4,8,0,Rehabilitation Facility,0
+68,Female,Hypertension,11,12,2,Home,0
+48,Female,Hypertension,2,6,0,Home Health Care,1
+58,Male,Kidney Disease,3,5,0,Home,0
+69,Female,Diabetes,7,10,2,Home Health Care,0
+59,Female,Kidney Disease,7,12,1,Home,0
+67,Female,Heart Disease,9,9,3,Skilled Nursing Facility,1
+42,Female,Kidney Disease,2,5,0,Skilled Nursing Facility,0
+56,Female,Heart Disease,7,8,2,Home,1
+85,Male,Heart Disease,7,8,2,Skilled Nursing Facility,1
+42,Female,COPD,10,13,1,Skilled Nursing Facility,1
+65,Male,Kidney Disease,8,9,1,Rehabilitation Facility,0
+66,Male,Heart Disease,12,12,3,Home,1
+28,Female,COPD,10,12,1,Skilled Nursing Facility,1
+65,Male,Heart Disease,5,7,0,Home Health Care,0
+85,Male,Diabetes,12,12,3,Skilled Nursing Facility,1
+54,Female,Heart Disease,2,5,1,Skilled Nursing Facility,0
+64,Male,Diabetes,2,6,0,Home Health Care,0
+68,Male,Hypertension,2,5,1,Home,1
+78,Female,Hypertension,10,9,3,Home,1
+68,Male,Heart Disease,6,6,3,Skilled Nursing Facility,1
+58,Male,Heart Disease,11,12,2,Skilled Nursing Facility,1
+53,Female,Diabetes,9,7,2,Rehabilitation Facility,0
+57,Male,Hypertension,8,6,3,Skilled Nursing Facility,1
+48,Female,Diabetes,2,5,0,Home Health Care,1
+57,Male,Diabetes,12,14,3,Skilled Nursing Facility,1
+55,Female,Diabetes,6,6,2,Skilled Nursing Facility,1
+66,Male,Heart Disease,15,16,4,Rehabilitation Facility,1
+80,Male,Diabetes,9,9,3,Skilled Nursing Facility,1
+92,Male,Diabetes,9,12,3,Skilled Nursing Facility,1
+46,Female,Kidney Disease,8,11,1,Home Health Care,0
+39,Male,Heart Disease,3,5,0,Home Health Care,1
+84,Female,Diabetes,8,11,1,Skilled Nursing Facility,0
+48,Male,Kidney Disease,5,6,2,Home Health Care,1
+37,Female,Diabetes,1,2,0,Home,0
+68,Male,Diabetes,7,7,2,Home Health Care,1
+79,Female,COPD,13,16,3,Skilled Nursing Facility,1
+47,Female,Diabetes,3,4,2,Rehabilitation Facility,0
+65,Female,Diabetes,2,5,0,Home,0
+76,Female,COPD,12,14,2,Skilled Nursing Facility,1
+46,Male,COPD,10,12,1,Home Health Care,1
+51,Female,COPD,9,11,0,Home,1
+62,Female,Diabetes,3,5,0,Home,1
+36,Female,Diabetes,2,3,1,Home,0
+52,Male,COPD,8,10,2,Rehabilitation Facility,1
+63,Male,COPD,7,9,1,Rehabilitation Facility,1
+38,Female,Hypertension,0,3,0,Home,0
+53,Male,Diabetes,9,10,1,Rehabilitation Facility,0
+39,Female,Heart Disease,6,8,1,Home,1
+63,Male,COPD,2,5,0,Home,1
+67,Female,Diabetes,4,6,1,Home,0
+60,Male,Hypertension,4,4,2,Skilled Nursing Facility,0
+55,Female,Heart Disease,6,5,1,Home Health Care,1
+61,Male,Diabetes,3,4,1,Home,0
+77,Male,Heart Disease,8,8,2,Rehabilitation Facility,1
+75,Male,Hypertension,8,10,4,Skilled Nursing Facility,1
+63,Female,Hypertension,5,5,2,Rehabilitation Facility,0
+49,Female,COPD,12,13,2,Rehabilitation Facility,1
+52,Male,Hypertension,12,10,3,Rehabilitation Facility,0
+56,Female,Heart Disease,5,8,0,Home Health Care,0
+64,Male,Hypertension,4,3,1,Home,1
+73,Male,Hypertension,8,7,3,Home Health Care,1
+56,Male,COPD,8,10,2,Skilled Nursing Facility,0
+38,Female,Kidney Disease,7,10,1,Home,0
+53,Female,Hypertension,6,3,1,Home,0
+71,Female,COPD,12,11,3,Skilled Nursing Facility,1
+69,Female,Diabetes,8,9,2,Rehabilitation Facility,1
+50,Female,COPD,12,15,2,Home Health Care,0
+60,Female,Kidney Disease,5,9,0,Home,0
+52,Female,Heart Disease,7,10,1,Rehabilitation Facility,1
+95,Male,Diabetes,5,7,0,Home,1
+43,Male,Heart Disease,1,1,1,Home Health Care,1
+86,Female,Hypertension,12,10,4,Skilled Nursing Facility,1
+80,Female,Diabetes,7,8,1,Rehabilitation Facility,0
+64,Male,Hypertension,12,12,3,Home,1
+63,Female,Diabetes,4,6,0,Home,0
+67,Male,Diabetes,4,5,2,Home,0
+59,Female,Heart Disease,4,6,1,Rehabilitation Facility,1
+71,Female,Heart Disease,12,13,3,Skilled Nursing Facility,0
+50,Male,Heart Disease,4,7,0,Rehabilitation Facility,0
+66,Male,COPD,10,13,3,Home,1
+83,Female,Diabetes,11,11,4,Skilled Nursing Facility,1
+78,Male,Kidney Disease,11,11,3,Skilled Nursing Facility,1
+62,Male,Hypertension,4,8,1,Home Health Care,1
+66,Female,COPD,14,14,4,Skilled Nursing Facility,1
+80,Male,COPD,7,10,1,Rehabilitation Facility,0
+69,Male,Heart Disease,10,9,2,Home,1
+43,Female,Heart Disease,4,4,0,Rehabilitation Facility,0
+65,Male,Diabetes,9,10,3,Rehabilitation Facility,1
+79,Female,Hypertension,2,4,0,Home,0
+55,Female,Heart Disease,4,6,1,Rehabilitation Facility,1
+68,Male,COPD,8,10,2,Skilled Nursing Facility,1
+75,Male,Hypertension,3,1,1,Home Health Care,1
+58,Male,Diabetes,5,6,1,Skilled Nursing Facility,0
+79,Male,Hypertension,8,9,2,Home Health Care,0
+49,Female,Heart Disease,4,5,0,Home Health Care,1
+57,Female,COPD,4,7,0,Home,0
+73,Female,COPD,7,7,2,Skilled Nursing Facility,1
+71,Female,Diabetes,14,13,4,Home,1
+67,Male,Diabetes,5,7,1,Home,0
+44,Female,Diabetes,0,2,0,Home Health Care,0
+71,Female,Diabetes,8,8,3,Home Health Care,1
+68,Male,Diabetes,7,7,4,Home Health Care,0
+54,Male,Kidney Disease,0,4,0,Home Health Care,0
+84,Male,Hypertension,6,3,3,Home,1
+74,Male,Heart Disease,14,15,4,Skilled Nursing Facility,1
+49,Male,Heart Disease,5,5,1,Rehabilitation Facility,0
+69,Female,Diabetes,1,1,0,Home,0
+77,Female,COPD,13,12,3,Home,1
+47,Female,Hypertension,4,4,2,Home,0
+69,Male,Heart Disease,0,3,0,Home,0
+59,Male,Kidney Disease,7,8,2,Home Health Care,0
+78,Male,COPD,8,8,1,Home Health Care,1
+81,Female,Diabetes,11,9,3,Skilled Nursing Facility,1
+61,Male,COPD,11,14,2,Home Health Care,1
+56,Female,Heart Disease,8,9,1,Home,0
+57,Male,Hypertension,5,7,0,Home Health Care,0
+37,Male,Kidney Disease,8,10,0,Home,0
+69,Female,Diabetes,1,1,0,Home,0
+52,Male,Diabetes,3,7,1,Home Health Care,0
+44,Male,Kidney Disease,10,13,0,Home Health Care,0
+61,Male,Heart Disease,5,8,1,Skilled Nursing Facility,1
+67,Female,Kidney Disease,9,12,1,Skilled Nursing Facility,1
+48,Female,Heart Disease,8,8,2,Home,1
+55,Male,Heart Disease,12,11,4,Skilled Nursing Facility,1
+57,Female,COPD,9,12,2,Rehabilitation Facility,1
+53,Male,Diabetes,2,4,0,Home,0
+48,Female,Diabetes,9,10,1,Home Health Care,1
+49,Female,Hypertension,4,5,0,Home,0
+68,Female,Heart Disease,8,8,2,Skilled Nursing Facility,1
+58,Male,Kidney Disease,8,9,1,Home,0
+55,Male,Kidney Disease,4,9,0,Home,0
+68,Male,Heart Disease,7,7,2,Rehabilitation Facility,1
+62,Female,Kidney Disease,6,8,1,Rehabilitation Facility,0
+60,Male,Kidney Disease,15,16,3,Skilled Nursing Facility,1
+78,Male,Heart Disease,13,14,4,Skilled Nursing Facility,1
+47,Female,Kidney Disease,6,8,0,Home,1
+20,Female,Diabetes,2,6,0,Home Health Care,0
+52,Male,Kidney Disease,11,15,2,Rehabilitation Facility,1
+67,Female,Heart Disease,10,11,2,Rehabilitation Facility,1
+49,Female,Diabetes,4,6,1,Skilled Nursing Facility,0
+70,Male,Heart Disease,15,15,4,Skilled Nursing Facility,1
+59,Male,COPD,12,15,1,Skilled Nursing Facility,1
+69,Female,Hypertension,10,11,3,Skilled Nursing Facility,1
+56,Female,Heart Disease,10,10,3,Rehabilitation Facility,1
+64,Female,Diabetes,9,8,1,Home,0
+71,Male,Diabetes,5,6,2,Home,1
+94,Male,Heart Disease,8,8,3,Home Health Care,1
+67,Male,Heart Disease,10,12,2,Home,1
+51,Male,Kidney Disease,7,11,0,Home Health Care,0
+86,Female,COPD,7,8,2,Rehabilitation Facility,1
+75,Male,COPD,12,12,4,Home Health Care,1
+69,Female,Diabetes,8,9,2,Rehabilitation Facility,1
+77,Male,COPD,9,10,1,Home Health Care,1
+71,Male,COPD,11,11,3,Home Health Care,1
+66,Female,COPD,3,6,0,Home,0
+73,Male,Heart Disease,7,8,2,Skilled Nursing Facility,1
+58,Female,Diabetes,3,4,1,Home,1
+45,Female,Kidney Disease,5,7,0,Home Health Care,0
+92,Female,Hypertension,4,1,2,Skilled Nursing Facility,1
+61,Male,Heart Disease,5,7,1,Home,0
+43,Female,COPD,8,10,2,Rehabilitation Facility,0
+69,Female,Heart Disease,6,5,1,Skilled Nursing Facility,0
+74,Female,Diabetes,13,13,4,Rehabilitation Facility,1
+47,Male,Hypertension,1,1,0,Home,1
+62,Male,Diabetes,3,5,0,Home,0
+55,Female,Heart Disease,9,8,2,Home Health Care,1
+74,Female,COPD,14,12,4,Rehabilitation Facility,1
+70,Male,Hypertension,11,10,4,Skilled Nursing Facility,1
+83,Female,Heart Disease,13,13,3,Rehabilitation Facility,1
+44,Female,Hypertension,3,5,1,Home,0
+71,Male,Heart Disease,14,14,4,Skilled Nursing Facility,1
+78,Male,Heart Disease,16,15,4,Skilled Nursing Facility,1
+92,Female,Heart Disease,7,7,2,Home Health Care,1
+52,Male,Diabetes,16,15,3,Rehabilitation Facility,1
+86,Male,Diabetes,10,10,3,Rehabilitation Facility,1
+62,Male,Diabetes,9,10,2,Home Health Care,0
+62,Male,Kidney Disease,7,9,1,Home,0
+77,Male,Heart Disease,14,14,4,Skilled Nursing Facility,1
+61,Female,Diabetes,9,11,2,Rehabilitation Facility,0
+73,Female,COPD,9,11,2,Home Health Care,1
+71,Male,COPD,12,12,2,Home Health Care,1
+51,Male,Kidney Disease,6,8,2,Home,0
+73,Male,Diabetes,7,6,3,Rehabilitation Facility,1
+50,Female,Kidney Disease,0,1,0,Home,0
+60,Female,Heart Disease,13,11,3,Home,1
+76,Female,Heart Disease,15,15,4,Skilled Nursing Facility,1
+52,Female,Diabetes,5,6,1,Home,0
+67,Female,Heart Disease,6,7,1,Home,1
+68,Female,Diabetes,10,11,3,Skilled Nursing Facility,1
+55,Male,Kidney Disease,8,9,1,Home,1
+84,Female,Heart Disease,9,11,2,Home Health Care,1
+29,Male,Kidney Disease,7,11,0,Home,0
+54,Male,Heart Disease,4,5,1,Skilled Nursing Facility,0
+62,Female,Heart Disease,10,13,2,Skilled Nursing Facility,1
+82,Male,Kidney Disease,14,15,3,Rehabilitation Facility,1
+80,Male,Heart Disease,16,18,4,Skilled Nursing Facility,1
+67,Female,COPD,8,9,1,Home Health Care,1
+80,Female,Heart Disease,10,9,2,Home Health Care,1
+51,Male,Kidney Disease,6,6,2,Skilled Nursing Facility,1
+65,Female,Heart Disease,9,8,2,Home Health Care,1
+75,Male,Kidney Disease,6,6,2,Home Health Care,0
+80,Female,Heart Disease,10,9,2,Skilled Nursing Facility,1
+63,Female,Diabetes,1,1,0,Home,0
+62,Female,COPD,3,5,0,Rehabilitation Facility,1
+63,Female,COPD,8,10,1,Home,0
+44,Female,Kidney Disease,2,5,1,Home Health Care,0
+38,Female,Hypertension,3,4,0,Home,0
+59,Female,Diabetes,6,6,1,Rehabilitation Facility,0
+78,Female,COPD,10,11,3,Skilled Nursing Facility,1
+63,Male,Diabetes,4,5,1,Rehabilitation Facility,0
+59,Female,Kidney Disease,9,14,1,Rehabilitation Facility,1
+73,Male,Hypertension,6,6,3,Home Health Care,0
+53,Female,Diabetes,5,7,1,Home,1
+72,Male,Diabetes,12,12,4,Skilled Nursing Facility,1
+59,Male,Heart Disease,1,2,2,Rehabilitation Facility,0
+46,Male,Kidney Disease,7,11,0,Home,0
+70,Female,Diabetes,7,7,3,Rehabilitation Facility,1
+61,Male,Heart Disease,12,12,3,Skilled Nursing Facility,1
+67,Male,Kidney Disease,9,10,0,Rehabilitation Facility,0
+91,Male,COPD,12,12,2,Home,0
+77,Male,Kidney Disease,11,13,2,Skilled Nursing Facility,1
+53,Female,Diabetes,6,6,2,Home Health Care,1
+66,Male,COPD,4,7,0,Home,0
+65,Female,Kidney Disease,8,11,2,Rehabilitation Facility,0
+38,Female,Heart Disease,4,4,1,Home,0
+52,Male,Kidney Disease,10,12,2,Home Health Care,0
+50,Female,Kidney Disease,5,11,0,Home,0
+61,Female,Heart Disease,16,14,4,Home,1
+69,Female,Diabetes,8,6,2,Skilled Nursing Facility,1
+48,Male,Heart Disease,6,8,0,Home Health Care,0
+80,Female,COPD,13,15,4,Skilled Nursing Facility,1
+49,Male,Diabetes,7,7,2,Rehabilitation Facility,0
+57,Male,Diabetes,7,8,2,Skilled Nursing Facility,0
+92,Female,Diabetes,5,8,1,Home,0
+63,Male,Hypertension,0,3,1,Home Health Care,0
+46,Male,Heart Disease,7,8,2,Rehabilitation Facility,0
+55,Female,Hypertension,6,6,1,Home Health Care,0
+51,Female,COPD,12,12,2,Home Health Care,1
+50,Male,Heart Disease,4,8,0,Home Health Care,1
+50,Male,Heart Disease,6,7,0,Home,1
+47,Female,COPD,7,10,2,Skilled Nursing Facility,1
+63,Male,Hypertension,7,4,3,Skilled Nursing Facility,0
+73,Female,Hypertension,11,9,3,Skilled Nursing Facility,1
+74,Male,Kidney Disease,10,10,3,Skilled Nursing Facility,1
+53,Male,Hypertension,2,4,0,Home,0
+66,Male,COPD,0,3,0,Rehabilitation Facility,0
+67,Male,Diabetes,12,13,3,Skilled Nursing Facility,1
+53,Female,Heart Disease,5,6,0,Home,0
+51,Male,COPD,3,7,0,Home,0
+45,Male,Diabetes,4,6,1,Skilled Nursing Facility,0
+67,Female,Diabetes,12,8,4,Home Health Care,1
+44,Female,Heart Disease,10,15,1,Home Health Care,1
+62,Male,Diabetes,1,4,0,Home,0
+66,Male,Heart Disease,4,5,2,Rehabilitation Facility,1
+33,Female,Diabetes,5,8,1,Home Health Care,0
+47,Male,Diabetes,7,6,2,Home,0
+91,Male,COPD,19,17,4,Home Health Care,1
+68,Female,Kidney Disease,0,2,0,Home Health Care,1
+67,Female,Hypertension,7,8,3,Skilled Nursing Facility,1
+63,Male,Diabetes,10,9,2,Home Health Care,1
+71,Male,Heart Disease,13,13,4,Skilled Nursing Facility,1
+58,Male,Diabetes,10,9,2,Home,1
+59,Male,Kidney Disease,9,13,2,Home Health Care,0
+62,Female,Heart Disease,7,8,2,Home Health Care,1
+46,Male,COPD,9,10,2,Home Health Care,1
+53,Female,Hypertension,2,4,0,Rehabilitation Facility,1
+86,Male,Kidney Disease,16,18,3,Skilled Nursing Facility,1
+52,Female,Heart Disease,2,3,0,Rehabilitation Facility,1
+74,Female,COPD,16,15,4,Home Health Care,1
+34,Female,COPD,5,8,0,Home,0
+70,Female,COPD,5,7,2,Home,1
+68,Female,COPD,8,10,2,Rehabilitation Facility,1
+53,Female,Diabetes,3,5,0,Home Health Care,0
+47,Male,Kidney Disease,9,11,1,Home,0
+39,Male,COPD,9,9,1,Home,0
+41,Female,Diabetes,3,6,1,Home Health Care,1
+19,Female,Heart Disease,5,8,0,Home,0
+67,Male,Heart Disease,6,8,1,Skilled Nursing Facility,1
+62,Male,Heart Disease,3,6,0,Home Health Care,0
+66,Female,Kidney Disease,9,10,1,Home Health Care,0
+57,Male,Heart Disease,11,11,2,Skilled Nursing Facility,1
+39,Female,Heart Disease,2,6,0,Home Health Care,0
+47,Male,Diabetes,7,9,2,Rehabilitation Facility,1
+79,Male,Heart Disease,13,12,4,Skilled Nursing Facility,1
+76,Female,Diabetes,9,9,3,Skilled Nursing Facility,1
+61,Male,Kidney Disease,9,9,2,Rehabilitation Facility,1
+34,Female,Hypertension,3,2,0,Home Health Care,0
+34,Female,Heart Disease,5,10,1,Home,0
+65,Female,Hypertension,10,11,3,Rehabilitation Facility,0
+65,Male,Diabetes,13,10,4,Skilled Nursing Facility,1
+61,Female,Heart Disease,11,12,3,Skilled Nursing Facility,1
+83,Male,Hypertension,5,5,2,Home Health Care,1
+71,Male,Kidney Disease,10,12,2,Home Health Care,0
+65,Female,COPD,6,10,1,Home,1
+58,Male,Heart Disease,8,7,2,Home Health Care,0
+62,Female,Kidney Disease,3,5,0,Rehabilitation Facility,0
+79,Female,COPD,9,11,3,Home Health Care,1
+65,Female,Heart Disease,6,7,4,Rehabilitation Facility,1
+64,Male,Heart Disease,7,9,0,Home,0
+64,Male,Hypertension,7,4,1,Home,0
+66,Female,Hypertension,3,5,1,Rehabilitation Facility,0
+55,Female,Heart Disease,4,9,2,Rehabilitation Facility,1
+79,Male,COPD,10,11,2,Home,1
+79,Male,Diabetes,10,10,3,Rehabilitation Facility,1
+58,Male,Heart Disease,9,6,2,Rehabilitation Facility,1
+51,Female,Hypertension,4,4,1,Home Health Care,1
+52,Male,Heart Disease,7,11,1,Home,1
+49,Male,Heart Disease,5,6,1,Rehabilitation Facility,1
+60,Female,COPD,6,6,1,Home Health Care,1
+46,Male,Kidney Disease,7,11,1,Rehabilitation Facility,1
+77,Female,Hypertension,5,8,1,Skilled Nursing Facility,1
+51,Female,Hypertension,5,6,1,Home,0
+45,Male,Diabetes,5,5,2,Rehabilitation Facility,0
+53,Female,COPD,4,7,1,Home,1
+49,Male,COPD,6,9,1,Home,0
+95,Male,Heart Disease,10,14,3,Skilled Nursing Facility,1
+70,Male,Heart Disease,11,11,3,Home,0
+70,Female,Hypertension,3,3,2,Home Health Care,1
+55,Male,COPD,9,9,3,Skilled Nursing Facility,1
+62,Male,Heart Disease,5,5,0,Rehabilitation Facility,0
+74,Female,Heart Disease,11,13,2,Skilled Nursing Facility,1
+90,Female,Kidney Disease,13,15,3,Skilled Nursing Facility,1
+68,Female,Heart Disease,8,11,2,Rehabilitation Facility,1
+62,Female,Heart Disease,10,10,2,Skilled Nursing Facility,1
+63,Male,COPD,6,9,0,Home,1
+71,Male,Heart Disease,14,14,4,Rehabilitation Facility,1
+51,Male,Diabetes,6,8,1,Home,1
+48,Male,Heart Disease,7,9,1,Skilled Nursing Facility,1
+69,Female,Diabetes,3,3,2,Rehabilitation Facility,1
+59,Male,Heart Disease,4,4,1,Home,0
+71,Female,Diabetes,12,11,4,Skilled Nursing Facility,1
+74,Female,Heart Disease,8,7,3,Rehabilitation Facility,1
+76,Male,Heart Disease,9,11,2,Skilled Nursing Facility,0
+52,Male,Diabetes,2,5,1,Skilled Nursing Facility,0
+66,Male,Heart Disease,10,10,2,Home Health Care,1
+56,Male,COPD,13,15,2,Home Health Care,1
+75,Male,Diabetes,8,6,3,Skilled Nursing Facility,1
+63,Female,Diabetes,5,7,1,Rehabilitation Facility,1
+59,Male,Diabetes,12,9,4,Rehabilitation Facility,0
+75,Female,COPD,12,14,3,Home,1
+65,Male,Kidney Disease,6,10,0,Home Health Care,1
+48,Female,Hypertension,5,6,0,Home,0
+69,Male,Kidney Disease,10,12,2,Rehabilitation Facility,1
+72,Male,Diabetes,11,13,2,Rehabilitation Facility,1
+57,Male,Heart Disease,11,12,3,Skilled Nursing Facility,1
+82,Male,Heart Disease,8,8,4,Home,1
+81,Male,Hypertension,4,4,1,Rehabilitation Facility,0
+40,Female,Kidney Disease,7,8,2,Home Health Care,1
+74,Male,Hypertension,7,6,3,Skilled Nursing Facility,1
+78,Female,Diabetes,9,12,2,Home,1
+61,Male,Diabetes,5,7,2,Skilled Nursing Facility,1
+58,Male,Diabetes,8,9,2,Rehabilitation Facility,0
+69,Female,COPD,12,10,4,Skilled Nursing Facility,1
+59,Female,Kidney Disease,8,10,1,Home Health Care,1
+60,Male,Kidney Disease,8,10,1,Home Health Care,0
+80,Male,Heart Disease,10,13,2,Home Health Care,1
+50,Male,COPD,7,9,1,Home Health Care,1
+59,Female,Diabetes,6,8,0,Home,0
+41,Female,COPD,4,6,0,Home,0
+64,Male,COPD,8,11,3,Skilled Nursing Facility,1
+66,Female,Kidney Disease,10,10,2,Home Health Care,0
+64,Female,Hypertension,1,2,0,Home,0
+82,Female,Kidney Disease,7,7,3,Home Health Care,0
+62,Male,Hypertension,8,8,3,Home Health Care,0
+42,Female,Hypertension,4,4,1,Skilled Nursing Facility,0
+48,Male,Diabetes,3,4,1,Home Health Care,0
+71,Female,Hypertension,4,5,1,Home,0
+57,Male,Hypertension,11,12,3,Home Health Care,0
+73,Female,Heart Disease,4,4,1,Home,0
+37,Female,Diabetes,6,6,1,Home,0
+74,Male,Hypertension,7,8,1,Rehabilitation Facility,0
+56,Male,Diabetes,9,10,2,Rehabilitation Facility,1
+58,Male,Hypertension,3,6,1,Rehabilitation Facility,1
+78,Female,Hypertension,8,9,3,Rehabilitation Facility,0
+61,Female,COPD,8,8,3,Skilled Nursing Facility,1
+61,Female,Hypertension,6,6,3,Home Health Care,1
+76,Female,Diabetes,8,6,3,Skilled Nursing Facility,1
+61,Female,COPD,12,11,3,Home Health Care,1
+68,Female,Diabetes,10,13,2,Home,1
+60,Female,Diabetes,3,2,0,Home,0
+66,Female,Heart Disease,10,11,2,Rehabilitation Facility,1
+68,Male,COPD,13,14,3,Rehabilitation Facility,1
+63,Female,Diabetes,4,6,1,Home Health Care,0
+64,Female,Diabetes,8,4,2,Rehabilitation Facility,1
+90,Male,Diabetes,11,11,4,Rehabilitation Facility,1
+69,Male,Heart Disease,4,5,0,Home Health Care,0
+72,Female,COPD,6,9,1,Rehabilitation Facility,1
+81,Female,Diabetes,7,10,2,Home Health Care,1
+29,Female,Hypertension,2,2,0,Home,1
+50,Male,Diabetes,6,6,2,Rehabilitation Facility,0
+49,Male,Diabetes,7,5,2,Skilled Nursing Facility,0
+36,Female,Hypertension,1,2,0,Home Health Care,0
+53,Female,Heart Disease,8,8,2,Home Health Care,0
+88,Male,COPD,17,17,4,Rehabilitation Facility,1
+43,Female,Kidney Disease,4,5,1,Skilled Nursing Facility,0
+65,Female,COPD,11,15,1,Skilled Nursing Facility,0
+50,Male,Diabetes,1,4,0,Home,0
+85,Female,Diabetes,11,11,4,Skilled Nursing Facility,1
+50,Female,Heart Disease,8,11,0,Skilled Nursing Facility,1
+62,Female,COPD,5,9,1,Home,0
+79,Female,Heart Disease,7,6,1,Rehabilitation Facility,0
+56,Male,Heart Disease,5,5,2,Home Health Care,0
+55,Female,Kidney Disease,6,7,0,Home Health Care,0
+78,Female,Hypertension,10,7,3,Home,0
+77,Female,COPD,13,12,4,Skilled Nursing Facility,1
+40,Male,Diabetes,0,3,1,Home,0
+53,Male,Heart Disease,7,9,1,Home,0
+53,Male,Hypertension,6,7,2,Home Health Care,1
+86,Male,Heart Disease,7,8,4,Skilled Nursing Facility,1
+48,Male,Diabetes,6,8,0,Home,0
+61,Male,Hypertension,4,6,0,Skilled Nursing Facility,0
+59,Male,Kidney Disease,4,5,1,Home,0
+70,Male,Diabetes,10,11,3,Rehabilitation Facility,1
+61,Female,Kidney Disease,13,14,3,Home Health Care,1
+74,Male,Hypertension,3,3,1,Home,0
+72,Male,COPD,5,2,1,Home,0
+80,Male,Heart Disease,10,11,2,Skilled Nursing Facility,1
+88,Male,Diabetes,11,11,4,Rehabilitation Facility,1
+62,Male,Hypertension,8,7,3,Rehabilitation Facility,1
+68,Female,Kidney Disease,10,11,3,Home Health Care,1
+63,Male,Kidney Disease,6,9,1,Home,1
+63,Male,COPD,5,8,1,Home Health Care,0
+61,Female,Diabetes,0,1,0,Home,0
+67,Male,Kidney Disease,11,12,3,Home Health Care,1
+35,Male,COPD,1,3,0,Home,0
+51,Male,Diabetes,10,10,2,Home,1
+63,Female,Heart Disease,16,16,3,Skilled Nursing Facility,1
+58,Female,Heart Disease,6,6,1,Home,0
+49,Female,Hypertension,0,1,0,Home,0
+61,Male,Kidney Disease,10,11,2,Home Health Care,1
+54,Female,Diabetes,7,5,3,Rehabilitation Facility,1
+87,Female,Diabetes,8,8,3,Skilled Nursing Facility,1
+44,Male,Diabetes,0,1,1,Home Health Care,0
+58,Male,COPD,8,9,1,Home,0
+82,Female,COPD,14,15,3,Skilled Nursing Facility,1
+84,Female,Hypertension,8,9,4,Home Health Care,1
+18,Female,Heart Disease,10,13,0,Home,0
+68,Female,Diabetes,3,5,2,Home,1
+74,Male,COPD,8,9,2,Home Health Care,1
+44,Female,Hypertension,1,1,0,Home,0
+49,Female,Hypertension,7,6,2,Skilled Nursing Facility,0
+56,Male,Hypertension,5,3,2,Home Health Care,0
+65,Female,Diabetes,7,5,3,Rehabilitation Facility,0
+77,Male,COPD,12,13,3,Home Health Care,1
+63,Female,Heart Disease,6,6,1,Home,0
+48,Male,Diabetes,3,6,0,Home,0
+61,Female,COPD,12,12,3,Rehabilitation Facility,1
+76,Male,Hypertension,10,7,3,Home,0
+48,Male,Diabetes,1,3,1,Home,0
+37,Female,Heart Disease,3,6,0,Home,0
+76,Female,Heart Disease,8,9,2,Rehabilitation Facility,1
+68,Female,Diabetes,10,12,3,Skilled Nursing Facility,1
+61,Male,COPD,6,5,2,Home,0
+81,Male,Kidney Disease,4,6,1,Home,0
+64,Male,Heart Disease,12,11,3,Rehabilitation Facility,1
+75,Male,COPD,16,15,4,Rehabilitation Facility,1
+59,Female,Hypertension,6,8,3,Skilled Nursing Facility,0
+49,Female,Diabetes,6,8,0,Home,0
+69,Male,Heart Disease,13,14,3,Skilled Nursing Facility,1
+50,Male,Hypertension,3,5,1,Skilled Nursing Facility,1
+48,Male,Diabetes,11,13,2,Home Health Care,0
+75,Male,Diabetes,8,7,3,Home Health Care,1
+61,Male,Diabetes,11,10,3,Home,1
+61,Male,Hypertension,8,8,2,Home Health Care,1
+63,Female,Kidney Disease,11,14,2,Rehabilitation Facility,1
+93,Male,Hypertension,8,6,3,Rehabilitation Facility,1
+53,Male,Heart Disease,5,11,0,Home Health Care,0
+78,Male,Heart Disease,14,13,4,Rehabilitation Facility,1
+62,Male,Heart Disease,12,13,3,Rehabilitation Facility,1
+82,Male,Kidney Disease,17,18,4,Rehabilitation Facility,1
+71,Female,Hypertension,7,7,1,Home,1
+43,Male,Kidney Disease,9,12,2,Home Health Care,1
+42,Female,Heart Disease,7,8,1,Home,0
+58,Female,Heart Disease,4,4,1,Home,1
+59,Male,Heart Disease,10,10,2,Rehabilitation Facility,1
+70,Male,COPD,9,9,2,Skilled Nursing Facility,0
+73,Male,COPD,11,10,3,Rehabilitation Facility,1
+77,Female,COPD,3,6,1,Home,0
+75,Male,Hypertension,9,8,3,Skilled Nursing Facility,1
+65,Female,Hypertension,11,11,2,Skilled Nursing Facility,1
+58,Male,Heart Disease,8,7,1,Skilled Nursing Facility,1
+66,Female,Heart Disease,13,11,3,Home Health Care,1
+57,Male,COPD,6,9,2,Rehabilitation Facility,1
+87,Female,Diabetes,13,14,3,Rehabilitation Facility,1
+51,Female,Heart Disease,2,5,0,Rehabilitation Facility,0
+67,Female,Kidney Disease,7,9,0,Home,1
+53,Female,Hypertension,6,10,0,Home,0
+57,Male,Kidney Disease,11,10,1,Home Health Care,0
+63,Female,Heart Disease,5,6,1,Home Health Care,1
+57,Male,COPD,4,6,1,Home,0
+75,Male,COPD,13,10,4,Rehabilitation Facility,1
+70,Male,COPD,2,3,1,Rehabilitation Facility,0
+49,Female,COPD,5,7,0,Home,0
+57,Male,Heart Disease,9,12,1,Rehabilitation Facility,1
+81,Female,Heart Disease,8,8,2,Rehabilitation Facility,1
+55,Female,Hypertension,7,7,2,Home,0
+32,Female,Heart Disease,5,6,0,Home,0
+71,Female,COPD,3,6,1,Home,1
+52,Male,Heart Disease,1,5,0,Home,0
+60,Male,COPD,7,9,3,Rehabilitation Facility,1
+50,Female,Heart Disease,1,5,0,Home,0
+70,Male,Heart Disease,8,8,2,Home Health Care,1
+36,Male,Diabetes,3,6,1,Rehabilitation Facility,0
+62,Male,Kidney Disease,8,10,0,Home,1
+61,Female,Hypertension,9,9,2,Home Health Care,1
+82,Male,Diabetes,5,6,2,Skilled Nursing Facility,1
+67,Male,Heart Disease,10,11,2,Skilled Nursing Facility,1
+50,Female,Hypertension,5,6,2,Skilled Nursing Facility,0
+64,Female,Hypertension,3,3,1,Home Health Care,1
+61,Female,Diabetes,7,10,1,Home,1
+51,Male,Diabetes,6,4,2,Rehabilitation Facility,1
+66,Male,Heart Disease,9,9,3,Skilled Nursing Facility,1
+72,Female,COPD,8,11,0,Home,1
+70,Female,Diabetes,9,8,3,Skilled Nursing Facility,1
+79,Female,Heart Disease,13,15,3,Skilled Nursing Facility,1
+82,Female,Kidney Disease,6,10,0,Home,0
+68,Male,Heart Disease,16,14,4,Skilled Nursing Facility,1
+79,Female,COPD,10,10,2,Home,0
+95,Male,Kidney Disease,14,15,4,Skilled Nursing Facility,1
+53,Female,Diabetes,4,4,1,Home Health Care,1
+53,Male,Diabetes,4,6,2,Skilled Nursing Facility,0
+68,Female,Hypertension,7,7,3,Skilled Nursing Facility,1
+74,Male,COPD,11,12,1,Home,1
+41,Male,Diabetes,0,1,0,Home,1
+45,Male,Hypertension,0,1,1,Home,0
+69,Male,Diabetes,4,8,0,Home,0
+27,Male,Hypertension,2,3,0,Home,0
+49,Female,COPD,11,14,3,Skilled Nursing Facility,1
+56,Female,COPD,8,9,1,Rehabilitation Facility,0
+53,Female,Hypertension,5,4,1,Home,0
+77,Male,Heart Disease,10,12,2,Rehabilitation Facility,1
+42,Male,COPD,10,10,1,Home,0
+60,Male,Hypertension,5,7,1,Home,0
+45,Male,Heart Disease,12,14,2,Home,1
+75,Male,COPD,5,7,2,Rehabilitation Facility,0
+68,Male,Kidney Disease,13,13,3,Home,1
+33,Male,Kidney Disease,7,11,0,Home,0
+82,Male,Diabetes,4,3,1,Rehabilitation Facility,0
+54,Male,Diabetes,9,12,2,Skilled Nursing Facility,1
+73,Female,Diabetes,12,14,3,Skilled Nursing Facility,1
+45,Female,Heart Disease,5,7,2,Skilled Nursing Facility,1
+90,Male,COPD,8,10,3,Rehabilitation Facility,1
+81,Male,Kidney Disease,10,11,2,Rehabilitation Facility,0
+76,Male,Diabetes,7,6,3,Home Health Care,1
+68,Female,Diabetes,7,10,1,Home Health Care,0
+56,Male,Heart Disease,5,4,1,Home,0
+63,Male,Diabetes,2,4,1,Home,0
+40,Female,Heart Disease,0,1,0,Home Health Care,0
+58,Female,COPD,3,4,0,Home,0
+53,Female,Diabetes,8,10,1,Rehabilitation Facility,0
+83,Female,Heart Disease,5,9,1,Home,1
+47,Male,COPD,9,8,2,Home Health Care,1
+50,Male,COPD,11,12,1,Rehabilitation Facility,0
+74,Male,Heart Disease,14,12,4,Home,1
+63,Female,Diabetes,2,5,1,Rehabilitation Facility,0
+49,Male,Kidney Disease,14,17,3,Home Health Care,0
+76,Male,Heart Disease,1,3,1,Home,0
+42,Male,Hypertension,6,7,1,Rehabilitation Facility,0
+66,Male,Heart Disease,11,12,1,Rehabilitation Facility,1
+74,Male,Diabetes,11,11,2,Skilled Nursing Facility,1
+66,Female,Diabetes,10,13,2,Skilled Nursing Facility,1
+86,Male,Heart Disease,10,10,3,Rehabilitation Facility,1
+78,Female,Kidney Disease,10,11,2,Rehabilitation Facility,0
+50,Male,COPD,9,9,2,Home,1
+55,Male,Kidney Disease,9,11,1,Rehabilitation Facility,0
+47,Male,Heart Disease,7,7,1,Skilled Nursing Facility,0
+41,Male,Diabetes,4,4,1,Home,0
+57,Male,COPD,7,8,1,Skilled Nursing Facility,1
+63,Male,Heart Disease,8,8,1,Home,0
+64,Female,Diabetes,6,9,1,Home,0
+52,Male,Heart Disease,5,8,0,Home,0
+55,Female,Heart Disease,13,14,3,Skilled Nursing Facility,1
+90,Male,Heart Disease,17,19,4,Skilled Nursing Facility,1
+47,Male,Diabetes,7,7,3,Rehabilitation Facility,0
+71,Female,Diabetes,8,8,3,Skilled Nursing Facility,1
+46,Female,COPD,11,12,2,Home Health Care,1
+68,Male,Diabetes,4,4,1,Skilled Nursing Facility,0
+54,Female,Heart Disease,3,5,0,Home Health Care,0
+52,Male,Kidney Disease,7,7,0,Home,0
+77,Female,Diabetes,12,12,1,Skilled Nursing Facility,1
+79,Female,Heart Disease,10,8,3,Home Health Care,1
+66,Female,Heart Disease,8,11,1,Home Health Care,1
+66,Male,Kidney Disease,7,8,2,Home,1
+39,Female,COPD,7,9,0,Home,0
+55,Female,Diabetes,2,3,1,Home Health Care,0
+59,Female,Heart Disease,3,8,0,Home,0
+51,Female,Heart Disease,5,9,1,Home Health Care,0
+75,Female,Heart Disease,8,6,3,Skilled Nursing Facility,1
+77,Female,COPD,14,13,4,Rehabilitation Facility,1
+71,Male,Heart Disease,12,12,2,Home Health Care,1
+64,Male,Kidney Disease,10,11,2,Rehabilitation Facility,0
+58,Female,Diabetes,4,3,1,Home,0
+58,Male,Heart Disease,8,11,3,Rehabilitation Facility,1
+75,Male,Heart Disease,9,9,2,Home,0
+47,Female,Heart Disease,6,10,0,Home,1
+33,Female,Kidney Disease,5,7,1,Home Health Care,0
+52,Male,Diabetes,6,4,1,Home,0
+42,Female,Diabetes,6,5,1,Home,0
+68,Male,Kidney Disease,15,15,2,Home,1
+77,Male,Heart Disease,14,14,2,Skilled Nursing Facility,1
+68,Male,Diabetes,8,9,2,Skilled Nursing Facility,0
+80,Male,Kidney Disease,14,15,1,Home Health Care,0
+95,Female,COPD,16,16,4,Skilled Nursing Facility,1
+70,Female,Diabetes,10,9,4,Rehabilitation Facility,1
+66,Female,Hypertension,4,5,1,Home,0
+58,Male,COPD,15,14,4,Home Health Care,1
+68,Female,Diabetes,2,6,0,Home,0
+59,Male,COPD,5,7,1,Home,0
+77,Male,Diabetes,4,5,1,Home,1
+68,Male,COPD,12,13,2,Home,0
+58,Female,Diabetes,12,12,3,Skilled Nursing Facility,0
+54,Male,Heart Disease,7,8,1,Home,1
+49,Female,Heart Disease,1,5,0,Home,0
+42,Male,Diabetes,5,5,2,Rehabilitation Facility,1
+50,Female,Diabetes,6,10,0,Home,0
+87,Male,Heart Disease,7,10,1,Home,1
+43,Female,Kidney Disease,7,10,0,Home,0
+95,Male,COPD,2,6,1,Home,1
+85,Female,Heart Disease,17,18,4,Skilled Nursing Facility,1
+51,Female,Kidney Disease,10,12,1,Home Health Care,0
+89,Male,Heart Disease,11,13,3,Rehabilitation Facility,1
+77,Female,Diabetes,8,7,2,Rehabilitation Facility,0
+41,Female,Kidney Disease,12,15,1,Rehabilitation Facility,1
+41,Male,Hypertension,5,5,0,Home,0
+60,Male,Hypertension,5,6,2,Home Health Care,0
+64,Male,Diabetes,7,9,2,Skilled Nursing Facility,1
+35,Male,Diabetes,0,3,0,Home Health Care,0
+61,Male,Heart Disease,4,5,0,Home,1
+65,Female,Kidney Disease,9,10,2,Home Health Care,1
+62,Female,Hypertension,3,1,1,Home,1
+77,Male,Diabetes,6,7,1,Rehabilitation Facility,1
+62,Female,Diabetes,8,9,3,Skilled Nursing Facility,1
+63,Male,Heart Disease,12,11,2,Rehabilitation Facility,1
+52,Male,Diabetes,2,2,2,Rehabilitation Facility,0
+69,Female,Kidney Disease,13,13,2,Rehabilitation Facility,0
+58,Female,Hypertension,4,1,1,Rehabilitation Facility,0
+61,Male,Diabetes,5,2,2,Home Health Care,1
+62,Female,Diabetes,8,9,2,Home Health Care,0
+48,Female,Heart Disease,10,7,3,Rehabilitation Facility,0
+65,Female,Diabetes,13,13,3,Rehabilitation Facility,1
+58,Female,Diabetes,8,10,2,Home,0
+72,Male,COPD,11,12,2,Rehabilitation Facility,1
+51,Male,Heart Disease,9,14,0,Home,0
+57,Male,Diabetes,8,7,4,Home Health Care,1
+51,Male,Hypertension,3,6,0,Home Health Care,0
+50,Female,COPD,5,8,0,Home,0
+62,Male,Heart Disease,10,11,0,Home,0
+58,Male,Kidney Disease,4,5,0,Home,1
+46,Female,Heart Disease,6,7,1,Home,0
+52,Male,Heart Disease,10,12,2,Rehabilitation Facility,1
+53,Male,Diabetes,8,10,0,Home,1
+40,Female,Hypertension,4,5,2,Rehabilitation Facility,1
+74,Male,Hypertension,8,10,2,Rehabilitation Facility,1
+61,Male,Hypertension,3,6,1,Skilled Nursing Facility,0
+54,Female,Heart Disease,5,8,1,Home Health Care,1
+48,Male,COPD,9,10,3,Rehabilitation Facility,0
+64,Male,Heart Disease,8,9,2,Home Health Care,1
+72,Female,COPD,14,15,4,Home Health Care,1
+57,Female,COPD,7,9,0,Home,0
+64,Female,Kidney Disease,9,11,2,Home Health Care,1
+83,Female,COPD,15,14,4,Skilled Nursing Facility,1
+52,Female,Kidney Disease,13,14,3,Home Health Care,1
+51,Male,Heart Disease,12,14,2,Home,1
+66,Male,Diabetes,0,1,0,Home,0
+40,Female,Heart Disease,3,5,1,Skilled Nursing Facility,0
+52,Male,Heart Disease,1,4,0,Rehabilitation Facility,0
+57,Male,Kidney Disease,9,12,3,Skilled Nursing Facility,1
+36,Male,Kidney Disease,7,12,0,Home,1
+56,Male,Kidney Disease,4,6,0,Home Health Care,0
+58,Male,Hypertension,3,4,1,Home Health Care,0
+50,Female,COPD,6,9,0,Rehabilitation Facility,0
+51,Female,Heart Disease,5,8,1,Skilled Nursing Facility,0
+86,Male,Diabetes,11,12,2,Skilled Nursing Facility,1
+50,Female,Hypertension,2,2,1,Home Health Care,0
+66,Female,Diabetes,8,5,3,Skilled Nursing Facility,1
+76,Female,Diabetes,9,8,3,Home Health Care,1
+81,Female,Diabetes,12,11,4,Skilled Nursing Facility,1
+64,Female,Kidney Disease,9,10,1,Home,0
+34,Male,Heart Disease,7,8,1,Home Health Care,1
+46,Male,Diabetes,2,3,0,Home Health Care,1
+75,Female,Hypertension,10,10,3,Skilled Nursing Facility,1
+71,Female,Diabetes,4,8,2,Skilled Nursing Facility,1
+52,Male,Hypertension,3,6,1,Rehabilitation Facility,0
+79,Male,COPD,14,15,4,Home Health Care,0
+46,Female,Heart Disease,0,2,0,Home,0
+61,Male,Heart Disease,12,14,3,Rehabilitation Facility,1
+51,Male,COPD,4,8,0,Home,1
+40,Male,Heart Disease,7,10,1,Skilled Nursing Facility,0
+51,Male,Heart Disease,1,4,0,Home,0
+64,Male,Kidney Disease,13,14,2,Rehabilitation Facility,1
+61,Female,Hypertension,8,7,2,Home Health Care,0
+73,Female,Diabetes,3,5,2,Home Health Care,1
+63,Female,Heart Disease,5,10,0,Home Health Care,0
+79,Female,Heart Disease,11,11,3,Skilled Nursing Facility,1
+78,Female,Kidney Disease,7,8,1,Home,1
+95,Male,Diabetes,11,13,3,Rehabilitation Facility,1
+62,Male,Kidney Disease,6,7,0,Home,0
+53,Female,COPD,8,12,1,Home Health Care,0
+52,Male,Heart Disease,10,13,3,Skilled Nursing Facility,1
+49,Male,Heart Disease,5,7,0,Home,0
+64,Female,COPD,1,3,0,Home,0
+80,Male,COPD,7,9,1,Rehabilitation Facility,0
+51,Male,Heart Disease,2,5,0,Home,1
+56,Female,Diabetes,9,10,2,Skilled Nursing Facility,1
+75,Male,Kidney Disease,5,8,1,Home,1
+49,Female,Kidney Disease,5,9,1,Home,0
+28,Male,Heart Disease,1,3,0,Home,0
+72,Female,Diabetes,14,11,4,Skilled Nursing Facility,1
+48,Male,Heart Disease,8,7,1,Home,0
+65,Female,Kidney Disease,12,13,3,Skilled Nursing Facility,1
+68,Female,COPD,7,11,0,Home,1
+58,Female,Heart Disease,6,8,1,Rehabilitation Facility,0
+59,Male,Hypertension,8,6,4,Skilled Nursing Facility,1
+64,Male,Diabetes,1,4,0,Rehabilitation Facility,0
+65,Male,Diabetes,12,11,3,Rehabilitation Facility,1
+67,Female,Diabetes,15,15,3,Rehabilitation Facility,1
+70,Female,Heart Disease,6,7,1,Rehabilitation Facility,0
+42,Male,Kidney Disease,8,11,1,Home,0
+66,Female,Heart Disease,14,12,3,Skilled Nursing Facility,1
+43,Female,Diabetes,1,4,0,Home,0
+63,Male,Heart Disease,10,9,3,Skilled Nursing Facility,1
+73,Male,Diabetes,11,11,4,Skilled Nursing Facility,1
+95,Male,Diabetes,7,9,2,Rehabilitation Facility,0
+51,Female,Kidney Disease,3,7,0,Home Health Care,0
+84,Female,Diabetes,8,8,3,Home Health Care,1
+52,Male,COPD,10,11,2,Rehabilitation Facility,1
+66,Female,COPD,13,12,3,Rehabilitation Facility,1
+35,Female,Heart Disease,6,8,0,Home,0
+51,Male,Diabetes,9,10,1,Rehabilitation Facility,0
+45,Female,Diabetes,1,2,0,Home,0
+65,Female,Heart Disease,12,10,2,Rehabilitation Facility,1
+38,Male,Diabetes,3,3,0,Home,0
+38,Female,COPD,5,7,1,Home,0
+58,Female,Heart Disease,14,14,3,Home Health Care,0
+81,Male,Hypertension,8,7,2,Skilled Nursing Facility,0
+81,Female,COPD,10,10,2,Home Health Care,1
+33,Female,Heart Disease,9,12,0,Home,1
+73,Female,Heart Disease,7,7,1,Home,0
+87,Female,Heart Disease,13,14,3,Home,1
+55,Male,Diabetes,5,6,1,Home Health Care,0
+65,Male,COPD,8,12,0,Home Health Care,0
+54,Female,COPD,8,11,3,Skilled Nursing Facility,1
+63,Female,COPD,9,12,1,Skilled Nursing Facility,0
+82,Female,Diabetes,17,16,3,Home,1
+72,Male,Heart Disease,13,12,3,Home Health Care,1
+68,Female,Diabetes,2,4,0,Home Health Care,0
+71,Female,Diabetes,5,7,2,Home Health Care,1
+32,Female,Diabetes,0,3,0,Home,0
+80,Male,COPD,13,10,4,Skilled Nursing Facility,1
+47,Male,Diabetes,2,5,0,Home Health Care,0
+52,Female,Diabetes,5,5,2,Skilled Nursing Facility,0
+55,Female,COPD,8,11,2,Home Health Care,0
+69,Male,COPD,10,12,2,Rehabilitation Facility,1
+59,Female,Diabetes,5,4,1,Rehabilitation Facility,1
+52,Male,Heart Disease,11,13,1,Rehabilitation Facility,0
+51,Male,Kidney Disease,5,7,1,Rehabilitation Facility,0
+33,Male,COPD,1,3,0,Home Health Care,1
+68,Male,Diabetes,10,10,3,Skilled Nursing Facility,1
+62,Male,Heart Disease,12,15,2,Home Health Care,1
+78,Female,Diabetes,7,10,2,Home,1
+57,Female,Diabetes,12,11,4,Rehabilitation Facility,1
+66,Male,Heart Disease,7,8,0,Home,1
+57,Male,COPD,5,8,1,Home Health Care,0
+86,Female,Diabetes,10,8,3,Rehabilitation Facility,1
+71,Male,Hypertension,13,12,4,Rehabilitation Facility,1
+42,Male,COPD,10,13,1,Home,0
+68,Male,COPD,4,7,1,Home,0
+60,Male,Kidney Disease,14,18,2,Skilled Nursing Facility,1
+47,Female,Heart Disease,4,3,0,Home,0
+67,Female,Heart Disease,9,10,3,Skilled Nursing Facility,1
+53,Male,Diabetes,2,6,0,Home Health Care,0
+66,Female,Diabetes,10,11,3,Rehabilitation Facility,0
+65,Male,Heart Disease,6,7,2,Rehabilitation Facility,0
+60,Female,COPD,7,10,2,Home,0
+55,Female,Hypertension,3,4,1,Home Health Care,1
+67,Female,COPD,6,8,1,Skilled Nursing Facility,0
+58,Female,COPD,4,7,1,Home Health Care,1
+57,Male,COPD,11,13,3,Skilled Nursing Facility,1
+64,Female,Heart Disease,4,4,1,Skilled Nursing Facility,0
+45,Female,COPD,4,8,1,Home Health Care,0
+75,Female,Diabetes,7,3,3,Home Health Care,0
+81,Male,Diabetes,16,15,3,Home,1
+60,Male,Diabetes,12,11,3,Rehabilitation Facility,0
+59,Female,Heart Disease,4,7,1,Skilled Nursing Facility,0
+53,Male,COPD,8,11,1,Home Health Care,0
+56,Male,COPD,10,15,0,Home,0
+65,Female,Hypertension,8,10,3,Rehabilitation Facility,1
+53,Male,COPD,9,13,2,Rehabilitation Facility,1
+38,Female,COPD,6,6,1,Rehabilitation Facility,0
+54,Male,Heart Disease,9,12,2,Home Health Care,1
+35,Male,Heart Disease,6,8,0,Home,0
+70,Female,Hypertension,8,7,4,Skilled Nursing Facility,1
+31,Female,Diabetes,4,5,0,Home,0
+75,Male,COPD,12,13,2,Rehabilitation Facility,1
+59,Male,Diabetes,8,8,3,Rehabilitation Facility,0
+49,Male,Heart Disease,3,3,0,Home Health Care,0
+53,Female,Diabetes,8,9,2,Rehabilitation Facility,0
+45,Male,Kidney Disease,8,11,1,Home,0
+43,Female,Kidney Disease,11,12,2,Home,0
+35,Female,COPD,6,8,1,Home Health Care,1
+74,Female,Diabetes,8,8,2,Skilled Nursing Facility,1
+65,Female,Hypertension,11,12,3,Rehabilitation Facility,1
+88,Male,Diabetes,5,4,3,Skilled Nursing Facility,1
+62,Female,Diabetes,8,7,3,Home,0
+32,Male,Diabetes,2,4,0,Home Health Care,1
+87,Male,Heart Disease,11,12,3,Skilled Nursing Facility,1
+62,Male,Heart Disease,8,11,2,Home,1
+53,Female,COPD,10,13,2,Rehabilitation Facility,1
+67,Male,Kidney Disease,10,12,3,Skilled Nursing Facility,1
+58,Female,Heart Disease,7,8,2,Home Health Care,1
+73,Female,Diabetes,10,11,3,Home,1
+77,Female,Diabetes,11,11,4,Skilled Nursing Facility,1
+69,Female,Hypertension,4,1,2,Home,1
+74,Male,COPD,12,11,4,Home Health Care,1
+66,Male,Hypertension,11,10,2,Rehabilitation Facility,1
+60,Female,Heart Disease,13,14,2,Home Health Care,1
+47,Female,Kidney Disease,7,6,2,Skilled Nursing Facility,0
+68,Female,Hypertension,6,4,2,Home Health Care,0
+47,Female,Hypertension,7,8,2,Rehabilitation Facility,1
+56,Female,Hypertension,1,1,1,Home,0
+57,Male,Heart Disease,8,7,3,Skilled Nursing Facility,0
+64,Female,Hypertension,6,4,2,Home Health Care,1
+80,Female,Kidney Disease,9,9,2,Home Health Care,1
+61,Male,Hypertension,9,10,2,Home Health Care,0
+71,Female,Diabetes,3,5,1,Rehabilitation Facility,1
+84,Female,Heart Disease,15,13,3,Rehabilitation Facility,1
+64,Male,Diabetes,6,8,2,Rehabilitation Facility,1
+52,Male,Diabetes,8,11,0,Home,0
+74,Female,COPD,6,7,1,Home Health Care,0
+53,Female,Hypertension,8,7,3,Rehabilitation Facility,1
+65,Male,Heart Disease,3,4,1,Home,0
+46,Female,Heart Disease,2,8,0,Home,1
+58,Female,Kidney Disease,8,9,3,Skilled Nursing Facility,1
+76,Female,COPD,2,4,2,Skilled Nursing Facility,0
+63,Female,Kidney Disease,11,12,2,Home,1
+47,Male,Heart Disease,7,11,1,Home,0
+68,Female,Heart Disease,7,12,2,Skilled Nursing Facility,0
+63,Male,Hypertension,5,7,1,Home Health Care,1
+45,Female,Diabetes,3,3,1,Home,1
+38,Female,COPD,5,8,0,Home,0
+57,Female,Kidney Disease,9,10,2,Rehabilitation Facility,0
+62,Male,Heart Disease,11,13,3,Skilled Nursing Facility,1
+53,Male,Kidney Disease,6,9,1,Home Health Care,0
+50,Female,Heart Disease,11,12,2,Rehabilitation Facility,1
+78,Male,Heart Disease,5,4,1,Home,0
+73,Male,Hypertension,10,11,3,Home Health Care,1
+57,Female,COPD,4,7,2,Home Health Care,0
+93,Female,Diabetes,5,7,1,Home,1
+69,Female,Kidney Disease,13,15,2,Home Health Care,1
+83,Female,Diabetes,12,12,4,Skilled Nursing Facility,1
+74,Male,Kidney Disease,10,12,2,Skilled Nursing Facility,1
+41,Female,Hypertension,6,7,1,Home Health Care,1
+66,Female,COPD,12,14,2,Home Health Care,1
+73,Male,Heart Disease,8,10,1,Home,0
+76,Male,Diabetes,6,7,2,Rehabilitation Facility,1
+49,Male,Hypertension,4,9,1,Home,0
+67,Female,Diabetes,10,10,4,Home Health Care,1
+44,Female,Heart Disease,7,8,0,Home,0
+43,Male,COPD,8,9,2,Home Health Care,0
+63,Male,Hypertension,8,7,2,Home,0
+71,Female,Heart Disease,8,9,3,Skilled Nursing Facility,1
+53,Female,Heart Disease,4,9,0,Home Health Care,0
+51,Male,Heart Disease,6,8,1,Skilled Nursing Facility,0
+62,Male,Diabetes,8,7,2,Home Health Care,0
+43,Female,Diabetes,1,3,0,Home,0
+84,Female,Heart Disease,7,4,3,Skilled Nursing Facility,1
+85,Female,Kidney Disease,11,12,2,Skilled Nursing Facility,1
+89,Female,COPD,17,16,4,Rehabilitation Facility,1
+46,Male,Diabetes,0,3,0,Home,0
+50,Female,Hypertension,10,10,3,Skilled Nursing Facility,0
+67,Male,COPD,7,8,2,Skilled Nursing Facility,0
+44,Male,Diabetes,3,3,0,Home,1
+59,Male,Diabetes,6,7,0,Home,0
+65,Male,COPD,9,10,2,Rehabilitation Facility,0
+72,Male,Kidney Disease,11,13,3,Rehabilitation Facility,1
+61,Male,COPD,11,13,3,Skilled Nursing Facility,1
+53,Female,Hypertension,2,2,0,Home,0
+55,Male,Hypertension,2,1,0,Home,0
+67,Female,Hypertension,9,7,2,Home Health Care,1
+24,Male,Heart Disease,7,12,1,Home Health Care,1
+49,Male,Kidney Disease,12,15,3,Skilled Nursing Facility,1
+40,Male,COPD,3,4,0,Home Health Care,0
+57,Female,Hypertension,6,4,3,Home,1
+82,Female,Heart Disease,8,10,2,Home Health Care,1
+53,Female,Hypertension,1,2,1,Home Health Care,1
+70,Female,COPD,12,13,3,Skilled Nursing Facility,1
+43,Male,Kidney Disease,5,7,0,Home,0
+40,Female,COPD,5,9,0,Home Health Care,0
+62,Female,Kidney Disease,11,11,2,Rehabilitation Facility,1
+74,Female,Heart Disease,13,9,3,Rehabilitation Facility,1
+60,Female,Kidney Disease,8,13,0,Home Health Care,0
+76,Male,Heart Disease,6,9,0,Home Health Care,0
+37,Female,Hypertension,7,8,2,Skilled Nursing Facility,1
+64,Female,Diabetes,6,8,0,Home,0
+67,Female,COPD,9,12,1,Home,1
+86,Female,Heart Disease,16,16,4,Skilled Nursing Facility,1
+64,Male,Diabetes,4,7,1,Home,0
+83,Female,Hypertension,8,7,3,Rehabilitation Facility,0
+75,Male,Kidney Disease,10,11,3,Skilled Nursing Facility,1
+56,Female,Diabetes,10,7,2,Home,1
+60,Male,Diabetes,3,4,2,Home,0
+42,Male,Heart Disease,4,7,0,Home,1
+78,Male,Diabetes,0,3,1,Rehabilitation Facility,1
+21,Female,Heart Disease,5,7,0,Home,0
+27,Female,Heart Disease,1,1,0,Home,0
+95,Female,Hypertension,3,1,2,Rehabilitation Facility,1
+58,Female,Hypertension,4,4,2,Rehabilitation Facility,1
+71,Female,Kidney Disease,13,13,3,Skilled Nursing Facility,1
+69,Male,Hypertension,1,4,0,Home,0
+93,Female,COPD,13,14,3,Rehabilitation Facility,1
+41,Male,COPD,8,10,1,Home,1
+70,Female,Heart Disease,9,9,3,Skilled Nursing Facility,1
+43,Female,COPD,7,8,2,Skilled Nursing Facility,1
+70,Male,Hypertension,12,11,4,Skilled Nursing Facility,1
+52,Female,Diabetes,9,10,2,Home,1
+67,Female,Diabetes,10,10,3,Rehabilitation Facility,1
+47,Female,COPD,3,5,1,Home,0
+74,Male,Diabetes,6,6,2,Home Health Care,0
+88,Female,Diabetes,9,10,3,Rehabilitation Facility,1
+64,Female,Kidney Disease,6,12,1,Home,1
+58,Female,COPD,9,11,2,Home Health Care,1
+67,Female,COPD,6,9,0,Skilled Nursing Facility,1
+57,Female,COPD,2,6,0,Home,1
+82,Male,Diabetes,10,11,3,Rehabilitation Facility,1
+84,Male,Heart Disease,13,15,2,Home,1
+66,Male,Kidney Disease,7,11,0,Home Health Care,0
+37,Female,Hypertension,3,4,0,Home,0
+62,Female,Diabetes,10,9,3,Rehabilitation Facility,1
+55,Male,Heart Disease,7,6,1,Home Health Care,0
+62,Male,Diabetes,15,15,3,Skilled Nursing Facility,1
+55,Male,Kidney Disease,7,10,0,Home,0
+41,Male,COPD,8,9,3,Skilled Nursing Facility,0
+52,Female,Kidney Disease,4,5,1,Rehabilitation Facility,0
+55,Female,Heart Disease,3,5,1,Home Health Care,0
+58,Female,Heart Disease,6,6,1,Home,1
+69,Female,Diabetes,6,6,1,Rehabilitation Facility,0
+63,Male,Diabetes,8,8,2,Home Health Care,1
+74,Male,Diabetes,8,7,3,Skilled Nursing Facility,0
+58,Male,Heart Disease,5,8,1,Rehabilitation Facility,1
+52,Female,COPD,5,7,0,Home,1
+82,Female,COPD,13,15,4,Rehabilitation Facility,1
+44,Male,Heart Disease,4,7,0,Home,0
+59,Male,Heart Disease,10,11,2,Home Health Care,0
+49,Male,Diabetes,1,3,0,Home,0
+20,Male,Kidney Disease,7,7,0,Home,0
+48,Male,COPD,3,6,1,Home Health Care,0
+71,Male,Diabetes,13,12,3,Skilled Nursing Facility,1
+61,Female,Heart Disease,10,10,2,Skilled Nursing Facility,1
+71,Male,Hypertension,10,10,3,Skilled Nursing Facility,1
+53,Female,Hypertension,12,15,2,Home,0
+66,Female,Hypertension,9,9,1,Skilled Nursing Facility,1
+58,Male,Diabetes,11,11,2,Home Health Care,1
+59,Female,COPD,8,6,2,Rehabilitation Facility,0
+88,Male,Kidney Disease,15,14,3,Skilled Nursing Facility,1
+75,Female,Hypertension,8,8,4,Skilled Nursing Facility,1
+39,Male,Heart Disease,4,7,0,Home,0
+48,Female,Kidney Disease,6,7,1,Home Health Care,0
+90,Male,Diabetes,6,8,1,Home,1
+55,Male,Diabetes,1,5,0,Home,0
+67,Male,Kidney Disease,9,11,3,Rehabilitation Facility,1
+64,Female,COPD,11,13,3,Rehabilitation Facility,1
+71,Male,Diabetes,7,8,3,Skilled Nursing Facility,1
+67,Male,Heart Disease,7,9,1,Home,1
+49,Male,Kidney Disease,6,8,0,Home,0
+48,Female,COPD,7,7,1,Home Health Care,1
+43,Male,Heart Disease,13,14,3,Home Health Care,0
+68,Female,COPD,1,3,1,Home Health Care,1
+95,Male,Heart Disease,7,8,1,Skilled Nursing Facility,0
+69,Male,COPD,11,12,4,Rehabilitation Facility,1
+41,Male,Heart Disease,8,10,1,Rehabilitation Facility,0
+86,Male,Hypertension,1,1,1,Home Health Care,1
+71,Male,COPD,7,10,1,Rehabilitation Facility,0
+64,Female,Hypertension,4,6,1,Home,0
+62,Female,COPD,9,11,2,Home Health Care,1
+39,Male,Diabetes,6,7,1,Home Health Care,0
+46,Female,Diabetes,6,7,0,Home,0
+89,Female,Heart Disease,5,7,1,Home,1
+60,Male,Hypertension,7,7,3,Home Health Care,1
+68,Male,Hypertension,4,5,0,Home,0
+32,Male,COPD,9,10,0,Home,0
+64,Male,Heart Disease,11,10,2,Home,0
+54,Female,Heart Disease,6,7,2,Rehabilitation Facility,1
+49,Female,Diabetes,7,8,2,Home Health Care,1
+43,Male,Diabetes,7,11,1,Rehabilitation Facility,0
+68,Female,Diabetes,6,6,1,Home,1
+71,Female,COPD,16,15,4,Rehabilitation Facility,0
+50,Male,Diabetes,10,9,2,Rehabilitation Facility,1
+80,Female,Diabetes,10,10,3,Skilled Nursing Facility,1
+77,Female,Diabetes,10,11,3,Rehabilitation Facility,1
+50,Male,Heart Disease,7,8,1,Skilled Nursing Facility,1
+56,Male,COPD,11,12,2,Rehabilitation Facility,1
+79,Male,COPD,7,9,2,Skilled Nursing Facility,1
+73,Male,Diabetes,9,8,3,Skilled Nursing Facility,0
+43,Male,COPD,11,13,2,Skilled Nursing Facility,1
+63,Male,COPD,7,10,1,Home,0
+84,Male,Heart Disease,2,7,0,Home,1
+55,Female,Diabetes,4,7,0,Home Health Care,0
+58,Male,Diabetes,6,8,1,Home Health Care,0
+63,Male,Heart Disease,6,12,0,Rehabilitation Facility,1
+41,Male,Hypertension,1,3,0,Home,0
+34,Female,Hypertension,7,10,1,Home Health Care,0
+79,Female,COPD,8,11,3,Home Health Care,1
+67,Female,COPD,9,9,2,Rehabilitation Facility,0
+66,Male,Heart Disease,12,10,4,Rehabilitation Facility,1
+63,Male,Heart Disease,10,11,2,Skilled Nursing Facility,1
+54,Male,Heart Disease,7,9,0,Home,1
+54,Female,Diabetes,3,5,0,Home,0
+53,Male,Diabetes,0,1,0,Home,0
+42,Male,Heart Disease,3,6,0,Home Health Care,0
+71,Male,Diabetes,10,11,4,Rehabilitation Facility,1
+71,Female,Diabetes,5,7,2,Home Health Care,1
+45,Male,Kidney Disease,7,11,0,Home Health Care,0
+66,Female,Kidney Disease,15,16,3,Rehabilitation Facility,1
+55,Female,Heart Disease,10,10,2,Home,1
+65,Female,COPD,9,11,2,Home Health Care,1
+32,Female,Hypertension,5,8,0,Home,0
+59,Female,Heart Disease,2,2,0,Home,0
+52,Male,Hypertension,1,1,1,Home,0
+90,Female,Diabetes,6,7,2,Rehabilitation Facility,0
+80,Male,COPD,13,15,2,Rehabilitation Facility,1
+69,Male,COPD,12,12,3,Home,1
+68,Female,Diabetes,6,5,2,Home,0
+69,Female,Diabetes,2,4,0,Home,0
+70,Female,Diabetes,8,7,2,Rehabilitation Facility,1
+52,Male,Diabetes,4,7,1,Home Health Care,0
+45,Female,Diabetes,2,3,0,Home,0
+38,Female,Hypertension,5,8,0,Home,1
+42,Female,COPD,3,3,0,Rehabilitation Facility,1
+52,Female,Heart Disease,10,12,2,Skilled Nursing Facility,1
+58,Male,Heart Disease,7,9,3,Home,1
+57,Female,Heart Disease,6,7,1,Home Health Care,1
+85,Female,Hypertension,12,13,3,Home Health Care,1
+52,Female,Diabetes,3,4,1,Home Health Care,0
+54,Female,Diabetes,4,8,0,Home Health Care,0
+62,Female,Heart Disease,8,12,2,Rehabilitation Facility,1
+74,Female,COPD,14,14,4,Rehabilitation Facility,1
+61,Female,Diabetes,4,4,0,Home,0
+55,Female,COPD,7,10,1,Skilled Nursing Facility,1
+59,Female,COPD,10,10,2,Home,1
+53,Male,Hypertension,0,1,1,Home,0
+44,Female,Hypertension,4,3,0,Home,0
+74,Female,Heart Disease,11,12,2,Home,1
+55,Male,Heart Disease,15,15,4,Skilled Nursing Facility,1
+53,Male,Heart Disease,8,10,2,Rehabilitation Facility,0
+35,Male,COPD,5,9,1,Home,0
+79,Male,Kidney Disease,13,14,4,Home Health Care,1
+48,Female,Heart Disease,16,15,3,Skilled Nursing Facility,1
+80,Female,Heart Disease,5,7,2,Rehabilitation Facility,0
+40,Female,COPD,12,12,2,Home Health Care,1
+40,Male,COPD,8,10,1,Home Health Care,0
+91,Female,Diabetes,5,6,2,Home Health Care,0
+61,Female,COPD,8,11,2,Home Health Care,1
+46,Male,Kidney Disease,2,6,0,Home,0
+52,Female,COPD,6,9,1,Home Health Care,0
+82,Female,Heart Disease,10,8,2,Rehabilitation Facility,1
+32,Male,Diabetes,6,7,2,Rehabilitation Facility,1
+80,Female,Kidney Disease,15,12,4,Skilled Nursing Facility,1
+56,Male,Kidney Disease,8,10,0,Home,1
+72,Female,Diabetes,8,10,2,Home Health Care,0
+57,Female,Heart Disease,9,10,3,Skilled Nursing Facility,1
+37,Male,COPD,5,9,0,Home,1
+51,Male,Heart Disease,2,7,0,Home,0
+67,Male,Diabetes,7,8,1,Home Health Care,1
+80,Female,Diabetes,4,7,2,Rehabilitation Facility,1
+68,Female,Heart Disease,9,8,2,Home Health Care,1
+67,Male,Kidney Disease,9,11,1,Home,0
+70,Female,Heart Disease,11,14,2,Rehabilitation Facility,1
+49,Male,COPD,7,8,1,Home Health Care,0
+80,Female,COPD,16,14,4,Home Health Care,1
+61,Male,Heart Disease,9,11,2,Rehabilitation Facility,1
+69,Male,Heart Disease,12,11,3,Skilled Nursing Facility,1
+82,Female,Kidney Disease,10,12,2,Skilled Nursing Facility,1
+58,Male,Diabetes,3,2,2,Home,0
+61,Female,COPD,6,8,1,Rehabilitation Facility,0
+49,Female,Hypertension,3,4,1,Home Health Care,0
+75,Male,Kidney Disease,10,11,4,Home Health Care,1
+46,Male,Hypertension,3,4,1,Home,0
+57,Male,Hypertension,9,9,3,Rehabilitation Facility,1
+42,Male,Diabetes,4,5,1,Home,0
+65,Male,Diabetes,3,2,2,Home Health Care,0
+67,Female,Diabetes,11,10,3,Home Health Care,0
+56,Female,COPD,4,4,1,Home,1
+45,Male,Diabetes,6,9,0,Rehabilitation Facility,0
+46,Male,Heart Disease,9,10,2,Home,1
+78,Male,Heart Disease,9,11,2,Home,1
+34,Male,Kidney Disease,7,10,0,Home,1
+47,Female,Heart Disease,8,6,1,Home Health Care,0
+79,Female,COPD,14,14,4,Skilled Nursing Facility,1
+65,Male,COPD,8,9,1,Home Health Care,1
+83,Female,Kidney Disease,13,15,4,Home Health Care,1
+56,Male,COPD,9,9,2,Rehabilitation Facility,1
+58,Male,Heart Disease,11,12,3,Rehabilitation Facility,1
+61,Male,Diabetes,9,10,3,Rehabilitation Facility,1
+54,Male,Heart Disease,1,3,0,Home,0
+63,Male,Heart Disease,9,10,2,Rehabilitation Facility,1
+56,Male,Diabetes,10,10,3,Skilled Nursing Facility,0
+53,Male,Diabetes,3,4,0,Home,0
+59,Female,Diabetes,10,10,2,Rehabilitation Facility,1
+78,Female,Hypertension,6,4,3,Home,1
+68,Male,Hypertension,8,11,3,Skilled Nursing Facility,1
+61,Male,COPD,14,14,2,Rehabilitation Facility,1
+79,Male,Diabetes,10,7,4,Rehabilitation Facility,1
+88,Female,Heart Disease,10,10,2,Home Health Care,1
+57,Male,Hypertension,7,6,2,Home,0
+69,Male,COPD,9,11,2,Home Health Care,1
+43,Male,Heart Disease,4,7,1,Home,0
+68,Female,Heart Disease,5,8,1,Rehabilitation Facility,1
+20,Female,Diabetes,5,7,0,Home,0
+59,Female,Heart Disease,4,5,2,Home Health Care,0
+50,Male,Hypertension,6,4,2,Rehabilitation Facility,1
+48,Female,COPD,6,10,1,Home Health Care,0
+52,Male,Heart Disease,8,10,1,Home Health Care,0
+51,Male,Heart Disease,6,11,1,Home,0
+39,Female,Kidney Disease,6,7,1,Home Health Care,0
+58,Female,Hypertension,6,5,1,Home Health Care,0
+69,Female,COPD,6,9,0,Home,0
+81,Female,Diabetes,10,10,2,Rehabilitation Facility,0
+70,Male,COPD,9,8,4,Skilled Nursing Facility,1
+41,Female,Diabetes,6,7,2,Home Health Care,1
+64,Male,Heart Disease,5,6,1,Rehabilitation Facility,0
+42,Male,Heart Disease,5,7,0,Home,0
+60,Female,Diabetes,6,10,1,Home Health Care,0
+70,Female,COPD,11,13,4,Skilled Nursing Facility,1
+66,Male,Hypertension,5,3,2,Skilled Nursing Facility,1
+68,Female,Diabetes,6,6,1,Home Health Care,1
+37,Female,COPD,7,10,0,Home,1
+74,Male,Diabetes,7,9,2,Home,0
+76,Male,COPD,14,16,4,Skilled Nursing Facility,1
+76,Female,Heart Disease,12,14,3,Home Health Care,1
+43,Male,Diabetes,6,6,2,Home Health Care,0
+72,Male,Diabetes,4,7,0,Home,0
+61,Female,Heart Disease,17,15,4,Skilled Nursing Facility,1
+64,Male,Kidney Disease,17,19,3,Rehabilitation Facility,0
+42,Male,Diabetes,1,2,0,Home,0
+35,Male,Hypertension,0,3,0,Home,0
+72,Male,Diabetes,5,8,2,Home,1
+81,Female,Heart Disease,14,11,4,Rehabilitation Facility,1
+29,Female,Hypertension,4,3,1,Home,0
+61,Female,Diabetes,5,6,1,Home Health Care,1
+78,Male,Kidney Disease,13,14,2,Rehabilitation Facility,1
+41,Male,Diabetes,2,4,0,Home,0
+71,Male,COPD,10,11,2,Home,1
+69,Female,Diabetes,3,4,0,Home,0
+63,Female,Heart Disease,7,6,3,Rehabilitation Facility,1
+56,Male,Hypertension,1,4,0,Home Health Care,1
+63,Female,Heart Disease,6,8,1,Home Health Care,1
+54,Male,Heart Disease,4,8,0,Home,0
+58,Male,Hypertension,4,6,2,Rehabilitation Facility,1
+62,Male,Heart Disease,10,12,2,Rehabilitation Facility,1
+72,Female,Diabetes,11,10,3,Skilled Nursing Facility,1
+89,Male,Hypertension,9,11,3,Rehabilitation Facility,1
+59,Female,Hypertension,9,7,4,Rehabilitation Facility,1
+76,Male,COPD,9,10,2,Home,1
+52,Female,Heart Disease,9,13,1,Skilled Nursing Facility,0
+53,Female,COPD,6,9,1,Home Health Care,0
+75,Male,Diabetes,12,11,4,Skilled Nursing Facility,1
+27,Male,Kidney Disease,4,6,0,Home,0
+69,Female,Diabetes,12,12,3,Rehabilitation Facility,1
+65,Female,Hypertension,8,8,4,Skilled Nursing Facility,1
+60,Male,Kidney Disease,10,11,1,Home Health Care,0
+48,Male,Hypertension,4,3,2,Home Health Care,0
+71,Female,Hypertension,4,4,1,Home,0
+82,Female,Diabetes,9,7,3,Skilled Nursing Facility,0
+69,Female,Heart Disease,8,9,2,Rehabilitation Facility,1
+76,Female,COPD,8,8,2,Rehabilitation Facility,1
+65,Female,Heart Disease,10,11,1,Home Health Care,1
+64,Male,Heart Disease,12,13,2,Skilled Nursing Facility,0
+91,Female,Diabetes,8,8,2,Skilled Nursing Facility,0
+50,Male,Heart Disease,8,11,1,Home,0
+64,Male,Kidney Disease,5,6,2,Home,0
+51,Male,Heart Disease,2,6,1,Rehabilitation Facility,0
+56,Male,COPD,3,5,0,Home,0
+36,Male,Diabetes,4,8,0,Home Health Care,0
+95,Male,Diabetes,12,9,4,Home,1
+58,Male,Hypertension,4,5,1,Home,1
+66,Male,Heart Disease,10,13,2,Skilled Nursing Facility,1
+80,Female,Heart Disease,14,12,4,Skilled Nursing Facility,1
+75,Female,Heart Disease,13,12,4,Home Health Care,1
+78,Female,Hypertension,11,10,4,Home Health Care,1
+60,Male,Kidney Disease,6,9,0,Home,0
+50,Male,Heart Disease,6,6,1,Home Health Care,0
+69,Female,COPD,14,15,3,Skilled Nursing Facility,1
+41,Male,Diabetes,1,3,1,Home Health Care,0
+39,Female,COPD,7,10,1,Home,0
+66,Male,Hypertension,10,11,1,Rehabilitation Facility,0
+44,Female,Hypertension,3,4,1,Home,0
+32,Female,COPD,6,7,0,Skilled Nursing Facility,0
+47,Male,COPD,8,10,0,Home,0
+54,Male,Heart Disease,8,9,2,Home Health Care,1
+58,Female,Diabetes,6,7,2,Home Health Care,1
+88,Female,Diabetes,10,11,3,Rehabilitation Facility,1
+43,Male,Diabetes,3,5,0,Home,0
+51,Male,Heart Disease,3,6,0,Home,1
+43,Female,Heart Disease,3,6,0,Home,0
+77,Male,Heart Disease,9,11,3,Skilled Nursing Facility,1
+59,Male,Heart Disease,13,14,3,Home,1
+62,Male,Hypertension,6,9,1,Home,1
+85,Male,Kidney Disease,14,14,3,Home,1
+61,Female,Diabetes,11,10,3,Skilled Nursing Facility,1
+55,Male,Hypertension,7,8,2,Home Health Care,0
+32,Male,Diabetes,3,3,0,Home,0
+53,Male,Heart Disease,4,6,1,Home,0
+78,Male,COPD,12,12,4,Home,1
+81,Female,Hypertension,7,7,3,Home Health Care,1
+71,Male,Kidney Disease,6,8,1,Home Health Care,0
+95,Female,COPD,10,9,1,Rehabilitation Facility,0
+74,Male,Diabetes,14,13,4,Skilled Nursing Facility,1
+87,Male,COPD,9,9,3,Skilled Nursing Facility,1
+63,Male,COPD,9,11,1,Home Health Care,1
+44,Female,COPD,6,8,0,Home,0
+62,Male,COPD,5,8,1,Skilled Nursing Facility,0
+82,Female,Hypertension,10,11,3,Skilled Nursing Facility,1
+67,Male,Kidney Disease,8,10,2,Home,1
+44,Female,Kidney Disease,8,8,2,Rehabilitation Facility,1
+55,Female,Diabetes,7,8,1,Home,0
+67,Male,COPD,9,12,1,Skilled Nursing Facility,1
+68,Female,Heart Disease,9,12,2,Rehabilitation Facility,1
+77,Male,Diabetes,11,11,4,Home Health Care,1
+91,Male,Kidney Disease,8,12,2,Skilled Nursing Facility,1
+64,Male,Kidney Disease,8,12,0,Home Health Care,0
+44,Male,COPD,5,6,0,Home,0
+67,Female,Diabetes,7,4,3,Rehabilitation Facility,0
+35,Male,Diabetes,4,5,1,Home,1
+50,Male,Kidney Disease,12,15,1,Skilled Nursing Facility,1
+55,Male,Kidney Disease,7,7,2,Home Health Care,1
+49,Male,Diabetes,6,9,1,Home,1
+60,Female,Heart Disease,9,11,1,Rehabilitation Facility,0
+56,Male,Diabetes,8,8,2,Rehabilitation Facility,0
+67,Male,Diabetes,9,9,2,Home Health Care,1
+67,Male,COPD,8,10,1,Home,0
+68,Male,Diabetes,2,3,1,Home,1
+68,Male,COPD,9,10,2,Home Health Care,1
+35,Male,Hypertension,6,8,1,Home,1
+83,Male,Kidney Disease,12,14,2,Skilled Nursing Facility,1
+59,Female,COPD,10,11,3,Home Health Care,1
+72,Male,Diabetes,8,8,3,Home Health Care,1
+55,Female,COPD,5,9,0,Home,0
+80,Female,Kidney Disease,9,9,2,Rehabilitation Facility,1
+57,Male,Kidney Disease,6,8,1,Home,0
+54,Male,Heart Disease,11,13,2,Home Health Care,1
+74,Male,COPD,7,10,0,Skilled Nursing Facility,0
+45,Female,Heart Disease,5,6,1,Home,1
+47,Male,Diabetes,4,5,1,Rehabilitation Facility,1
+35,Male,Heart Disease,1,2,0,Home Health Care,0
+64,Female,Kidney Disease,13,16,3,Home,0
+83,Male,COPD,7,8,2,Home,1
+52,Male,Heart Disease,8,10,2,Rehabilitation Facility,1
+75,Female,Heart Disease,8,8,3,Rehabilitation Facility,1
+79,Female,Hypertension,13,10,3,Skilled Nursing Facility,1
+22,Male,Kidney Disease,3,6,0,Home,0
+53,Female,Diabetes,9,10,1,Home,1
+65,Male,Hypertension,3,6,0,Home,0
+72,Female,COPD,11,12,3,Rehabilitation Facility,0
+61,Male,Heart Disease,6,6,2,Home Health Care,1
+58,Male,Heart Disease,7,7,0,Home,0
+73,Male,Hypertension,7,8,2,Skilled Nursing Facility,1
+76,Male,Hypertension,10,10,3,Home,1
+53,Male,COPD,4,8,0,Home,0
+89,Female,Diabetes,9,12,3,Skilled Nursing Facility,1
+58,Female,Diabetes,4,5,1,Home,0
+57,Male,Heart Disease,7,8,2,Skilled Nursing Facility,1
+77,Male,COPD,5,5,2,Rehabilitation Facility,1
+47,Male,Hypertension,5,6,1,Home Health Care,1
+68,Male,Heart Disease,11,11,3,Home,1
+67,Female,COPD,8,11,1,Home,1
+55,Male,Heart Disease,7,10,1,Home,0
+49,Male,Heart Disease,7,10,0,Home,1
+45,Male,Heart Disease,1,4,0,Home,0
+67,Male,Hypertension,11,8,4,Rehabilitation Facility,1
+46,Male,Hypertension,8,7,1,Home Health Care,1
+83,Male,Diabetes,12,14,3,Home Health Care,1
+50,Male,Hypertension,1,1,0,Home,0
+36,Male,Heart Disease,9,11,1,Skilled Nursing Facility,1
+49,Female,Heart Disease,9,11,1,Home,1
+73,Female,Diabetes,8,9,3,Skilled Nursing Facility,1
+61,Female,Diabetes,7,6,2,Skilled Nursing Facility,1
+71,Male,Hypertension,5,6,2,Home Health Care,0
+85,Male,COPD,18,17,4,Skilled Nursing Facility,1
+38,Male,Diabetes,3,2,0,Home,0
+68,Male,Heart Disease,9,10,1,Home,0
+79,Female,Diabetes,1,4,0,Home,0
+64,Female,Diabetes,7,9,2,Skilled Nursing Facility,1
+59,Male,COPD,7,8,3,Rehabilitation Facility,1
+76,Male,Diabetes,7,6,3,Home Health Care,1
+57,Male,Heart Disease,8,9,2,Rehabilitation Facility,0
+58,Male,COPD,11,14,1,Home Health Care,1
+63,Male,Heart Disease,5,5,2,Home Health Care,1
+73,Male,Heart Disease,9,11,2,Rehabilitation Facility,1
+94,Male,Diabetes,8,7,4,Skilled Nursing Facility,1
+70,Female,Diabetes,11,13,2,Skilled Nursing Facility,1
+54,Female,COPD,9,12,2,Rehabilitation Facility,1
+64,Male,Heart Disease,12,11,4,Home Health Care,0
+75,Female,Diabetes,8,7,3,Home,0
+57,Male,Heart Disease,13,12,3,Rehabilitation Facility,1
+69,Male,Diabetes,6,7,1,Home,0
+64,Female,Hypertension,3,2,1,Skilled Nursing Facility,0
+60,Male,Diabetes,11,10,3,Skilled Nursing Facility,1
+75,Female,Heart Disease,7,9,1,Home,1
+85,Female,Heart Disease,11,14,4,Rehabilitation Facility,1
+67,Female,Hypertension,5,8,2,Skilled Nursing Facility,1
+52,Male,COPD,10,11,1,Rehabilitation Facility,1
+59,Male,Kidney Disease,14,15,3,Home,1
+68,Female,Heart Disease,7,8,1,Skilled Nursing Facility,1
+72,Male,Kidney Disease,12,12,3,Home,1
+39,Male,Diabetes,0,1,0,Home,0
+68,Male,Heart Disease,12,14,2,Home,0
+68,Male,Diabetes,8,10,3,Rehabilitation Facility,1
+58,Female,Hypertension,6,6,2,Skilled Nursing Facility,1
+63,Female,Diabetes,9,9,3,Skilled Nursing Facility,1
+55,Male,Diabetes,3,3,2,Skilled Nursing Facility,0
+66,Female,Hypertension,6,4,3,Skilled Nursing Facility,1
+95,Female,Kidney Disease,6,8,2,Skilled Nursing Facility,1
+72,Female,Diabetes,10,8,4,Skilled Nursing Facility,1
+84,Male,Heart Disease,11,10,3,Skilled Nursing Facility,1
+49,Female,Kidney Disease,4,8,0,Rehabilitation Facility,0
+60,Male,COPD,6,8,2,Rehabilitation Facility,1
+70,Female,COPD,10,6,2,Rehabilitation Facility,1
+48,Female,Heart Disease,4,7,0,Home Health Care,0
+58,Female,Heart Disease,5,8,2,Rehabilitation Facility,0
+63,Female,Heart Disease,4,5,0,Home,0
+92,Female,Hypertension,3,5,1,Home,0
+60,Male,Diabetes,6,8,1,Rehabilitation Facility,0
+45,Male,Heart Disease,9,6,1,Home,0
+63,Female,Heart Disease,11,12,2,Skilled Nursing Facility,1
+59,Female,COPD,10,12,2,Home Health Care,0
+48,Male,Heart Disease,11,11,2,Rehabilitation Facility,1
+71,Female,COPD,11,12,4,Rehabilitation Facility,1
+66,Female,Hypertension,0,1,1,Rehabilitation Facility,0
+49,Female,Hypertension,4,6,0,Home,0
+50,Male,Hypertension,7,9,2,Home Health Care,0
+55,Female,Diabetes,4,7,1,Home Health Care,0
+64,Male,COPD,8,10,2,Rehabilitation Facility,0
+65,Male,Hypertension,4,6,1,Home Health Care,0
+72,Female,Kidney Disease,11,15,0,Home,0
+27,Female,Heart Disease,3,7,0,Home,1
+63,Female,Kidney Disease,12,14,3,Home Health Care,1
+53,Female,Heart Disease,6,7,1,Skilled Nursing Facility,0
+65,Male,Hypertension,4,7,1,Rehabilitation Facility,1
+72,Male,Heart Disease,10,10,4,Skilled Nursing Facility,1
+48,Female,COPD,6,8,1,Skilled Nursing Facility,0
+82,Female,Kidney Disease,10,12,2,Home Health Care,1
+67,Male,Diabetes,2,4,0,Home,0
+64,Female,Diabetes,5,8,0,Home,0
+74,Female,Hypertension,13,14,4,Home,1
+53,Male,Heart Disease,1,3,0,Home,0
+53,Male,COPD,4,6,0,Home,0
+67,Female,Heart Disease,10,10,2,Rehabilitation Facility,1
+60,Female,Kidney Disease,6,10,2,Home,1
+42,Male,COPD,4,6,0,Home,0
+69,Male,Heart Disease,10,11,3,Rehabilitation Facility,1
+63,Female,Heart Disease,5,7,1,Skilled Nursing Facility,1
+18,Female,Hypertension,2,1,1,Home,0
+46,Female,Heart Disease,11,11,3,Skilled Nursing Facility,1
+74,Male,Hypertension,10,10,4,Skilled Nursing Facility,1
+64,Female,Heart Disease,9,11,2,Home Health Care,1
+54,Female,Heart Disease,5,8,0,Home,0
+51,Male,Heart Disease,8,8,0,Home,0
+46,Female,Heart Disease,5,7,0,Home,0
+41,Male,Kidney Disease,11,14,1,Home Health Care,1
+78,Male,Heart Disease,11,11,3,Home Health Care,1
+56,Male,Hypertension,6,6,2,Home Health Care,0
+59,Male,COPD,10,11,2,Rehabilitation Facility,1
+47,Female,Heart Disease,6,8,1,Home,0
+59,Male,Heart Disease,8,10,2,Skilled Nursing Facility,0
+55,Female,Heart Disease,15,13,3,Home Health Care,1
+37,Male,Kidney Disease,8,13,1,Rehabilitation Facility,0
+57,Male,Kidney Disease,15,18,3,Skilled Nursing Facility,1
+60,Male,Hypertension,8,8,3,Skilled Nursing Facility,1
+78,Male,Hypertension,1,1,1,Rehabilitation Facility,0
+69,Male,COPD,4,8,1,Rehabilitation Facility,0
+76,Male,Kidney Disease,13,15,4,Rehabilitation Facility,1
+53,Male,Kidney Disease,4,7,1,Home,0
+64,Male,Hypertension,6,7,1,Home,0
+63,Female,Heart Disease,4,4,0,Home,0
+62,Female,Diabetes,3,4,1,Skilled Nursing Facility,1
+68,Male,Diabetes,12,10,4,Home Health Care,1
+49,Female,COPD,0,2,0,Home Health Care,1
+65,Female,Diabetes,3,3,1,Home,0
+57,Female,Hypertension,12,10,3,Home Health Care,1
+48,Male,Heart Disease,9,11,2,Skilled Nursing Facility,1
+66,Male,Hypertension,11,7,3,Skilled Nursing Facility,1
+22,Male,Kidney Disease,0,5,0,Home Health Care,0
+82,Male,Kidney Disease,9,10,2,Rehabilitation Facility,0
+48,Female,Hypertension,11,9,3,Skilled Nursing Facility,0
+82,Female,Heart Disease,11,12,3,Home,1
+64,Female,Diabetes,5,5,2,Home Health Care,0
+59,Female,Heart Disease,5,8,0,Home,1
+68,Male,Diabetes,6,6,1,Rehabilitation Facility,0
+59,Male,Kidney Disease,6,7,1,Home Health Care,1
+71,Female,Hypertension,10,9,3,Rehabilitation Facility,0
+59,Male,Diabetes,5,5,1,Home,0
+38,Female,COPD,8,10,0,Home,0
+55,Female,Diabetes,5,2,2,Rehabilitation Facility,1
+53,Male,Heart Disease,8,11,2,Skilled Nursing Facility,1
+72,Male,COPD,7,11,0,Home,0
+66,Male,Heart Disease,7,6,2,Skilled Nursing Facility,1
+67,Female,Kidney Disease,9,11,2,Rehabilitation Facility,1
+57,Male,Kidney Disease,5,8,0,Home,0
+57,Female,Kidney Disease,13,14,4,Skilled Nursing Facility,1
+67,Female,Diabetes,2,2,2,Skilled Nursing Facility,1
+73,Female,COPD,14,13,4,Skilled Nursing Facility,1
+79,Female,Diabetes,5,5,2,Home Health Care,1
+74,Male,Diabetes,13,10,4,Rehabilitation Facility,1
+36,Male,Heart Disease,6,9,0,Home Health Care,0
+72,Female,Hypertension,9,6,4,Rehabilitation Facility,1
+77,Male,Hypertension,12,12,3,Rehabilitation Facility,0
+85,Male,Heart Disease,11,9,4,Rehabilitation Facility,1
+50,Female,Hypertension,4,5,1,Home Health Care,0
+50,Female,Hypertension,3,5,0,Home,0
+77,Male,Diabetes,16,13,4,Rehabilitation Facility,1
+34,Female,Heart Disease,5,7,0,Home,0
+71,Female,Diabetes,8,6,3,Skilled Nursing Facility,1
+75,Female,Kidney Disease,6,11,2,Rehabilitation Facility,1
+42,Male,Diabetes,3,5,0,Home,0
+45,Male,COPD,7,8,1,Rehabilitation Facility,0
+71,Female,COPD,15,14,4,Home,1
+45,Male,Heart Disease,10,10,3,Skilled Nursing Facility,1
+60,Male,Hypertension,7,7,2,Skilled Nursing Facility,0
+82,Male,Kidney Disease,14,15,3,Skilled Nursing Facility,1
+44,Male,Diabetes,2,4,1,Home,0
+76,Male,Diabetes,14,14,4,Skilled Nursing Facility,1
+45,Male,Kidney Disease,7,11,1,Home,1
+34,Male,Diabetes,6,8,2,Home Health Care,0
+60,Female,Heart Disease,9,12,2,Rehabilitation Facility,1
+95,Male,COPD,13,13,4,Home,1
+92,Female,COPD,14,15,4,Home Health Care,1
+65,Female,COPD,6,6,2,Rehabilitation Facility,0
+53,Female,COPD,4,6,1,Rehabilitation Facility,1
+60,Female,Heart Disease,11,11,3,Home Health Care,1
+51,Male,Diabetes,2,6,0,Home,0
+38,Male,Heart Disease,3,6,0,Rehabilitation Facility,0
+51,Male,Diabetes,3,5,1,Home,0
+75,Female,Heart Disease,10,11,3,Skilled Nursing Facility,1
+57,Female,Heart Disease,3,6,0,Home Health Care,0
+73,Female,Diabetes,14,12,4,Home,1
+64,Male,Diabetes,8,9,2,Rehabilitation Facility,0
+33,Male,Heart Disease,7,8,1,Skilled Nursing Facility,1
+62,Male,Diabetes,8,7,2,Rehabilitation Facility,1
+67,Male,Diabetes,5,6,2,Home,1
+48,Female,Diabetes,10,13,2,Rehabilitation Facility,1
+65,Female,Kidney Disease,6,8,0,Home Health Care,1
+48,Female,Kidney Disease,3,5,0,Home,0
+52,Male,COPD,7,10,0,Home,0
+60,Male,Heart Disease,13,15,3,Skilled Nursing Facility,1
+70,Female,Heart Disease,6,8,1,Home Health Care,0
+70,Female,Heart Disease,12,15,2,Rehabilitation Facility,1
+64,Female,COPD,6,9,0,Home,0
+49,Female,Diabetes,4,7,0,Home,1
+64,Male,COPD,9,9,1,Home Health Care,0
+55,Female,Heart Disease,9,10,2,Rehabilitation Facility,1
+64,Female,Hypertension,1,3,0,Home,0
+88,Female,Heart Disease,8,8,2,Rehabilitation Facility,1
+37,Female,Diabetes,1,3,0,Home,0
+39,Female,Hypertension,7,6,2,Home Health Care,1
+65,Male,Diabetes,4,3,3,Rehabilitation Facility,1
+71,Male,COPD,11,13,3,Skilled Nursing Facility,1
+70,Female,Diabetes,9,9,2,Skilled Nursing Facility,0
+77,Female,Kidney Disease,11,13,2,Rehabilitation Facility,1
+50,Male,Heart Disease,5,8,0,Skilled Nursing Facility,1
+55,Female,Hypertension,5,5,2,Home Health Care,0
+50,Female,Hypertension,4,4,0,Home,0
+60,Female,Heart Disease,8,9,2,Skilled Nursing Facility,1
+67,Female,Heart Disease,14,15,3,Skilled Nursing Facility,0
+86,Female,Heart Disease,8,8,3,Rehabilitation Facility,1
+69,Male,Kidney Disease,16,18,3,Skilled Nursing Facility,1
+70,Male,COPD,12,13,3,Skilled Nursing Facility,1
+92,Male,Diabetes,7,8,3,Skilled Nursing Facility,1
+52,Male,Heart Disease,1,2,0,Home,0
+80,Female,Diabetes,1,2,1,Home Health Care,0
+60,Male,Heart Disease,12,14,2,Rehabilitation Facility,0
+59,Male,Heart Disease,12,9,2,Skilled Nursing Facility,1
+64,Female,Diabetes,5,5,1,Home Health Care,1
+46,Male,Heart Disease,8,8,2,Home Health Care,0
+70,Female,COPD,9,9,2,Rehabilitation Facility,1
+65,Male,Heart Disease,6,7,0,Home,0
+67,Male,Heart Disease,7,9,0,Home,1
+57,Male,COPD,7,9,1,Rehabilitation Facility,1
+81,Male,Diabetes,17,13,4,Skilled Nursing Facility,1
+69,Male,Hypertension,8,9,2,Rehabilitation Facility,0
+51,Female,Kidney Disease,5,8,0,Home,0
+42,Female,COPD,8,8,1,Home Health Care,1
+62,Male,Heart Disease,6,7,3,Rehabilitation Facility,0
+56,Female,COPD,5,7,1,Home,0
+65,Male,Heart Disease,6,11,0,Home,0
+67,Female,Heart Disease,5,7,1,Rehabilitation Facility,0
+55,Female,Diabetes,7,10,1,Home,1
+80,Female,Kidney Disease,9,13,2,Rehabilitation Facility,1
+54,Female,Kidney Disease,7,10,0,Home,0
+85,Male,Diabetes,5,5,2,Rehabilitation Facility,1
+55,Female,Heart Disease,6,9,1,Home,0
+62,Male,Hypertension,10,11,3,Rehabilitation Facility,1
+44,Female,Hypertension,0,1,0,Home,0
+55,Male,Diabetes,3,4,0,Home,0
+49,Female,Heart Disease,7,9,1,Home Health Care,0
+81,Female,COPD,3,4,1,Home Health Care,0
+64,Female,Heart Disease,4,8,0,Home,0
+58,Female,COPD,15,16,4,Skilled Nursing Facility,1
+50,Male,Hypertension,6,5,3,Home Health Care,0
+61,Female,Hypertension,10,10,3,Skilled Nursing Facility,1
+50,Male,Diabetes,4,5,0,Home,0
+63,Female,Heart Disease,9,9,2,Rehabilitation Facility,1
+90,Female,Hypertension,9,7,4,Skilled Nursing Facility,1
+59,Male,COPD,4,9,1,Home Health Care,0
+78,Male,Hypertension,10,8,3,Rehabilitation Facility,0
+57,Male,COPD,11,13,2,Skilled Nursing Facility,1
+70,Male,Diabetes,4,3,3,Skilled Nursing Facility,1
+73,Female,Hypertension,8,9,3,Rehabilitation Facility,1
+49,Male,Heart Disease,8,9,0,Home,0
+79,Male,Diabetes,10,8,3,Rehabilitation Facility,1
+62,Male,Heart Disease,9,7,3,Home,1
+58,Female,COPD,10,15,1,Home,1
+91,Male,COPD,14,14,4,Home Health Care,1
+95,Female,COPD,7,10,1,Skilled Nursing Facility,1
+38,Female,Diabetes,2,2,0,Home,0
+51,Male,Heart Disease,3,7,1,Home Health Care,0
+49,Female,Hypertension,5,6,1,Home,0
+68,Male,Heart Disease,9,7,3,Home Health Care,1
+74,Male,COPD,4,8,0,Home,1
+51,Male,COPD,6,9,0,Home,0
+69,Male,Diabetes,10,9,3,Skilled Nursing Facility,1
+79,Female,Diabetes,9,9,3,Skilled Nursing Facility,1
+87,Male,Heart Disease,14,11,4,Skilled Nursing Facility,1
+67,Female,COPD,13,14,3,Home Health Care,1
+60,Male,COPD,5,6,1,Home Health Care,0
+81,Male,Diabetes,8,9,2,Rehabilitation Facility,1
+60,Male,COPD,12,12,4,Home Health Care,1
+58,Male,Heart Disease,9,13,2,Rehabilitation Facility,1
+63,Female,Heart Disease,6,11,0,Home Health Care,1
+76,Male,Kidney Disease,10,12,1,Home Health Care,1
+62,Male,COPD,5,8,0,Home,1
+50,Male,Heart Disease,3,8,0,Rehabilitation Facility,0
+76,Male,Diabetes,5,5,1,Home Health Care,1
+75,Male,Kidney Disease,8,9,2,Rehabilitation Facility,1
+72,Female,Diabetes,7,8,1,Home Health Care,0
+47,Male,Diabetes,2,5,0,Home Health Care,0
+67,Female,Diabetes,3,3,1,Home,0
+48,Male,COPD,8,9,1,Home,0
+51,Female,Heart Disease,7,7,1,Home,0
+58,Male,COPD,7,8,0,Home,0
+42,Female,COPD,4,6,1,Home Health Care,1
+59,Male,COPD,10,10,3,Skilled Nursing Facility,1
+58,Male,COPD,6,10,1,Home,1
+78,Male,Heart Disease,5,6,2,Rehabilitation Facility,0
+73,Male,Diabetes,4,6,1,Rehabilitation Facility,0
+92,Male,Hypertension,11,8,3,Skilled Nursing Facility,1
+56,Male,Hypertension,8,8,3,Rehabilitation Facility,1
+42,Female,Heart Disease,5,5,1,Rehabilitation Facility,0
+64,Female,Diabetes,2,4,1,Home Health Care,1
+77,Male,Heart Disease,11,13,3,Home Health Care,1
+79,Female,Heart Disease,9,10,3,Home Health Care,1
+59,Female,Diabetes,8,9,2,Rehabilitation Facility,1
+32,Female,Hypertension,4,7,0,Home,1
+74,Female,Heart Disease,7,5,3,Rehabilitation Facility,1
+51,Female,Hypertension,0,1,0,Home,0
+46,Male,Hypertension,7,8,3,Skilled Nursing Facility,1
+67,Male,Diabetes,7,7,2,Rehabilitation Facility,0
+77,Male,Diabetes,8,9,2,Rehabilitation Facility,1
+61,Female,Heart Disease,10,12,3,Skilled Nursing Facility,1
+66,Female,Hypertension,2,4,0,Home,0
+82,Female,COPD,4,7,1,Home Health Care,0
+72,Male,Kidney Disease,10,12,2,Skilled Nursing Facility,1
+33,Male,Heart Disease,4,7,0,Rehabilitation Facility,0
+61,Male,Heart Disease,14,13,4,Rehabilitation Facility,1
+48,Female,COPD,5,7,0,Home,0
+83,Male,Kidney Disease,14,13,4,Home Health Care,1
+64,Male,Heart Disease,4,7,0,Home,0
+66,Male,Heart Disease,8,8,3,Rehabilitation Facility,1
+92,Female,Heart Disease,4,7,1,Home,1
+35,Male,Diabetes,3,6,0,Home,0
+55,Male,Diabetes,11,10,3,Home,1
+79,Male,Kidney Disease,15,18,3,Home Health Care,1
+67,Male,Heart Disease,3,5,0,Home,0
+52,Female,Kidney Disease,5,5,1,Skilled Nursing Facility,0
+41,Male,Diabetes,7,9,1,Home Health Care,0
+81,Male,Hypertension,4,6,2,Rehabilitation Facility,1
+61,Male,Hypertension,7,5,2,Home,0
+43,Female,Heart Disease,5,5,2,Rehabilitation Facility,1
+71,Male,Kidney Disease,9,9,2,Home Health Care,0
+40,Female,Heart Disease,9,10,2,Skilled Nursing Facility,1
+58,Male,Diabetes,7,8,2,Home Health Care,1
+55,Male,Hypertension,5,4,0,Home Health Care,0
+52,Female,Heart Disease,9,10,0,Home,0
+75,Female,Diabetes,10,10,3,Home Health Care,1
+45,Female,Kidney Disease,2,5,0,Home,0
+55,Male,Heart Disease,7,9,2,Rehabilitation Facility,1
+43,Male,Heart Disease,7,5,2,Rehabilitation Facility,1
+76,Male,Kidney Disease,10,10,3,Home Health Care,1
+60,Male,Heart Disease,6,6,1,Home,1
+54,Female,COPD,5,7,1,Home,0
+75,Male,Diabetes,9,7,4,Rehabilitation Facility,1
+54,Male,Kidney Disease,9,12,0,Home Health Care,1
+57,Female,COPD,8,11,0,Home Health Care,1
+73,Male,Hypertension,7,10,2,Home Health Care,0
+65,Female,COPD,11,11,3,Rehabilitation Facility,1
+67,Male,Heart Disease,5,8,1,Home Health Care,1
+69,Female,Heart Disease,10,10,2,Rehabilitation Facility,1
+50,Male,COPD,9,10,1,Home,0
+62,Male,COPD,13,14,2,Home Health Care,1
+79,Female,Hypertension,12,11,3,Home,1
+45,Female,Hypertension,4,4,1,Skilled Nursing Facility,1
+62,Male,Kidney Disease,8,12,0,Home,0
+41,Male,COPD,10,13,3,Skilled Nursing Facility,1
+50,Female,COPD,3,7,0,Home,0
+71,Female,Hypertension,9,7,2,Home Health Care,0
+78,Female,Heart Disease,5,9,0,Home,0
+44,Female,Heart Disease,3,5,0,Home,0
+25,Male,Diabetes,2,2,0,Home,0
+46,Male,COPD,11,12,2,Home Health Care,1
+65,Female,Kidney Disease,5,8,1,Rehabilitation Facility,0
+95,Female,Hypertension,6,7,2,Rehabilitation Facility,1
+47,Male,Kidney Disease,7,9,1,Skilled Nursing Facility,0
+70,Male,Heart Disease,13,11,4,Skilled Nursing Facility,1
+58,Male,Heart Disease,13,12,3,Home Health Care,1
+84,Female,COPD,4,9,2,Home Health Care,1
+67,Male,Kidney Disease,4,5,1,Home Health Care,1
+50,Female,Heart Disease,10,13,1,Skilled Nursing Facility,1
+52,Female,Heart Disease,3,4,1,Home Health Care,0
+78,Female,Diabetes,10,9,3,Skilled Nursing Facility,1
+87,Male,Hypertension,7,7,2,Rehabilitation Facility,1
+64,Female,COPD,8,12,1,Home Health Care,1
+31,Male,Heart Disease,3,6,0,Home,0
+64,Male,COPD,10,10,3,Skilled Nursing Facility,1
+48,Female,Heart Disease,6,8,1,Home,0
+57,Male,Kidney Disease,10,12,1,Home Health Care,1
+46,Male,Hypertension,4,7,0,Home,0
+67,Male,Kidney Disease,6,12,0,Home Health Care,1
+56,Male,Diabetes,9,12,3,Rehabilitation Facility,1
+71,Female,Diabetes,8,6,3,Home Health Care,0
+35,Male,Heart Disease,8,9,1,Home Health Care,0
+81,Male,Heart Disease,4,5,1,Home,0
+76,Male,Hypertension,7,7,1,Home,0
+77,Female,Hypertension,4,5,2,Home Health Care,1
+44,Female,COPD,6,7,1,Home,1
+46,Male,Hypertension,2,3,1,Home,0
+66,Male,Hypertension,7,7,2,Rehabilitation Facility,0
+55,Male,Diabetes,7,10,0,Home Health Care,0
+79,Male,Heart Disease,6,8,1,Home Health Care,1
+49,Male,Heart Disease,4,4,1,Home,0
+62,Female,Diabetes,6,9,2,Rehabilitation Facility,0
+74,Male,COPD,13,12,3,Rehabilitation Facility,1
+63,Female,COPD,3,7,1,Skilled Nursing Facility,0
+57,Female,Diabetes,6,7,1,Home Health Care,0
+72,Female,Heart Disease,11,10,3,Home Health Care,1
+57,Male,Heart Disease,12,10,3,Skilled Nursing Facility,0
+66,Male,Heart Disease,6,9,1,Skilled Nursing Facility,1
+54,Male,Heart Disease,7,8,1,Home,1
+63,Female,Heart Disease,7,7,1,Home Health Care,1
+95,Female,Diabetes,12,11,4,Skilled Nursing Facility,1
+72,Female,Heart Disease,7,8,2,Home Health Care,1
+71,Female,Hypertension,9,8,4,Skilled Nursing Facility,1
+67,Male,Diabetes,9,10,3,Skilled Nursing Facility,0
+67,Female,COPD,10,10,2,Skilled Nursing Facility,1
+47,Male,Heart Disease,13,12,3,Rehabilitation Facility,1
+75,Female,Hypertension,2,4,1,Home Health Care,1
+62,Male,Kidney Disease,10,13,2,Home,0
+63,Male,Hypertension,6,7,1,Home Health Care,0
+75,Female,Diabetes,11,11,4,Rehabilitation Facility,1
+73,Female,COPD,11,14,1,Skilled Nursing Facility,0
+59,Male,Heart Disease,13,14,4,Home,0
+42,Male,Diabetes,7,7,2,Rehabilitation Facility,1
+71,Male,Diabetes,5,5,2,Home,1
+59,Female,Hypertension,6,5,2,Skilled Nursing Facility,0
+42,Male,Heart Disease,1,4,0,Home,0
+60,Male,Hypertension,3,3,1,Home Health Care,1
+69,Male,COPD,11,11,3,Rehabilitation Facility,1
+50,Female,Heart Disease,4,7,0,Home,0
+46,Female,Diabetes,4,6,1,Home,0
+74,Female,Diabetes,9,12,4,Home,1
+36,Male,Diabetes,2,4,0,Home,0
+40,Male,Hypertension,3,3,0,Skilled Nursing Facility,0
+49,Male,Heart Disease,10,9,2,Home Health Care,0
+54,Male,Kidney Disease,8,11,1,Rehabilitation Facility,0
+69,Male,Heart Disease,5,8,0,Home,0
+62,Female,Hypertension,5,4,1,Home Health Care,0
+64,Male,Heart Disease,5,7,1,Skilled Nursing Facility,1
+50,Male,Heart Disease,3,5,0,Home,0
+47,Female,Kidney Disease,8,9,0,Home,0
+54,Female,COPD,6,8,0,Home,1
+70,Male,COPD,14,15,4,Skilled Nursing Facility,1
+53,Female,COPD,5,8,0,Home Health Care,0
+33,Male,Heart Disease,7,9,0,Home,1
+66,Female,Heart Disease,6,5,2,Skilled Nursing Facility,1
+63,Male,COPD,9,11,1,Home Health Care,0
+50,Female,Hypertension,0,1,0,Home Health Care,0
+54,Male,COPD,3,4,1,Home Health Care,0
+41,Male,Heart Disease,4,8,0,Home,0
+67,Male,Kidney Disease,16,15,4,Skilled Nursing Facility,1
+41,Male,COPD,9,12,1,Home Health Care,1
+68,Female,Diabetes,4,7,1,Rehabilitation Facility,0
+82,Male,Heart Disease,6,7,0,Home,1
+50,Female,COPD,4,10,0,Home,0
+57,Male,Kidney Disease,8,7,1,Home,0
+60,Male,Kidney Disease,10,12,1,Home Health Care,1
+68,Male,Hypertension,6,7,1,Home,0
+95,Female,Diabetes,5,7,2,Rehabilitation Facility,0
+64,Male,Heart Disease,7,11,2,Rehabilitation Facility,1
+50,Female,COPD,7,11,0,Home,1
+80,Male,Heart Disease,8,11,2,Skilled Nursing Facility,0
+64,Male,Kidney Disease,9,11,2,Home Health Care,0
+31,Male,Heart Disease,2,5,0,Rehabilitation Facility,1
+78,Female,Diabetes,6,4,4,Skilled Nursing Facility,1
+37,Female,Kidney Disease,8,12,2,Skilled Nursing Facility,1
+74,Male,Diabetes,8,7,2,Rehabilitation Facility,0
+52,Male,COPD,10,14,1,Rehabilitation Facility,1
+50,Male,Hypertension,6,6,2,Home Health Care,0
+71,Male,Heart Disease,8,10,2,Rehabilitation Facility,1
+68,Male,Diabetes,4,6,1,Home Health Care,0
+61,Female,Diabetes,9,12,1,Skilled Nursing Facility,1
+74,Female,Diabetes,8,8,1,Home Health Care,1
+61,Female,Diabetes,6,9,1,Home,1
+70,Female,Heart Disease,12,8,4,Skilled Nursing Facility,1
+78,Female,Heart Disease,9,8,1,Home Health Care,1
+43,Male,Hypertension,7,8,1,Skilled Nursing Facility,1
+69,Female,COPD,6,8,0,Home Health Care,0
+35,Female,COPD,4,6,0,Home,1
+78,Male,Heart Disease,12,13,4,Home,1
+57,Female,Diabetes,5,9,0,Home,0
+47,Male,Diabetes,4,4,1,Skilled Nursing Facility,0
+51,Male,Heart Disease,9,11,2,Skilled Nursing Facility,1
+56,Female,Hypertension,9,8,3,Home,1
+68,Female,Diabetes,5,8,1,Home,0
+60,Male,Diabetes,7,8,2,Home Health Care,0
+49,Male,Kidney Disease,10,12,1,Skilled Nursing Facility,0
+64,Male,Kidney Disease,11,14,3,Rehabilitation Facility,1
+44,Male,Heart Disease,7,8,1,Home,0
+71,Female,Diabetes,16,14,4,Rehabilitation Facility,1
+34,Female,Heart Disease,10,14,1,Rehabilitation Facility,1
+95,Female,Diabetes,11,12,4,Rehabilitation Facility,1
+58,Female,Hypertension,6,7,1,Rehabilitation Facility,1
+31,Female,Heart Disease,8,8,1,Home,1
+51,Female,Kidney Disease,8,9,1,Home,0
+72,Male,Heart Disease,10,11,2,Rehabilitation Facility,1
+63,Female,Heart Disease,11,13,3,Rehabilitation Facility,1
+88,Female,Kidney Disease,11,13,2,Skilled Nursing Facility,1
+62,Female,Heart Disease,11,13,3,Home Health Care,1
+49,Male,Diabetes,5,6,1,Skilled Nursing Facility,0
+51,Female,Diabetes,8,8,1,Home,0
+59,Female,Kidney Disease,10,13,1,Rehabilitation Facility,1
+69,Male,Diabetes,7,8,1,Home Health Care,1
+67,Female,Heart Disease,9,11,2,Rehabilitation Facility,1
+65,Female,Diabetes,6,9,0,Home,0
+66,Female,Heart Disease,8,11,1,Home Health Care,0
+73,Male,Diabetes,6,4,2,Rehabilitation Facility,1
+95,Male,Diabetes,11,10,3,Rehabilitation Facility,1
+59,Male,Heart Disease,11,10,3,Skilled Nursing Facility,1
+69,Male,COPD,2,5,1,Home Health Care,0
+64,Female,COPD,8,8,1,Home Health Care,1
+64,Female,COPD,5,8,1,Home,1
+53,Male,COPD,9,11,1,Home Health Care,1
+58,Male,Diabetes,3,3,1,Rehabilitation Facility,0
+49,Female,Heart Disease,1,4,0,Home,0
+66,Female,Diabetes,12,13,3,Home,1
+63,Female,COPD,8,10,1,Home,0
+62,Female,Hypertension,5,3,2,Home,0
+35,Female,Heart Disease,4,6,0,Home,0
+51,Female,Heart Disease,9,10,2,Home,1
+76,Male,Diabetes,3,8,1,Skilled Nursing Facility,1
+76,Male,COPD,17,18,4,Rehabilitation Facility,1
+79,Male,Heart Disease,9,10,2,Rehabilitation Facility,1
+51,Male,Diabetes,0,1,0,Home,0
+70,Male,Diabetes,12,11,4,Rehabilitation Facility,1
+74,Male,Heart Disease,7,8,1,Home,1
+54,Male,Diabetes,2,2,0,Home,0
+35,Male,Hypertension,1,1,0,Home,0
+52,Male,Heart Disease,10,11,2,Skilled Nursing Facility,1
+59,Female,COPD,10,9,2,Home Health Care,1
+64,Female,Diabetes,10,14,1,Rehabilitation Facility,1
+60,Female,Diabetes,7,6,2,Skilled Nursing Facility,1
+59,Male,Kidney Disease,15,18,3,Skilled Nursing Facility,1
+62,Male,COPD,3,4,1,Home Health Care,0
+64,Female,Diabetes,3,2,0,Home,1
+73,Male,COPD,10,11,2,Home,1
+55,Male,Diabetes,5,5,1,Home,0
+54,Female,Diabetes,4,6,1,Home,0
+61,Male,Diabetes,11,11,3,Home,1
+56,Female,COPD,11,11,2,Skilled Nursing Facility,1
+48,Male,Kidney Disease,4,5,0,Home,0
+33,Female,Heart Disease,6,8,1,Home,0
+54,Female,Heart Disease,6,9,2,Rehabilitation Facility,0
+64,Female,Diabetes,9,9,2,Rehabilitation Facility,1
+59,Male,Heart Disease,6,11,1,Home Health Care,1
+55,Female,Hypertension,0,1,0,Home,0
+73,Male,COPD,11,10,3,Rehabilitation Facility,1
+71,Female,Diabetes,4,5,2,Home,0
+85,Male,Heart Disease,6,9,1,Home,0
+70,Female,Diabetes,6,6,1,Home Health Care,1
+89,Female,Kidney Disease,12,11,3,Skilled Nursing Facility,1
+54,Male,Diabetes,2,5,0,Home,0
+55,Female,Diabetes,2,4,1,Home,0
+43,Male,Diabetes,1,3,0,Home,0
+71,Male,Heart Disease,9,10,2,Rehabilitation Facility,1
+54,Female,Diabetes,4,8,1,Home,1
+48,Male,Diabetes,4,5,2,Skilled Nursing Facility,0
+66,Male,Heart Disease,9,11,2,Home Health Care,1
+56,Female,Heart Disease,9,7,2,Home,0
+62,Female,Kidney Disease,10,11,2,Rehabilitation Facility,1
+71,Male,Diabetes,5,7,2,Home,0
+61,Male,Diabetes,6,5,2,Home,1
+32,Female,Hypertension,3,4,0,Home,0
+22,Female,Diabetes,1,3,0,Home,0
+71,Male,Hypertension,7,6,2,Rehabilitation Facility,1
+60,Female,Heart Disease,4,7,1,Home Health Care,1
+35,Male,Kidney Disease,10,12,0,Rehabilitation Facility,0
+54,Male,COPD,9,11,1,Skilled Nursing Facility,0
+43,Female,Heart Disease,2,1,1,Home,0
+83,Male,Diabetes,6,7,2,Home,1
+85,Female,Hypertension,10,10,2,Home Health Care,0
+66,Male,COPD,7,8,0,Home,0
+63,Female,COPD,7,10,1,Home,0
+43,Female,Diabetes,0,1,0,Home,0
+57,Male,COPD,12,14,4,Skilled Nursing Facility,1
+71,Female,Hypertension,5,4,2,Skilled Nursing Facility,0
+53,Female,Kidney Disease,12,14,2,Home Health Care,1
+36,Female,Heart Disease,3,7,0,Skilled Nursing Facility,0
+54,Female,COPD,10,11,2,Skilled Nursing Facility,1
+46,Male,Heart Disease,3,4,0,Home,0
+46,Female,Diabetes,6,9,0,Home,0
+57,Female,Diabetes,4,5,2,Home Health Care,1
+70,Male,Diabetes,7,9,1,Home Health Care,0
+95,Female,Hypertension,7,4,2,Skilled Nursing Facility,1
+76,Female,Heart Disease,9,13,2,Rehabilitation Facility,1
+67,Female,Heart Disease,6,7,0,Home,1
+61,Male,Hypertension,5,5,2,Rehabilitation Facility,0
+58,Male,Heart Disease,11,11,2,Skilled Nursing Facility,1
+48,Female,Diabetes,1,3,0,Home,0
+65,Male,Kidney Disease,5,7,1,Skilled Nursing Facility,0
+70,Male,Diabetes,12,12,3,Rehabilitation Facility,1
+50,Female,Hypertension,5,5,1,Rehabilitation Facility,0
+64,Male,Heart Disease,9,12,3,Home Health Care,0
+92,Male,Diabetes,12,10,4,Skilled Nursing Facility,1
+60,Female,Hypertension,6,5,2,Rehabilitation Facility,1
+48,Male,Heart Disease,6,7,1,Home Health Care,0
+56,Male,Heart Disease,8,9,2,Rehabilitation Facility,0
+52,Male,Hypertension,4,4,1,Home,0
+78,Male,Diabetes,8,11,1,Rehabilitation Facility,0
+42,Male,Hypertension,4,4,2,Home Health Care,0
+44,Female,Kidney Disease,12,13,2,Rehabilitation Facility,1
+55,Male,Diabetes,8,8,2,Home Health Care,1
+70,Male,Kidney Disease,10,12,1,Rehabilitation Facility,1
+78,Male,Heart Disease,6,8,1,Home,0
+18,Male,Heart Disease,5,7,0,Home Health Care,0
+90,Male,COPD,6,5,2,Rehabilitation Facility,1
+93,Male,Heart Disease,11,12,2,Skilled Nursing Facility,1
+68,Male,Heart Disease,6,9,0,Home,0
+30,Male,COPD,4,8,0,Home,0
+40,Female,Heart Disease,10,11,2,Skilled Nursing Facility,0
+81,Male,COPD,7,12,1,Rehabilitation Facility,1
+70,Male,Diabetes,11,12,3,Skilled Nursing Facility,1
+95,Female,Heart Disease,8,9,2,Home Health Care,0
+57,Male,Diabetes,9,9,3,Home,1
+63,Female,Heart Disease,5,5,0,Home,0
+57,Male,Hypertension,10,10,2,Home,0
+61,Male,Heart Disease,3,4,0,Home,0
+64,Male,Heart Disease,6,9,1,Rehabilitation Facility,0
+79,Male,Kidney Disease,6,9,0,Home,0
+82,Female,COPD,16,16,4,Home Health Care,1
+72,Female,Heart Disease,13,14,3,Home Health Care,1
+56,Female,Kidney Disease,11,10,3,Rehabilitation Facility,1
+50,Male,Diabetes,4,5,1,Home Health Care,0
+82,Male,Heart Disease,9,11,3,Home,1
+62,Male,Diabetes,6,6,2,Home Health Care,1
+67,Female,Heart Disease,8,11,1,Rehabilitation Facility,1
+82,Female,COPD,8,8,2,Home Health Care,1
+58,Male,Diabetes,6,7,2,Home Health Care,1
+62,Male,Heart Disease,12,12,3,Rehabilitation Facility,1
+59,Male,COPD,8,11,2,Rehabilitation Facility,0
+79,Male,Kidney Disease,14,15,3,Rehabilitation Facility,1
+42,Male,Heart Disease,12,13,2,Home,0
+53,Female,COPD,4,8,0,Home Health Care,0
+68,Female,Hypertension,5,7,0,Home,0
+79,Female,Heart Disease,12,13,2,Rehabilitation Facility,1
+43,Female,COPD,11,12,1,Home Health Care,0
+95,Female,Diabetes,8,7,2,Rehabilitation Facility,0
+61,Male,Hypertension,3,3,1,Skilled Nursing Facility,0
+68,Male,Heart Disease,5,8,1,Home Health Care,0
+60,Male,COPD,8,11,0,Home,1
+56,Male,Hypertension,8,7,2,Rehabilitation Facility,1
+57,Female,Diabetes,10,11,3,Home Health Care,1
+46,Female,Diabetes,1,3,0,Rehabilitation Facility,0
+54,Female,COPD,7,9,1,Home,1
+37,Female,Kidney Disease,8,9,1,Home Health Care,0
+51,Male,COPD,9,11,1,Rehabilitation Facility,1
+66,Male,Heart Disease,7,8,1,Home,0
+73,Male,Hypertension,0,2,1,Rehabilitation Facility,0
+64,Female,Kidney Disease,8,10,1,Home Health Care,1
+79,Male,COPD,10,11,1,Home Health Care,1
+92,Male,Hypertension,9,9,2,Home Health Care,1
+56,Female,Hypertension,6,7,1,Home,0
+38,Male,COPD,7,10,0,Home,1
+73,Female,Diabetes,11,9,4,Home Health Care,1
+52,Male,Diabetes,7,7,2,Home Health Care,0
+40,Male,Diabetes,1,5,0,Home,0
+52,Female,Heart Disease,7,10,1,Home,1
+73,Female,Heart Disease,12,14,3,Home Health Care,1
+41,Female,Hypertension,6,9,1,Home Health Care,1

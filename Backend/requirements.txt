@@ -7,3 +7,6 @@ sqlalchemy
 
 
 cd "C:\Users\Admin\Documents\Software Development\ReAdmitAI\Frontend"
+
+
+uvicorn main:app --reload

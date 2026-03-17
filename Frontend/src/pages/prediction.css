@@ -109,6 +109,7 @@
   border-radius: 12px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
   max-width: 400px;
+  margin-left: 220px;
 }
 
 .prediction-result h2 {
@@ -140,6 +141,16 @@
   border-radius: 10px;
   background: linear-gradient(90deg, #00c6ff, #0072ff);
   transition: width 0.5s ease;
+}
+
+.risk-badge {
+  display: inline-block;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin: 10px 0;
 }
 
 /* Mobile responsiveness */

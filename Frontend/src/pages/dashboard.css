@@ -181,3 +181,74 @@ tr:hover {
   background: #cbd5e1;
   border-radius: 10px;
 }
+
+.dashboard-header p {
+  color: #888;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+.sidebar-footer {
+  margin-top: auto;
+  padding: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+.staff-info {
+  margin-bottom: 10px;
+}
+
+.staff-name {
+  font-weight: bold;
+  color: white;
+  font-size: 0.9rem;
+}
+
+.staff-role {
+  color: #94a3b8;
+  font-size: 0.8rem;
+  text-transform: capitalize;
+}
+
+.logout-btn {
+  width: 100%;
+  padding: 8px;
+  background: #ef4444;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.view-all-btn {
+  background: none;
+  border: 1px solid #2563eb;
+  color: #2563eb;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.predict-btn {
+  margin-top: 1rem;
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}

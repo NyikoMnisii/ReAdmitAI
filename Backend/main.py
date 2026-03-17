@@ -2,14 +2,10 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from database import engine
 import models
-from routers import auth
-
-# Create all tables
-models.Base.metadata.create_all(bind=engine)
+from routers import auth, predict, patients
 
 app = FastAPI(title="ReAdmitAI API")
 
-# CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173"],
@@ -18,10 +14,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Routers
 app.include_router(auth.router)
+app.include_router(predict.router)
+app.include_router(patients.router)
 
-# Health check
 @app.get("/")
 def root():
     return {"message": "ReAdmitAI API is running"}
