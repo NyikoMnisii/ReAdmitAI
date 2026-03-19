@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import api from "../api/axios";
-import "./Patients.css";
+import "./patients.css";
 
 const Patients = () => {
   const navigate = useNavigate();

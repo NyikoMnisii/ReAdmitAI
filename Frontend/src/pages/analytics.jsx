@@ -5,7 +5,7 @@ import {
 import { useState, useEffect, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import api from "../api/axios";
-import "./Analytics.css";
+import "./analytics.css";
 
 const COLORS = ["#ef4444", "#22c55e"];
 

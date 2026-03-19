@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import api from "../api/axios";
-import "./Dashboard.css";
+import "./dashboard.css";
 
 const Dashboard = () => {
   const navigate = useNavigate();
