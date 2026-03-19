@@ -8,7 +8,11 @@ app = FastAPI(title="ReAdmitAI API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "https://re-admit-ai-snowy.vercel.app",],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://readmitai-frontend.vercel.app",  # your main domain
+    ],
+    allow_origin_regex=r"https://.*\.vercel\.app",  # ← allows ALL vercel URLs
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
