@@ -9,10 +9,12 @@ models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="ReAdmitAI API")
 
+origins = os.getenv("CORS_ORIGINS", "*").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # ← temporarily allow ALL origins to test
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,  # ← change to False when using wildcard
     allow_methods=["*"],
     allow_headers=["*"],
 )
