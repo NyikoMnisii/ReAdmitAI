@@ -8,7 +8,7 @@ app = FastAPI(title="ReAdmitAI API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "https://re-admit-ai-up7j-98ra6fykm-nyiko-mnisis-projects.vercel.app",],
+    allow_origins=["http://localhost:5173", "https://re-admit-ai-up7j.vercel.app",],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
