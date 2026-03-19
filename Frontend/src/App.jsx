@@ -3,9 +3,9 @@ import { ErrorBoundary } from "react-error-boundary";
 import Login from "./pages/Login";
 import Dashboard from "./pages/dashboard";
 import ProtectedRoute from "./components/ProtectedRoute";
-import Patients from "./pages/Patients"; 
-import Prediction from "./pages/Prediction";
-import Analytics from "./pages/Analytics";
+import Patients from "./pages/patients"; 
+import Prediction from "./pages/prediction";
+import Analytics from "./pages/analytics";
 
 // 2. Simple fallback UI
 function ErrorFallback({ error, resetErrorBoundary }) {
