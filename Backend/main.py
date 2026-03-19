@@ -4,15 +4,14 @@ from database import engine
 import models
 from routers import auth, predict, patients
 
+# Create tables
+models.Base.metadata.create_all(bind=engine)
+
 app = FastAPI(title="ReAdmitAI API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "https://readmitai-frontend.vercel.app",  # your main domain
-    ],
-    allow_origin_regex=r"https://.*\.vercel\.app",  # ← allows ALL vercel URLs
+    allow_origins=["*"],  # ← temporarily allow ALL origins to test
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
