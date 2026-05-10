@@ -1,8 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from database import engine
-from Backend import models
-import os
+import models
 from routers import auth, predict, patients
 
 # Create tables
@@ -13,7 +12,7 @@ app = FastAPI(title="ReAdmitAI API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=False,  # ← MUST be False when allow_origins=["*"]
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
