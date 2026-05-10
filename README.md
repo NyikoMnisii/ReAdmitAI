@@ -118,16 +118,6 @@ source .venv/bin/activate  # Mac/Linux
 # Install dependencies
 pip install -r requirements.txt
 
-# Create .env file
-cp .env.example .env
-# Edit .env with your credentials
-```
-
-**.env file:**
-```env
-DATABASE_URL=postgresql://postgres:password@localhost:5432/readmission_db
-SECRET_KEY=your-super-secret-key
-```
 
 ```bash
 # Run the backend
