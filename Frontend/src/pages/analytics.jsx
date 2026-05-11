@@ -56,19 +56,38 @@ const Analytics = () => {
   }, [patients]);
 
   // ── Readmission trend by month ─────────────────────────
-  const readmissionTrend = useMemo(() => {
-    const monthCounts = {};
-    const monthNames  = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-    patients
-      .filter((p) => p.readmitted && p.created_at)
-      .forEach((p) => {
-        const month = monthNames[new Date(p.created_at).getMonth()];
-        monthCounts[month] = (monthCounts[month] || 0) + 1;
-      });
-    return monthNames
-      .filter((m) => monthCounts[m])
-      .map((month) => ({ month, value: monthCounts[month] }));
-  }, [patients]);
+const readmissionTrend = useMemo(() => {
+  const monthCounts = {};
+
+  const monthNames = [
+    "Jan","Feb","Mar","Apr","May","Jun",
+    "Jul","Aug","Sep","Oct","Nov","Dec"
+  ];
+
+  patients.forEach((p) => {
+    // adjust field names if needed
+    const isReadmitted =
+      p.readmitted === true ||
+      p.readmitted === 1 ||
+      p.readmitted === "Yes";
+
+    const dateField =
+      p.created_at ||
+      p.admission_date ||
+      p.createdAt;
+
+    if (isReadmitted && dateField) {
+      const month = monthNames[new Date(dateField).getMonth()];
+
+      monthCounts[month] = (monthCounts[month] || 0) + 1;
+    }
+  });
+
+  return monthNames.map((month) => ({
+    month,
+    value: monthCounts[month] || 0,
+  }));
+}, [patients]);
 
   // ── Risk segmentation ─────────────────────────────────
   const riskSegmentation = useMemo(() => {
