@@ -50,7 +50,7 @@
 .analytics-container {
   flex: 1;
   padding: 40px;
-  margin-left: 240px; 
+  margin-left: 240px;
 }
 
 /* HEADER */
@@ -171,6 +171,9 @@
 .patients-table {
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .patients-table th {

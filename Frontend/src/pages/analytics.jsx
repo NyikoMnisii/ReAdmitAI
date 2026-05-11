@@ -55,37 +55,26 @@ const Analytics = () => {
       .sort((a, b) => b.count - a.count);
   }, [patients]);
 
-  // ── Readmission trend by month ─────────────────────────
-const readmissionTrend = useMemo(() => {
-  const monthCounts = {};
-
-  const monthNames = [
-    "Jan","Feb","Mar","Apr","May","Jun",
-    "Jul","Aug","Sep","Oct","Nov","Dec"
-  ];
+  const diagnosisReadmission = useMemo(() => {
+  const counts = {};
 
   patients.forEach((p) => {
-    // adjust field names if needed
-    const isReadmitted =
-      p.readmitted === true ||
-      p.readmitted === 1 ||
-      p.readmitted === "Yes";
+    const key = p.primary_diagnosis || "Unknown";
 
-    const dateField =
-      p.created_at ||
-      p.admission_date ||
-      p.createdAt;
+    if (!counts[key]) {
+      counts[key] = { total: 0, readmitted: 0 };
+    }
 
-    if (isReadmitted && dateField) {
-      const month = monthNames[new Date(dateField).getMonth()];
+    counts[key].total += 1;
 
-      monthCounts[month] = (monthCounts[month] || 0) + 1;
+    if (p.readmitted) {
+      counts[key].readmitted += 1;
     }
   });
 
-  return monthNames.map((month) => ({
-    month,
-    value: monthCounts[month] || 0,
+  return Object.entries(counts).map(([name, data]) => ({
+    name,
+    value: data.readmitted
   }));
 }, [patients]);
 
@@ -162,22 +151,22 @@ const readmissionTrend = useMemo(() => {
         <section className="chart-grid">
           {/* TREND */}
           <div className="chart-card">
-            <h2>Readmission Trend</h2>
-            {readmissionTrend.length === 0 ? (
-              <p style={{ color: "#888", padding: "1rem" }}>No readmission data yet</p>
-            ) : (
-              <ResponsiveContainer width="100%" height={280}>
-                <LineChart data={readmissionTrend}>
-                  <CartesianGrid strokeDasharray="3 3" />
-                  <XAxis dataKey="month" />
-                  <YAxis />
-                  <Tooltip />
-                  <Line type="monotone" dataKey="value" stroke="#2563eb" strokeWidth={3} />
-                </LineChart>
-              </ResponsiveContainer>
-            )}
-          </div>
+  <h2>Readmissions by Diagnosis</h2>
 
+  {patients.length === 0 ? (
+    <p style={{ color: "#888", padding: "1rem" }}>No data yet</p>
+  ) : (
+    <ResponsiveContainer width="100%" height={280}>
+      <BarChart data={diagnosisReadmission}>
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="name" />
+        <YAxis />
+        <Tooltip />
+        <Bar dataKey="value" fill="#ef4444" radius={[6, 6, 0, 0]} />
+      </BarChart>
+    </ResponsiveContainer>
+  )}
+</div>
           {/* DIAGNOSIS */}
           <div className="chart-card">
             <h2>Top Diagnoses</h2>

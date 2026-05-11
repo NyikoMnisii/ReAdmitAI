@@ -13,9 +13,7 @@
 
 | Service | URL |
 |---|---|
-| Frontend | [https://re-admit-ai-snowy.vercel.app](https://re-admit-ai-snowy.vercel.app) |
-| Backend API | [https://readmitai.onrender.com](https://readmitai.onrender.com) |
-| API Docs | [https://readmitai.onrender.com/docs](https://readmitai.onrender.com/docs) |
+| Demo App| [https://re-admit-ai-snowy.vercel.app](https://re-admit-ai-snowy.vercel.app) ||
 
 ### Demo Credentials
 ```
